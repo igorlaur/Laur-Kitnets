@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> GETTING STARTED WITH BRACKETS</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+        
+    </head>
+
+	<header id="cabecalho"> <!--visualmente nada ocorre mas semânticamente meu site está muito bem construído -->
+		<hgroup> 			<!-- Tudo que estiver em hgroup será considerado um grupo de títulos. Não fará diferença visualmente, a diferença é semântica e o significado do HTML é muito importante. Logo, sempre que eu tiver um título que faz parte do mesmo grupo eu coloco em hgroup-->
+		<h1 align="center">Laur's Kitnets Corifeu USP</h1> <!-- Título vai H -->
+		<h2 align="center">Aluguel de kitnets		 </h2>
+		<h3 align="center">Av. Corifeu de Azevedo Marques, 929 - Butantã, São Paulo - SP</h3>
+		&nbsp; <!-- Parágrafo -->
+		</hgroup>
+
+	</header>
+	
+	<figure> <!-- serve para ajudar nas buscas de imagens pelo google. Adicionamos legendas em todas as nossas imagens, então se alguém pesquisar por kitnet e minha imagem ser relacionado a kitnet, a pessoa receberá minha imagem na busca de imagens do google. -->
+	<center> <!-- Faz a centralização da imagem -->
+		
+		<img src="C:\Users\igorl\Google Drive\Publicidade\Kitnet\Site\logomenor.jpg.jpg"height="100" width="100"> <!-- IMAGEM. Aqui eu informarei o caminho da minha imagem. Para pegar o caminho da imagem, clico com botão direito na img, propriedades, segurança e copio o caminho todo da imagem -->
+		
+		<figcaption>
+			<h3>kitnets</h3>
+			<p>Uma nova maneira de alugar kitnets.</p>
+		</figcaption>
+	</center>
+	</figure>
+	
+	<body>
+	<br/>
+	<br/>
+	<h4 align="center">Alugamos kitnets mobiliadas próximo a USP e metrô Butantã</h4>
+	<h5 align="center">NÃO TEMOS MAIS VAGAS DISPONÍVEIS. SEM PREVISÃO.</h5>
+	<br/>
+	<p><span style="font-weight:600">Proximidades:</p></span>
+	<p style="text-align: justify: text-indent: 50px">Ótima localização, na principal avenida do Butantã, com mercados, padarias, pizzarias, farmácias (Droga Raia) em frente o imóvel, sacolão Oba, fórum, bancos, academias, restaurantes, correios etc (tudo em menos de 500m).   </p>
+	
+    <ul>
+        <li>- 60 metros ponto de ônibus</li> 
+        <li>- 100 metros da delegacia de polícia.</li>  
+        <li>- 950 metros Portão de Pedestres da USP (Vila Indiana). </li>
+        <li>- 1.0km da Universidade São Judas Tadeu</li>
+        <li>- 1.0km do instituto butantã </li>
+        <li>- 1,5km do metrô butantã </li>
+        <li>- 3,5km do Estádio do Morumbi</li>
+	</ul>
+	<br/>
+
+
+	<p><span style="font-weight:600">Opções com:</p>
+	<p>- Smart TV;</p>
+	<p>- Internet 15mb e 30mb;</p>
+	<p>- Microondas, geladeira, fogão, armários e gaveta com chave;</p>
+	<p>- Lavanderia ;</p>
+	<p>- Tudo incluso (água, luz, internet e gás);</p>
+	<p>- Fácil acesso ao transporte público. </p>
+	
+	<br/>
+
+	<p><span style="font-weight:600">Kitnets a partir de R$1100</p></span>
+	
+	<p>Agende uma visita sem compromisso!</p>
+	
+	<p>Confira nossa página no facebook! 
+	@kitnetcorifeu
+	
+	ou acesse o link:
+	
+	https://www.facebook.com/kitnetcorifeu/</p>
+	
+	<br/>
+	<p>_______________________________________________________________</p>
+	<br/>
+	<h4 align="center">Kitnets for rent near USP and Butantã subway</h4>
+	
+	<p>Kitnets near USP and Butantã subway (yellow line)</p> 
+	
+	<p>Great location, in the main avenue of Butantã, with markets, bakeries, pizzerias, pharmacies (Droga Raia) in front of the property, Oba shawl, forum, banks, gyms, restaurants, post office etc (all in less than 500m).</p>
+	
+	<p>- 60 meters bus stop; </p>
+	<p>- 100 meters from police station</p>
+	<p>- 950 meters USP Pedestrian Gate (Vila Indiana); </p>
+	<p>- 1.0km from the butantan institute; </p>
+	<p>- 1.5km from the butantã subway; </p>
+	<p>- 3.5km from the Morumbi Stadium. </p>
+	
+	<br/>
+
+	<p>Options with: </p>
+	<p>- Smart TV; </p>
+	<p>- Internet 15mb and 30mb; </p>
+	<p>- Microwave, refrigerator, stove, cabinets and drawer with key; </p>
+	<p>- Laundry; </p>
+	<p>- All included (water, electricity, internet and gas); </p>
+	<p>- Easy access to public transport. </p>
+	
+	<br/>
+
+	Kitnets from R$1100
+	
+	Schedule a visit without compromise! 
+	
+	Check out our facebook page!
+	@kitnetcorifeu
+
+	</body>
+
+	<br/> <!-- Quebra de linha -->
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	
+
+	<p><b>Feliz aprender HTML</b></p>
+	<p><u>Estou feliz em aprender </u>HTML</p>
+	<p> <i> Feliz em aprender HTML</i></p>
+	<p><strike>Feliz em aprender HTML 	</strike></p>
+	<p>Feliz em <sub> aprender HTML 	</sub></p>
+	<p>Feliz em <sup> aprender HTML 	</sup></p>
+	
+</body>
+</html>
+
+
+
+
+
+

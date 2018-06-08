@@ -1,0 +1,177 @@
+
+	body{
+		background-image: url("sitesite.jpg");
+		background-color: rgb(7, 0, 65);
+		color: rgb(0, 0, 0); /* Cor das letras */
+	}
+
+	div#interface{ /* Interface de todas as informações que contém na página branca */
+		width: 1100px;
+		background-color: rgb(255, 255, 255);;
+		margin: 40px auto 10px auto; /* Margem */  /* Cima, Direita, Baixo, Esquerda */
+		box-shadow: 0px 0px 10px white;/* Cria uma sombra em volta do meu objeto */ /* Lateral, Vertical, Espalhamento da sombra, Cor da sombra */
+		padding: 10px 10px 10px 10px;/* Cima, Direita, Baixo, Esquerda */  /* Eu também poderia colocar apenas um 10px que o resultado seria exatamente o mesmo */
+	
+    }
+    
+    /*Logotipo cabeçalho*/
+    img#logotipo {
+	    margin: 0px 0px 0px;
+	    position: absolute;
+	    padding: 5px 0px 5px 10px;
+	    top: 40px; /* Para passar a posição absoluta */
+	    left: 200px; /* Para passar a posição absoluta */
+    }
+
+	p{
+        text-align: justify;
+        color: white;
+        font-size: 100%;
+	}
+	h1{ 
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 30;
+		color: black;
+        
+        
+	}
+	h2{ 
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 20;
+		color: black;
+
+    }
+    h3{
+		font-family: 'Times New Roman', Times, serif;
+		font-size: 10;
+        color: black;
+    }
+    h3#mercado{
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+    }
+    h3#universidades{
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+    }
+
+
+    header#cabecalho { 
+        border-bottom: 1px #606060 solid; /* Botamos uma linha solida no cabeçalho para conseguir diferenciar */
+        height: 80px;
+        background: url("C:\Users\igorl\Google Drive\Publicidade\Kitnet\Site\logo.jpg.jpg") no-repeat 0px 80px;
+        /* Colocar o logo */
+    }
+    
+    header#cabecalho h1{
+        font-family: Arial, sans-serif; /* Para colocar novas fontes google.com/fonts */
+        font-size: 30px;
+        color: #000000;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, .9) /*Sombra discreta Deslocamento, Deslocamento vertical, Espalhamento (bem clarinha). 60% */
+    }
+    header#cabecalho h2{
+        font-family: Arial, sans-serif;
+        color: #000000;
+        font-size: 15;
+        padding: 0px;
+        margin-top: 0px;
+        
+    }
+
+
+    
+/* Formatação do menu */ 
+
+nav#menu { /* Menu flutuar */
+	display: block; /* Queremos que meu bloco flutue, então em UL colocaremos a posição absoluta */
+}
+
+nav#menu ul{ /* # = ID */    /* Tudo que for "ul" */
+	list-style: none; /* Retira os marcadores */
+	text-transform: uppercase; /* Todas as letras estão em maiúsculas */ 
+	position: absolute; /* Para passar por cima dos meus documentos */
+	top: -20px; /* Para passar a posição absoluta */
+	left: 400px; /* Para passar a posição absoluta */
+}
+
+nav#menu li{ /* Cada um dos blocos cinzas é um LI */
+	display: inline-block; /* Faz com que um bloco seja exibido na mesma linha */
+	background-color: green; /* Cor de fundo das palavras */
+	padding: 10px; /* Espaço das cores */
+	transition: background-color 1s; /* Vou monitorar o background-color e o tempo da transição */ 
+
+}
+
+nav#menu li:hover{ /* Efeito quando eu mover o mouse em cima do LI */  /* Hover é o efeito quando passo o mouse por cima */
+	background-color: black;
+}
+nav#menu h1{ /* Formatação para o Menu Principal */
+	display: none; /* Agora não tem mais o Menu Principal */ 
+}
+
+
+nav#menu a{ /* Todo ID menu */
+	color: #ffffff; /* Todo ID menu vai ter cor preta */
+	text-decoration: none; /* para eu colocar underline e outros itens */
+}
+
+nav#menu a:hover{ /* Fazer com que o link mude de cor quando estiver na ativa sobre o mouse */
+	color: #ffffff;
+}
+
+
+/* BALÃO */
+/* Parte direita do site = COR, FONTE H, etc*/
+aside#mercado { /*Para movimentar a lateral*/
+    display: block;
+    width: 300px;
+    float: right;
+    padding-right: 30px;
+    background-color: #0a5800;
+    padding: 24px;
+    box-shadow: 2px 1px 10px; /* Movendo sombra da interface verde */; /* Movendo sombra da interface verde */
+}
+aside#mercado h2{
+    text-align: center;
+    color: white;
+}
+
+aside#lazer { /*Para movimentar a lateral*/
+    display: block;
+    width: 300px;
+    float: left;
+    padding-right: 30px;
+    background-color: #0a5800;
+    padding: 24px;
+    box-shadow: 2px 1px 10px; /* Movendo sombra da interface verde */; /* Movendo sombra da interface verde */
+}
+aside#lazer h2{
+    text-align: center;
+    color: white;
+}
+
+
+
+/* LINKs */
+a{
+    text-decoration: none;
+}
+a#endereco:hover{
+    text-decoration: underline;
+    text-decoration-color: blue; 
+}
+a#mapa:hover{
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+
+/* RODAPÉ */
+footer#rodape { /* Arrumo as sessões que estão flutuando corpo e lateral */
+	clear: both; /* Limpe as configurações dos dois lados */
+	border-top: 1px solid #606060 /* Borda e cima */
+}
+
+footer#rodape p{ /* Tudo que for parágrafo */
+	text-align: center; /* Fica centralizado */
+}
