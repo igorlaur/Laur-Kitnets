@@ -139,7 +139,7 @@ $produtos = array(
 
                 <br> <br> 
 
-                <a href="https://goo.gl/forms/MdEmQxzicCZTwe7q2" target="blank"><p>Envie seu documento</button></p>
+                <a href="https://goo.gl/forms/MdEmQxzicCZTwe7q2" target="blank"><p>Envie seu documento</button></p></a>
                 <style>
                     #btn{
                         background-color: black;
@@ -317,7 +317,7 @@ $produtos = array(
 
                     // Enviar E-mail
                     $mail->send();
-                    $confirmacao = 'Mensagem enviada com sucesso!';
+                    $confirmacao = 'Mensagem enviada com sucesso! Faremos análise do seu perfil, assim que aprovado entraremos em contato. Prazo de 1 dia útil.';
                 } catch (Exception $e) {
                     $confirmacao = 'A mensagem não pôde ser enviada, favor entrar em contato diretamente
                     via WhatsApp através do número (11) 95228-6097';

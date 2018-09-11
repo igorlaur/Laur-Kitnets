@@ -44,8 +44,8 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/diversos/butantan.jpg" alt="instituto-butantan"> <br> <br>
-                    <img src="img/diversos/instituto-butantan.jpg" alt="instituto-butantan">
+                    <img src="img/diversos/butantan.jpg" alt="Kitnet próximo ao Instituto Butantan"> <br> <br>
+                    <img src="img/diversos/instituto-butantan.jpg" alt="Kitnet próximo ao Instituto Butantan">
                 </div>
 
             </div>

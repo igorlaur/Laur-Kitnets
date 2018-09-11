@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/diversos/santander.jpg" alt="santander">
+                    <img src="img/diversos/santander.jpg" alt="Banco Santander imediações de Laur's Kitnets">
                 </div>
 
             </div>

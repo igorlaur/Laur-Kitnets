@@ -26,7 +26,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/atrações/vila-butantan.jpg" alt="vila-butantan">
+                    <img src="img/atrações/vila-butantan.jpg" alt="Kitnets próximo a Vila Butantan">
                 </div>
 
             </div>

@@ -32,7 +32,7 @@
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/universidades/sao judas.jpg" alt="sao-judas">
+                    <img src="img/universidades/sao-judas.jpg" alt="Kitnet próximo a Universidade São Judas Tadeu (USJT)">
                 </div>
 
             </div>

@@ -1,4 +1,11 @@
+<!doctype html>
+<html>
 <footer id="footer" class="small-12 columns no-padding">
+
+        <meta name="geo.region" content="BR-SP" />
+        <meta name="geo.placename" content="S&atilde;o Paulo" />
+        <meta name="geo.position" content="-23.572922;-46.723357" />
+        <meta name="ICBM" content="-23.572922, -46.723357" />
 
         <div class="global-page-container">
 
@@ -6,8 +13,8 @@
 
                 <div class="follow-us small-5 medium-3 small-offset-1 medium-offset-0 columns">
                     <h4 class="footer-section-title">Siga-nos</h4>
-                    <a href="https://www.facebook.com/kitnetcorifeu/?ref=bookmarks" target="blank"><img src="img/social-icons/facebook.svg" alt="facebook-icon"></a>
-                    <a href="https://www.instagram.com/kitnetusp/" target="blank"><img src="img/social-icons/instagram.svg" alt="facebook-icon"></a>
+                    <a href="https://www.facebook.com/kitnetcorifeu/?ref=bookmarks" target="blank" title="Facebook"><img src="img/social-icons/facebook.svg" alt="facebook-icon"></a>
+                    <a href="https://www.instagram.com/p/BlgxAF7h9Cj/?taken-by=kitnetusp" target="blank" title="Instagram"><img src="img/social-icons/instagram.svg" alt="facebook-icon"></a>
                 </div>
                 
                 <div class="contato small-5 medium-3 small-offset-1 medium-offset-0 columns">
@@ -15,19 +22,16 @@
                     <p>
                         Av. Corifeu de Azevedo Marques, 929<br>
                         São Paulo/SP<br>
-                        <a href="tel:11952286097" id="tel">T. (11) 95228-6097<a/><br>
+                        <a id="tel" class="horario-aberto" href="tel:11952286097" title="Telefone">
+                        T. (11) 95228-6097</a><br>
+                        <style>
+                            a#tel:hover{
+                                color: green; 
+                            }
+                        </style>
                         laur.kitnet@gmail.com
                     </p>
                 </div>
-                <style>
-                    #tel{
-                        font-weight: bold;
-                        color: #99ff99;
-                    }
-                    #tel:hover{
-                        color: white;
-                    }
-                </style>
                 
                 <div class="horario small-5 medium-3 small-offset-1 medium-offset-0 columns">
                     <h4 class="footer-section-title">Horários</h4>
@@ -48,10 +52,10 @@
                                 $texto_horario = '(Fechado agora)';
                                 $classe_horario = 'horario-fechado';
                             }
-                        } elseif ($dia_semana == 7){
+                        } /*elseif ($dia_semana == 7){
                             $texto_horario = '(Fechado agora)';
                             $classe_horario = 'horario-fechado';
-                        }
+                        }*/
                     ?>
                     <p><span class="<?php echo $classe_horario; ?>"><?php echo $texto_horario; ?></span><br>
                     Seg-Sáb: 09:00 - 20:00<br>
@@ -63,7 +67,7 @@
                     <div id="map"></div>
                 </div>
                 
-                <hr></hr>
+                <hr>
                 
                 <div class="copyright small-12 columns">
                     <?php $ano_atual = date("Y"); ?> <!-- Função Date pega o ano atual -->
@@ -139,3 +143,4 @@
         $(document).foundation();
     </script>
 </body>
+</html>

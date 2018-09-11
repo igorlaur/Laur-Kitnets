@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/mercados/Droga-Raia.png" alt="droga-raia">
+                    <img src="img/mercados/droga-raia-butanta.png" alt="Kitnet em frente a Droga Raia Butantã">
                 </div>
 
             </div>

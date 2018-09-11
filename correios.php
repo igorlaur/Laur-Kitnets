@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/diversos/correios.jpg" alt="vila-butantan">
+                    <img src="img/diversos/correios.jpg" alt="Kitnet próximo aos correios Butantã">
                 </div>
 
             </div>

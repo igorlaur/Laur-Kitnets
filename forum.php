@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/diversos/forumbutanta.jpg" alt="forum">
+                    <img src="img/diversos/forumbutanta.jpg" alt="Fórum próximo a Laur's Kitnets">
                 </div>
 
             </div>

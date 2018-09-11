@@ -5,6 +5,16 @@
                                                          -->
 <html class="no-js" lang="en">
     <head>
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-125555309-1');
+        </script>
+        
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Laur's Kitnets USP</title>
@@ -48,11 +58,11 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitluxo.php" id="disp">Kitnet Luxo</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="disp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" wm-link="kitpequena.php" id="indisp">Kitnet Pequena</a>
-                                            <a class="dropdown-item" wm-link="kitmedia.php" id="indisp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitgrande.php" id="indisp">Kitnet Grande</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
+                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us">Sobre</a></li>
@@ -101,11 +111,11 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitluxo.php" id="disp">Kitnet Luxo</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="disp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" wm-link="kitpequena.php" id="indisp">Kitnet Pequena</a>
-                                            <a class="dropdown-item" wm-link="kitmedia.php" id="indisp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitgrande.php" id="indisp">Kitnet Grande</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
+                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us">Sobre</a></li>

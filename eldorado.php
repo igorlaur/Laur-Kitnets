@@ -34,8 +34,8 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/atrações/eldorado.jpg" alt="eldorado"> <br> <br>
-                    <img src="img/atrações/eldorado_1.jpg" alt="horta-eldorado">
+                    <img src="img/atrações/shopping-eldorado.jpg" alt="Kitnet na Corifeu de Azevedo Marques, próximo ao Shopping Eldorado"> <br> <br>
+                    <img src="img/atrações/shopping-eldorado1.jpg" alt="Kitnet próximo ao Shopping Eldrado">
                 </div>
 
             </div>

@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/atrações/kadalora.jpg" alt="violeta">
+                    <img src="img/atrações/pizzaria-kadalora.jpg" alt="Kitnet no butantã próximo a pizzaria kadalora">
                 </div>
 
             </div>

@@ -21,8 +21,8 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/mercados/sacolao-oba.jpg" alt="sacola-oba"> <br> <br>
-                    <img src="img/mercados/sacolao-oba2.jpg" alt="sacola-oba">
+                    <img src="img/mercados/sacolao-oba.jpg" alt="Sacolão Oba, imediações de Laur's Kitnets"> <br> <br>
+                    <img src="img/mercados/sacolao-oba2.jpg" alt="Sacolão Oba, imediações de Laur's Kitnets">
                 </div>
 
             </div>

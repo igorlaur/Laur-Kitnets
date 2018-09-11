@@ -29,7 +29,7 @@
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/universidades/unidade-pinheiros.jpg" alt="unip">
+                    <img src="img/universidades/unip-pinheiros.jpg" alt="Kitnet próximo a UNIP">
                 </div>
 
             </div>

@@ -12,7 +12,7 @@
 
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
-                    <h3><img src="img/social-icons/mcdonalds.png" width="30">cDonald's</h3>
+                    <h3><img src="img/social-icons/mcdonalds-butanta.png" width="30">cDonald's</h3>
                     <h4>10 minutos a pé</h4>
                     <p>Adora lanches, fritas e um sorvete? Então partiu McDonald's! 🍔🍟🍦😍</a></p>
                     
@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/atrações/mcdonalds.jpg" alt="mcdonalds">
+                    <img src="img/atrações/mcdonalds-butanta.jpg" alt="Kitnet próximo ao McDonald's no Butantã, Laur's Kitnets">
                 </div>
 
             </div>

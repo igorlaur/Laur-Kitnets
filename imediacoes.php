@@ -4,7 +4,7 @@
         <div class="global-page-container">
             <div class="cardapio-title small-12 columns no-padding">
                 <h3>Imediações</h3>
-                <hr></hr>
+                <hr>
             </div>
 
             <div class="category-slider small-12 columns no-padding">
@@ -15,10 +15,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="usp.php">
+                                <a href="usp.php" title="USP">
                                     
                                     <div class="item-image">
-                                        <img src="img/universidades/usp.jpg" alt="cogumelos"/>   
+                                        <img src="img/universidades/usp-butanta.jpg" alt="Kitnet próximo a USP"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -37,10 +37,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="saojudas.php">
+                                <a href="saojudas.php" title="Universidade São Judas Tadeu (USJT)">
                                     
                                     <div class="item-image">
-                                        <img src="img/universidades/sao judas.jpg" alt="camaroes"/>   
+                                        <img src="img/universidades/sao-judas.jpg" alt="Kitnet próximo a Universidade São Judas Tadeu (USJT)"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -59,10 +59,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="unip.php">
+                                <a href="unip.php" title="UNIP">
                                     
                                     <div class="item-image">
-                                        <img src="img/universidades/unidade-pinheiros.jpg" alt="salada"/>   
+                                        <img src="img/universidades/unip-pinheiros.jpg" alt="Kitnet próximo a UNIP (Pinheiros)"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -88,20 +88,17 @@
                 <div class="slider-cardapio">
                     <div class="slider-002 small-12 small-centered columns">
 
-                        <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
+                    <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="metro.php">
+                                <a href="bike.php" title="Yellow Bike">
                                     
                                     <div class="item-image">
-                                        <img src="img/transporte/metro-butanta.jpg" alt="metro-butanta"/>   
+                                        <img src="img/transporte/bike-butanta.jpg" alt="Foto da yellow bike a próximo Laur's Kitnets"/>   
                                     </div>
 
                                     <div class="item-info">
-                                        
-                                    
-                                        <div class="title"><img src="img/social-icons/bus.png" width="40">      
-                                            3 min / 7 min - Metrô Butantã
-                                        </div>
+                                        <img src="img/social-icons/bike.png" width="50">
+                                        <div class="title">Espalhada a cada esquina - Yellow Bike</div>
                                     </div>
 
                                     <div class="gradient-filter">
@@ -113,15 +110,43 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="onibus.php">
+                                <a href="onibus.php" title="Transporte público Butantã">
                                     
                                     <div class="item-image">
-                                        <img src="img/transporte/onibus.JPG" alt="onibus"/>   
+                                        <img src="img/transporte/onibus.JPG" alt="Foto ônibus próximo Laur's Kitnets"/>   
                                     </div>
 
                                     <div class="item-info">
                                         <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
                                         <div class="title">1 min - Ponto de ônibus</div>
+                                    </div>
+
+                                    <div class="gradient-filter">
+                                    </div>
+                                    
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
+                            <div class="cardapio-item">
+                                <a href="metro.php" title="Metrô Butantã">
+                                    
+                                    <div class="item-image">
+                                        <img src="img/transporte/metro-butanta.jpg" alt="Kitnet próximo ao metrô butantã (linha amarela)"/>   
+                                    </div>
+
+                                    <div class="item-info">
+                                        
+                                        <div id="bus" class="title"><img src="img/social-icons/bus.png" width="40">  
+                                        <img id="bike" src="img/social-icons/bike.png" width="50">
+                                            3 a 5 min - Metrô Butantã
+                                        </div>
+                                        <style>
+                                            #bike{
+                                                padding: 0px 0px 7px;
+                                            }
+                                        </style>
                                     </div>
 
                                     <div class="gradient-filter">
@@ -144,10 +169,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="droga-raia.php">
+                                <a href="droga-raia.php" title="Farmácia Droga Raia Butantã">
                                     
                                     <div class="item-image">
-                                        <img src="img/mercados/Droga-Raia.png" alt="droga-raia"/>   
+                                        <img src="img/mercados/droga-raia-butanta.png" alt="Kitnet em frente a Droga Raia, Av. Corifeu"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -164,10 +189,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="sacolao-oba.php">
+                                <a href="sacolao-oba.php" title="Sacolão Oba">
                                     
                                     <div class="item-image">
-                                        <img src="img/mercados/sacolao-oba.jpg" alt="sacolao-oba"/>   
+                                        <img src="img/mercados/sacolao-oba.jpg" alt="Kitnet no Butantã em frente ao Sacolão Oba"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -184,10 +209,10 @@
 
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
-                                <a href="violeta.php">
+                                <a href="violeta.php" title="Supermercado violeta">
                                     
                                     <div class="item-image">
-                                        <img src="img/mercados/supermercado-violeta.jpg" alt="violeta"/>   
+                                        <img src="img/mercados/supermercado-violeta.jpg" alt="Kitnet na Corifeu próximo ao supermercado violeta"/>   
                                     </div>
 
                                     <div class="item-info">
@@ -212,10 +237,10 @@
                             <!-- Kadalora -->
                                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                     <div class="cardapio-item">
-                                        <a href="kadalora.php">
+                                        <a href="kadalora.php" title="Pizzaria Kadalora">
                                             
                                             <div class="item-image">
-                                                <img src="img/atrações/kadalora.jpg" alt="kadalora"/>   
+                                                <img src="img/atrações/pizzaria-kadalora.jpg" alt="Kitnet na Corifeu próximo a Pizzaria Kadalora"/>   
                                             </div>
     
                                             <div class="item-info">
@@ -230,10 +255,10 @@
                                 </div>
                                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                     <div class="cardapio-item">
-                                        <a href="mcdonalds.php">
+                                        <a href="mcdonalds.php" title="Mcdonald's">
                                             
                                             <div class="item-image">
-                                                <img src="img/atrações/mcdonalds.jpg" alt="mcdoanalds"/>   
+                                                <img src="img/atrações/mcdonalds-butanta.jpg" alt="Kitnet próximo ao mcdoanalds, Laur's Kitnets"/>   
                                             </div>
     
                                             <div class="item-info">
@@ -249,10 +274,10 @@
                             <!-- Eldorado -->
                                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                     <div class="cardapio-item">
-                                        <a href="eldorado.php">
+                                        <a href="eldorado.php" title="Shopping Eldorado">
                                             
                                             <div class="item-image">
-                                                <img src="img/atrações/Eldorado.jpg" alt="eldorado"/>   
+                                                <img src="img/atrações/shopping-eldorado.jpg" alt="Kitnet próximo ao Shopping Eldorado, Laur's Kitnets"/>   
                                             </div>
     
                                             <div class="item-info">
@@ -269,10 +294,10 @@
                             <!-- Vila Butantan -->
                                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                     <div class="cardapio-item">
-                                        <a href="vila-butantan.php">
+                                        <a href="vila-butantan.php" title="Vila Butantan">
                                             
                                             <div class="item-image">
-                                                <img src="img/atrações/vila-butantan.jpg" alt="vila-butantan"/>   
+                                                <img src="img/atrações/vila-butantan.jpg" alt="Kitnet próximo ao Vila Butantan"/>   
                                             </div>
     
                                             <div class="item-info">
@@ -300,10 +325,10 @@
 
                             <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                 <div class="cardapio-item">
-                                    <a href="correios.php">
+                                    <a href="correios.php" title="Correios Corifeu">
                                         
                                         <div class="item-image">
-                                            <img src="img/diversos/correios.jpg" alt="kadalora"/>   
+                                            <img src="img/diversos/correios.jpg" alt="Kitnet na Corifeu, próximo aos correios"/>   
                                         </div>
 
                                         <div class="item-info">
@@ -318,7 +343,7 @@
                             </div>
                             <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                 <div class="cardapio-item">
-                                    <a href="itau.php">
+                                    <a href="itau.php" title="Banco Itaú Corifeu">
                                         
                                         <div class="item-image">
                                             <img src="img/diversos/Itau.jpg" alt="forum"/>   
@@ -336,10 +361,10 @@
                             </div>    
                             <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                 <div class="cardapio-item">
-                                    <a href="santander.php">
+                                    <a href="santander.php" title="Banco Santander Corifeu">
                                         
                                         <div class="item-image">
-                                            <img src="img/diversos/santander.jpg" alt="forum"/>   
+                                            <img src="img/diversos/santander.jpg" alt="Kitnet no butantã próximo a bancos"/>   
                                         </div>
 
                                         <div class="item-info">
@@ -354,10 +379,10 @@
                             </div>            
                             <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                 <div class="cardapio-item">
-                                    <a href="forum.php">
+                                    <a href="forum.php" title="Fórum Corifeu">
                                         
                                         <div class="item-image">
-                                            <img src="img/diversos/forumbutanta.jpg" alt="forum"/>   
+                                            <img src="img/diversos/forumbutanta.jpg" alt="Kitnet no butantã próximo ao fórum"/>   
                                         </div>
 
                                         <div class="item-info">
@@ -372,10 +397,10 @@
                             </div>
                             <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                                 <div class="cardapio-item">
-                                    <a href="instituto-butanta.php">
+                                    <a href="instituto-butanta.php" title="Instituto Butantan">
                                         
                                         <div class="item-image">
-                                            <img src="img/diversos/butantan.jpg" alt="forum"/>   
+                                            <img src="img/diversos/butantan.jpg" alt="Kitnet no butantã"/>   
                                         </div>
 
                                         <div class="item-info">

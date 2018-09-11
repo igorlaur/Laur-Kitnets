@@ -1,11 +1,12 @@
 
 <?php include 'header.php'; ?>
+    <meta name="description" content="Kitnets para alugar no Butantã">
     <div class="welcome-gallery small-12 columns">
 
 
 
         <div class="photo-section small-12 columns">
-            <img class="homepage-main-photo" src="img/cardapio/kitnet-luxo.jpg" alt="slider imagem 1">
+            <img class="homepage-main-photo" src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet no Butantã USP">
         </div>
 
         <div class="main-section-title small-10 columns">
@@ -13,10 +14,8 @@
                 <div class="table-cell">
                     <h1>Bem vindo ao Laur's Kitnets USP</h1>
                     <h2>A procura de um lar? Temos o ideal para você!</h2>
-
                 </div>
             </div>
-            
         </div>
 
         <div class="photo-gradient">
@@ -30,7 +29,7 @@
         <div class="global-page-container">
             <div class="cardapio-title small-12 columns no-padding">
             <h3>Nossas Kitnets</h3>
-            <hr></hr>
+            <hr>
             </div>
         </div>
 
@@ -42,16 +41,16 @@
 
                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetluxo"> 
                         <div class="cardapio-item">
-                            <a href="kitluxo.php">
+                            <a href="kitnet-luxo.php" title="Kitnet luxo">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/cardapio/kitnet-luxo.jpg" alt="salmao"/>   
+                                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Luxo (disponível)</div>
+                                <div class="title">Kitnet Luxo (disponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -63,10 +62,10 @@
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetgrande"> 
                         <div class="cardapio-item">
-                            <a href="kitgrande.php">
+                            <a href="kitnet-grande.php" title="Kitnet Grande">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/cardapio/kit-grande-tv.jpeg" alt="cheesecake"/>   
+                                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv.jpeg" alt="Kitnet grande no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">
@@ -84,10 +83,10 @@
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetmedia"> 
                         <div class="cardapio-item">
-                            <a href="kitmedia.php">
+                            <a href="kitnet-media.php" title="Kitnet Média">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/cardapio/kitnet-media.jpeg" alt="barbecue"/>   
+                                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media.jpeg" alt="Kitnet no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">
@@ -106,10 +105,10 @@
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetpequena"> 
                         <div class="cardapio-item">
-                            <a href="kitpequena.php">
+                            <a href="kitnet-pequena.php" title="Kitnet Pequena">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/cardapio/kitnet-pequena-porta.jpg" alt="camarao"/>   
+                                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-porta.jpg" alt="Kitnet no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">
@@ -136,11 +135,11 @@
             <div class="global-page-container">
                 <div id="about-us" class="about-us-title small-12 columns no-padding">
                 <h3>Sobre Nós</h3>
-                <hr></hr>
+                <hr>
                 </div>
 
                 
-                    <img src="img/logo.jpg.jpg" alt="fachada de laur's kitnets">
+                    <img src="img/logo.jpg.jpg" alt="Fachada de laur's kitnets">
                 
 
                 <div class="about-us-text">
@@ -172,34 +171,34 @@
         margin-left: 15px;
     }
     </style>
-    <div class="cardapio small-12 large-12 columns no-padding small-centered" id="imediacoes">
+    <div class="cardapio small-12 large-12 medium-12 columns no-padding small-centered" id="imediacoes">
         <div class="global-page-container">
             <div class="cardapio-title small-12 columns no-padding">
             <br> <br>
                 <h3 id="imediacao">Imediações</h3>
-            <hr></hr>
+            <hr>
             </div>
         </div>
             
     <div class="card-deck">
-        <!-- USP -->
+        <!-- USP col-12 col-sm-6 col-md-4 col-lg-2 col-xl-1-->
         <div class="card">
             <div class="panel-heading">
                 <h3 class="panel-title" id="laranja">Universidades</h3>
             </div>
-                <img class="card-img-top" src="img/universidades/usp.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/universidades/usp-butanta.jpg" alt="Kitnet próximo a USP, Laur's Kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Universidade de São Paulo (USP)</h5>
-                <p class="card-text">A USP é considerada a 2º melhor
+                <p class="card-text">A USP é considerada a 2º melhor universidade
                         da América do Sul. A entrada mais próxima está há 1km de Laur's kitnets</p>
                 </div>
                 <a href="https://bit.ly/2uOwNOL">
                 <div class="card-footer">
-                    <small class="text-primary">1.0km - Clique aqui e veja a Rota</small>
+                    <small class="text-primary">1.0km - Clique aqui e veja a Rota até a USP</small>
                 </div>
                 </a>
         <!-- São Judas -->
-                <img class="card-img-top" src="img/universidades/sao judas.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/universidades/sao-judas.jpg" alt="Kitnet próximo a Universidade São Judas, Laur's Kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Universidade São Judas Tadeu (USJT)</h5>
                 <p class="card-text">A São Judas é uma instituição com pouco mais de 40 anos
@@ -208,7 +207,7 @@
                 </div>
                 <a href="https://bit.ly/2A8vwXP">
                 <div class="card-footer">
-                    <small class="text-primary">1.0km - Clique aqui e veja a Rota</small>
+                    <small class="text-primary">1.0km - Clique aqui e veja a Rota a São Judas</small>
                 </div>
                 </a>
             </div>
@@ -219,13 +218,13 @@
                     <h3 class="panel-title" id="laranja">Transporte</h3>
                 </div>
             <!-- Ônibus -->
-                <img class="card-img-top" src="img/transporte/onibus.JPG" alt="Card image cap">
+                <img class="card-img-top" src="img/transporte/onibus.JPG" alt="Transporte público butantã de Laur's Kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Ônibus</h5>
                 <p class="card-text">São diversos os ônibus que passam em frente o imóvel, caso opte ir
                     de ônibus ao metrô, pode pegar qualquer um que te levará, em no máximo 3 minutos. 
                 </p>
-                <p><a href="onibus.php">Clique aqui</a> para ver a tabela de ônibus da região.</p>
+                <p><a href="onibus.php" title="Transporte público butantã">Ver a tabela de ônibus</a> da região.</p>
                 <!-- 
                 <table class="table">
                         <thead class="thead-dark">
@@ -326,7 +325,7 @@
                 </div>
                 </a>
             <!-- Metrô -->
-                <img class="card-img-top" src="img/transporte/metro-butanta.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/transporte/metro-butanta.jpg" alt="Kitnet próximo ao Metrô Butantã, Laur's Kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Metrô Butantã</h5>
                 <p class="card-text">Excelente localização, estamos bem próximo a linha amarela. 
@@ -335,7 +334,7 @@
                 <li>3 minutos de ônibus;</li>
                 <li>15 a 20 minutos a pé.</li>
                 </div>
-                <a href="https://bit.ly/2AhYxkf" target="blank">
+                <a href="https://bit.ly/2AhYxkf" target="blank" title="Rota ao metrô butantã">
                 <div class="card-footer">
                     <small class="text-primary">Clique e veja a rota até o Metrô Butantã</small>
                 </div>
@@ -348,19 +347,19 @@
                 <h3 class="panel-title" id="laranja">Mercados</h3>
             </div>
             <!-- Sacolão Oba -->
-                <img class="card-img-top" src="img/mercados/sacolao-oba2.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/mercados/sacolao-oba2.jpg" alt="Sacolão Oba, imediações de Laur's Kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Sacolão Oba</h5>
                 <p class="card-text">Precisa economizar tempo para preparar sua comida? Fazer sua compra mensal?
                         Nada melhor do que ter excelentes mercados "na porta" do imóvel! </p>
                 </div>
-                <a href="https://bit.ly/2LORuk2" target="blank">
+                <a href="https://bit.ly/2LORuk2" target="blank" title="Rota ao Sacolão Oba">
                 <div class="card-footer">
                     <small class="text-primary">90 metros - Clique aqui para ver a Rota</small>
                 </div>
                 </a>
             <!-- Violeta -->
-                <img class="card-img-top" src="img/mercados/supermercado-violeta.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/mercados/supermercado-violeta.jpg" alt="Supermercado Violeta, imediações de Laur's kitnets">
                 <div class="card-body">
                 <h5 class="card-title">Supermercado Violeta</h5>
                 <p class="card-text">Precisa economizar tempo para preparar sua comida?
@@ -368,7 +367,7 @@
                 </div>
                 <a href="https://bit.ly/2NIRnXR" target="blank">
                 <div class="card-footer">
-                    <small class="text-primary">500 metros - Clique aqui para ver a Rota</small>
+                    <small class="text-primary">500 metros - Clique aqui para ver a Rota até o Violeta</small>
                 </div>
                 </a>
             </div>
@@ -379,7 +378,7 @@
                 </div>
 
                 <!-- Vila Butantan -->
-                <img class="card-img-top" src="img/atrações/vila-butantan.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/atrações/vila-butantan.jpg" alt="Vila Butantan, imediações de Laur's Kitnets">
                 <div class="card-body">
                     <h5 class="card-title">Vila Butantan</h5>
                     <p class="card-text">Quer morar em um local com entretenimento próximo a você? Venha para Laur's Kitnets USP.
@@ -394,12 +393,13 @@
                 </a>
 
                 <!-- Kadalora -->
-                <img class="card-img-top" src="img/atrações/kadalora.jpg" alt="Card image cap">
+                <img class="card-img-top" src="img/atrações/pizzaria-kadalora.jpg" alt="Pizzaria Kadalora, imediações de Laur's Kitnets">
                 <div class="card-body">
                     <h5 class="card-title">Pizzaria Kadalora</h5>
                     <p class="card-text">
                         Que tal reunir os amigos para comer uma deliciosa pizza na 
-                        <a href="https://www.instagram.com/kadalorapizza/" target="blank">@kadalorapizza 🍕😋 </a>
+                        <a href="https://www.instagram.com/kadalorapizza/" target="blank" title="Rota à pizzaria Kadalora">
+                        @kadalorapizza 🍕😋 </a>
                     </p>
                 </div>
                 <a href="https://bit.ly/2NJdyNE" target="blank">
@@ -415,8 +415,8 @@
 
     <div class="global-page-container">
         <div class="contact-us-title small-12 columns no-padding">
-        <h3>Faça a sua reserva <a href="reserva.php">clicando aqui!</a></h3>
-        <hr></hr>
+        <h3><a href="reserva.php" title="Faça sua reserva">Faça a sua reserva já!</a></h3>
+        <hr>
     </div>
 </div>
     <?php include 'footer.php'; ?>

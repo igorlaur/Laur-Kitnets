@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/diversos/itau.jpg" alt="santander">
+                    <img src="img/diversos/itau.jpg" alt="Banco Itaú imediações de Laur's Kitnets">
                 </div>
 
             </div>
