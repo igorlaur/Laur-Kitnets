@@ -1,6 +1,6 @@
 
 <?php include 'header.php'; ?>
-    <meta name="description" content="Kitnets para alugar no Butantã">
+    <meta name="description" content="Kitnets executiva para alugar no Butantã">
     <div class="welcome-gallery small-12 columns">
 
 

@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+<meta name="description" content="Kitnet grande para alugar no Butantã">
 <div class="ghost-element">
     </div>
     <style> 
@@ -6,6 +7,7 @@
             padding: 0px;
         }
     </style>
+    
     <div class="product-page small-11 large-12 columns no-padding small-centered" id="espacamento">
         
         <div class="global-page-container">
@@ -13,19 +15,19 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitgrande = array("kitnet-grande" => array(
-                                                            "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                                                            "bonus" => "<li>Internet 30mb e 15mb;</li> <li>Smart TV 32''."
-                                    )
-                ); ?>
+                    "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão e armários.</li> <br>",
+                    "bonus" => "<li>Internet 30mb e 15mb;</li> <li>Smart TV 32''."
+                )); ?>
                     
-                    <?php foreach ($kitgrande as $produto){ ?>
+                    <?php foreach ($kitgrande as $produto) { ?>
                         <h3>Kitnet Grande</h3>
                         <h4>Contém</h4>
                         <?php echo $produto["contem"]; ?>
                     
                         <h4>Bônus</h4>
                         <?php echo $produto["bonus"]; ?>
-                    <?php } ?> 
+                    <?php 
+                } ?> 
 
                     <br> <br>
 

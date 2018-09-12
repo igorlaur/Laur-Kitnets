@@ -5,6 +5,21 @@
                                                          -->
 <html class="no-js" lang="en">
     <head>
+            <!-- Meta -->
+        <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+        <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
+        <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp,
+        kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta"> 
+        <meta name="application-name" content="Laur's Kitnets Corifeu USP">
+            <!-- Meta de Reload da página -->
+        <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
+        <script>
+            function sorteioNumero() {
+                resultado.innerHTML //innerHTML = Escrever algo dentro de um elemento
+            }
+        </script>
+        
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>

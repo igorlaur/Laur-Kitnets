@@ -1,5 +1,6 @@
 <?php include 'header.php'; ?>
 <html class="no-js" lang="en">
+<meta name="description" content="Kitnet luxo para alugar no Butantã">
     <!--<head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -27,12 +28,11 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                     <?php $kitluxo = array("kit-luxo" => array(
-                                                    "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
-                                                    "bonus" => "<li>Internet 30mb e 15mb;</li> <li>Smart TV 32'; <li>Ventilador;</li> <li>Cafeteira;</li> <li>Sofá;</li> <li>Sacada;</li> <li>Cozinha americana;</li>"
-                                    )
-                    ); ?>
+                        "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
+                        "bonus" => "<li>Internet 30mb e 15mb;</li> <li>Smart TV 32'; <li>Ventilador;</li> <li>Cafeteira;</li> <li>Sofá;</li> <li>Sacada;</li> <li>Cozinha americana;</li>"
+                    )); ?>
 
-                    <?php foreach ($kitluxo as $produto){ ?>
+                    <?php foreach ($kitluxo as $produto) { ?>
                         
                         <h3 id="kitluxo">Kitnet Luxo</h3>
                         <h4>Contém</h4>
@@ -41,7 +41,8 @@
                         <h4>Bônus</h4>
                         <?php echo $produto["bonus"]; ?>
 
-                    <?php } ?>
+                    <?php 
+                } ?>
 
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1700.00</h5>

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
     <div class="ghost-element">
     </div>
+    <meta name="description" content="Kitnet para alugar no Butantã">
     <style> 
         #espacamento{
             padding: 0px;
