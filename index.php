@@ -1,6 +1,31 @@
 
 <?php include 'header.php'; ?>
     <meta name="description" content="Kitnets executiva para alugar no Butantã">
+    
+    <?php 
+    $produtos = array(
+        array(
+            'nome' => 'Kitnet Pequena',
+            'estoque' => 0
+        ),
+
+        array(
+            'nome' => 'Kitnet Média',
+            'estoque' => 0
+        ),
+
+        array(
+            'nome' => 'Kitnet Grande',
+            'estoque' => 0
+        ),
+
+        array(
+            'nome' => 'Kitnet Luxo',
+            'estoque' => 1
+        )
+    )
+    ?>
+    
     <div class="welcome-gallery small-12 columns">
 
 
@@ -49,16 +74,18 @@
 
                                 <div class="item-info">
                                     
-                                
-                                <div class="title">Kitnet Luxo (disponível)</div>
+                                  
+                                <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
+                                Kitnet Luxo (previsão 01/11/18)</div>
                                 </div>
-
+                                
                                 <div class="gradient-filter">
                                 </div>
                                 
                             </a>
                         </div>
                     </div>
+                    
 
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetgrande"> 
                         <div class="cardapio-item">
@@ -71,7 +98,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Grande</div>
+                                    <div class="title">Kitnet Grande (indisponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -92,7 +119,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média</div>
+                                    <div class="title">Kitnet Média (indisponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -114,7 +141,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Pequena</div>
+                                    <div class="title">Kitnet Pequena (indisponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -170,6 +197,7 @@
         padding: 0px;
         margin-left: 15px;
     }
+    
     </style>
     <div class="cardapio small-12 large-12 medium-12 columns no-padding small-centered" id="imediacoes">
         <div class="global-page-container">
@@ -186,7 +214,7 @@
             <div class="panel-heading">
                 <h3 class="panel-title" id="laranja">Universidades</h3>
             </div>
-                <img class="card-img-top" src="img/universidades/usp-butanta.jpg" alt="Kitnet próximo a USP, Laur's Kitnets">
+                <img class="card-img-top" src="img/universidades/usp-butanta.jpg" alt="Kitnet próximo a USP, Laur's Kitnets" title="Foto da kitnet próximo a USP">
                 <div class="card-body">
                 <h5 class="card-title">Universidade de São Paulo (USP)</h5>
                 <p class="card-text">A USP é considerada a 2º melhor universidade
@@ -415,7 +443,7 @@
 
     <div class="global-page-container">
         <div class="contact-us-title small-12 columns no-padding">
-        <h3><a href="reserva.php" title="Faça sua reserva">Faça a sua reserva já!</a></h3>
+        <h3><a href="reserva.php" title="Faça sua reserva">Faça seu pré-cadastro já!</a></h3>
         <hr>
     </div>
 </div>
@@ -443,8 +471,12 @@
             color: #ff0000;
         }
         #kitnetluxo div{
+            /*color: rgb(254, 137, 0);*/
             color: rgb(43, 255, 0); 
-           /* color: #ff0000; */
+            /* color: #ff0000; */
+        }
+        #airbnb{
+            color: blue;
         }
     </style>
 

@@ -46,8 +46,13 @@
 
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1700.00</h5>
-                    <a href="reserva.php"><button id="btn">Rerservar já!</button></a> 
+                    <a href="reserva.php"><button id="btn">Rerservar diretamente!</button></a> 
+                    <a href="https://bit.ly/2QRSgQq" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
+                    <br> <br>
+                    <h5>*Apenas esta Kitnet é possível reservar via Airbnb</h5>
                 </div>
+
+                
                 <style>
                     #btn{
                         background-color: green;
@@ -55,24 +60,30 @@
                     #btn:hover{
                         background-color: rgb(0, 102, 26);
                     }
+                    #btnairbnb{
+                        background-color: #FF5500;
+                    }
+                    #btnairbnb:hover{
+                        background-color: orange;
+                    }
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-sala.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala-tv.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala2.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-cozinha.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-cozinha-cafeteira.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-cozinha1.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-varanda.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto2.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto3.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto4.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto5.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-banheiro.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-sala.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala-tv.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-sala2.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-cozinha.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-cozinha-cafeteira.JPG" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-cozinha1.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-varanda.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto2.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto3.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto4.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-quarto5.jpeg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo-banheiro.jpg" alt="Kitnet executiva no butantã próximo ao Metrô / USP" title="Foto da Kitnet executiva no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
 
             </div>

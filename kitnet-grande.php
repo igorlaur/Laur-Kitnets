@@ -39,11 +39,11 @@
                 
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv-horizontal.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-cozinha.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-cama.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-banheiro.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv-horizontal.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-cozinha.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-cama.jpeg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-banheiro.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
 
             </div>

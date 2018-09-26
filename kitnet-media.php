@@ -40,12 +40,12 @@
                 
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media2.jpg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-tv.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-cozinha.jpg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-geladeira.jpg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-banheiro.jpg" alt="Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media2.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-tv.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-cozinha.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-geladeira.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-banheiro.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
 
             </div>

@@ -13,11 +13,9 @@
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
-        <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
+        <meta http-equiv="refresh" content="30"> <!-- 4 segundos -->
         <script>
-            function sorteioNumero() {
-                resultado.innerHTML //innerHTML = Escrever algo dentro de um elemento
-            }
+
         </script>
         
             <!-- Global site tag (gtag.js) - Google Analytics -->
