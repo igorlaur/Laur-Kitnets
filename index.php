@@ -479,6 +479,18 @@
             color: blue;
         }
     </style>
+    <script>
+		$(function (e) {
+			$('div #about-us').click(function (e) { // Quando eu clicar no segundo elemento, chamo o evento click
+				$('html, body').animate({ scrollTop: 0 }, 1000); // Evento de animação. 300px, 1000 = 1 segundo
+			});
+
+			$('nav li:first-child').click(function (e) {
+				$('html, body').animate({ scrollTop: 500 }, 1000);
+			});
+		});
+
+	</script>
 
 </body>
 

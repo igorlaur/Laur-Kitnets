@@ -78,14 +78,26 @@
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
-                                    <li><a href="index.php#about-us">Sobre</a></li>
+                                    <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="index.php#footer">Contato</a></li>
+                                    <li><a href="index.php#footer" id="contato">Contato</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
+                    <script src="jquery-3.2.1.min.js"></script>
+                    <script>
+        $(function () {
+            $('li #sobre').click(function (e) {
+				$('html, body').animate({ scrollTop: $('#about-us').offset().top }, 1000); // Adaptando ao heigh
+            });
+            $('li #contato').click(function (e) {
+                $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000)
+            });
+        });
+
+    </script>
                     
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
@@ -131,15 +143,15 @@
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
-                                    <li><a href="index.php#about-us">Sobre</a></li>
+                                    <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="index.php#footer">Contato</a></li>
+                                    <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
+                                
                                 </ul>
                             </div>
-                        </div>
-                        
+                        </div>     
                     </div>                           
                 </div>
             </div>
@@ -153,7 +165,7 @@
         <main class="p-0" wm-link-destino></main>
     <!-- padding 3 -->
 
-    <script src="js/jquery.min.js"></script>
+    <script src="jquery-3.2.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/navegacao.js"></script>
