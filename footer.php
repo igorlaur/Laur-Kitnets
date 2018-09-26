@@ -38,21 +38,21 @@
                     
                     <?php
 
-                        $dia_semana = date('w'); // Vai me retornar um dia de 1 a 7 (segunda a domingo)
-                        $agora = strtotime('now'); // Retorna a hora exata do computador;
-                        $inicio_dia = strtotime('today'); // Me retorna a quantidade de segundos desde o primeiro segundo do dia
-                        
-                        $hora_atual = $agora - $inicio_dia; // Com isso eu tenho exatamente a quantidade de segundos desde o início do dia de hoje
+                    $dia_semana = date('w'); // Vai me retornar um dia de 1 a 7 (segunda a domingo)
+                    $agora = strtotime('now'); // Retorna a hora exata do computador;
+                    $inicio_dia = strtotime('today'); // Me retorna a quantidade de segundos desde o primeiro segundo do dia
 
-                        if ($dia_semana >= 1 && $dia_semana <= 6){ // estamos entre segunda e sexta-feira
-                            if ($hora_atual >= 32400 && $hora_atual <= 72000){ // 9h * 60min = 540 * 60s = 32.400 segundos
-                                $texto_horario = '(Aberto agora)';
-                                $classe_horario = 'horario-aberto';
-                            } else {
-                                $texto_horario = '(Fechado agora)';
-                                $classe_horario = 'horario-fechado';
-                            }
-                        } /*elseif ($dia_semana == 7){
+                    $hora_atual = $agora - $inicio_dia; // Com isso eu tenho exatamente a quantidade de segundos desde o início do dia de hoje
+
+                    if ($dia_semana >= 1 && $dia_semana <= 6) { // estamos entre segunda e sexta-feira
+                        if ($hora_atual >= 32400 && $hora_atual <= 72000) { // 9h * 60min = 540 * 60s = 32.400 segundos
+                            $texto_horario = '(Aberto agora)';
+                            $classe_horario = 'horario-aberto';
+                        } else {
+                            $texto_horario = '(Fechado agora)';
+                            $classe_horario = 'horario-fechado';
+                        }
+                    } /*elseif ($dia_semana == 7){
                             $texto_horario = '(Fechado agora)';
                             $classe_horario = 'horario-fechado';
                         }*/
