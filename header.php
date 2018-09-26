@@ -93,10 +93,10 @@
 				$('html, body').animate({ scrollTop: $('#about-us').offset().top }, 1000); // Adaptando ao heigh
             });
             $('li #contato').click(function (e) {
-                $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000)
+                $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000);
             });
             $('#home').click(function (e) {
-                $('html, body').animate({scrollToP: $('#home').offset().top}, 1000)
+                $('html, body').animate({scrollToP: $('#home').offset().top}, 1000);
             });
         });
 
