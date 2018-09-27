@@ -14,7 +14,7 @@
                 <div class="follow-us small-5 medium-3 small-offset-1 medium-offset-0 columns">
                     <h4 class="footer-section-title">Siga-nos</h4>
                     <a href="https://www.facebook.com/kitnetcorifeu/?ref=bookmarks" target="blank" title="Facebook"><img src="img/social-icons/facebook.svg" alt="facebook-icon"></a>
-                    <a href="https://www.instagram.com/p/BlgxAF7h9Cj/?taken-by=kitnetusp" target="blank" title="Instagram"><img src="img/social-icons/instagram.svg" alt="facebook-icon"></a>
+                    <a href="https://www.instagram.com/p/BlgxAF7h9Cj/?taken-by=kitnetusp" target="blank" title="Instagram"><img src="img/social-icons/instagram-backup.svg" alt="facebook-icon"></a>
                 </div>
                 
                 <div class="contato small-5 medium-3 small-offset-1 medium-offset-0 columns">
