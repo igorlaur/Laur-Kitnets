@@ -136,7 +136,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo (previsão 01/11/18)</div>
+                                Kitnet Luxo (previsão 01/12/18)</div>
                                 </div>
                                 
                                 <div class="gradient-filter">
