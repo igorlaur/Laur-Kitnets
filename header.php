@@ -3,14 +3,14 @@
                                                             no header e antes do html significa que qualquer
                                                             página está com o fuso horário definido automaticamente
                                                          -->
-<html class="no-js" lang="en">
+<html class="no-js" lang="pt-br">
     <head>
             <!-- Meta -->
         <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp,
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
-        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta"> 
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, kitnet sp zona oeste"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
