@@ -7,6 +7,7 @@
     <head>
             <!-- Meta -->
         <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+        <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp,
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
