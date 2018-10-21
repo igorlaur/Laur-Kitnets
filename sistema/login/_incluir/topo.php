@@ -26,5 +26,6 @@
         
         <img src="assets/logo_andes.gif">
         <img src="assets/text_bnwcoffee.gif">
+        <a href="sair.php">Sair</a>
     </div>
 </header>

@@ -31,7 +31,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Curso PHP FUNDAMENTAL</title>
+        <title>Laur's Kitnets | Área do morador</title>
         
         <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
@@ -44,7 +44,7 @@
         
         <main>      
             
-            <?php
+            <?php // Saudação
                 if ( isset($_SESSION["user_portal"]) ) {
                     echo $_SESSION["user_portal"];
                 }
