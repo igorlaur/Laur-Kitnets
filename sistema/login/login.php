@@ -18,7 +18,7 @@
         $informacao = mysqli_fetch_assoc($acesso);
 
         if( empty($informacao) ){ // Se não tiver registro no banco de dados, de usuários, será empty/vazio
-            $mensagem = "Login sem sucesso";
+            $mensagem = "Você deve ser morador para efetuar login";
         } else {
             $_SESSION["user_portal"] = "Seja bem-vindo(a), " . $informacao["nomecompleto"]; // Eu do um nome para a variável de sessão
             header("location:listagem.php");
@@ -30,24 +30,40 @@
 <html>
     <head>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Laur's Kitnets | Login</title>
         
         <!-- estilo -->
-        <link href="_css/estilo.css" rel="stylesheet">
-        <link href="_css/login.css" rel="stylesheet">
+        
         <link rel="stylesheet" href="../../bootstrap/bootstrap.min.css">
 
         <link rel="stylesheet" href="../../css/foundation.css" />
-        <link rel="stylesheet" href="../../css/slick.css" />
-        <link rel="stylesheet" href="../../css/style.css" />
+        
+        
         
     </head>
 
     <body>
-        
-        
+    <style>
+
+        #descricao{
+            margin: auto;
+            box-shadow: 1px 1px 20px rgba(255,165,0);
+        }
+        #login{
+            color: white;
+        }
+        .card-header{
+            background-color: #FFBF00;
+            color: white;
+            text-align: center;
+        }
+    </style>
+
         <main>  
             
+       <br>
+
         <div class="card w-75" id="descricao">
         <div class="card-body">
             <h5 class="card-header">Tela de Login</h5>
@@ -59,7 +75,7 @@
                 </div>
                 <div class="form-group col-sm">
                     <input type="password" class="form-control" name="senha" placeholder="Senha"> <br>
-                    <input type="submit" class="btn btn-primary" value="Login">
+                    <input type="submit" class="btn btn-warning" value="Login" id="login">
                 </div>
       
                 <?php
@@ -80,9 +96,9 @@
             </form>
 
         </main>
-
-        <footer>
-            <div id="footer_central">
+<br>
+        <footer class="text-center">
+            <div>
                 <p><?php $ano_atual = date("Y"); ?> <!-- Função Date pega o ano atual -->
                 <?php echo $ano_atual; ?>&copy; Todos os direitos reservados   -   Igor Laur</p>
             </div>
