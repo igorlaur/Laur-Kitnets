@@ -284,7 +284,7 @@ $produtos = array(
                     // Nome do usuário
                 $mail->Username = 'laur.kitnet@gmail.com';        
                     // Senha do E-mail         
-                $mail->Password = 'senha';                           
+                $mail->Password = '1234';                           
                     // Tipo de protocolo de segurança
                 $mail->SMTPSecure = 'tls';   
 

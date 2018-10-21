@@ -3,14 +3,15 @@
                                                             no header e antes do html significa que qualquer
                                                             página está com o fuso horário definido automaticamente
                                                          -->
-<html class="no-js" lang="en">
+<html class="no-js" lang="pt-br">
     <head>
             <!-- Meta -->
         <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+        <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp,
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
-        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta"> 
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, kitnet sp zona oeste"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
@@ -82,6 +83,7 @@
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
+                                    <li><a href="sistema/login/login.php">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                 </ul>
                             </div>
                         </div>
@@ -151,7 +153,7 @@
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
-                                
+                                    <li><a class="clear button warning" href="sistema/login/login.php">Login/Entrar</a>
                                 </ul>
                             </div>
                         </div>     
