@@ -17,6 +17,28 @@
 
         $informacao = mysqli_fetch_assoc($acesso);
 
+        // Criando página individual -----------------------------------------
+
+       /* if( empty($informacao) ){ // Se não tiver registro no banco de dados, de usuários, será empty/vazio
+            $mensagem = "Você deve ser morador para efetuar login";
+        } else {
+            // Salva os dados encontrados na variável $resultado
+            $resultado = mysqli_fetch_assoc($query);
+
+            // Se a sessão não existir, inicia uma
+            if (!isset($_SESSION)) session_start();
+
+            // Salva os dados na sessão
+            $_SESSION['usuario'] = $resultado['id'];
+            $_SESSION['nomecompleto'] = $resultado['nome'];
+            $_SESSION['nivel'] = $resultado['nivel'];
+
+            // Redireciona o visitante 
+            header("Location: listagem2.php"); exit;
+        }   
+        */
+        
+        
         if( empty($informacao) ){ // Se não tiver registro no banco de dados, de usuários, será empty/vazio
             $mensagem = "Você deve ser morador para efetuar login";
         } else {

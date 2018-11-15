@@ -1,12 +1,12 @@
 <?php 
     // Passo 1 - Abrir conexão
     $servidor = "localhost";
-    //$usuario = "u991725301_root";
-    $usuario = "root";
-    //$senha = "polaco929";
-    $senha = "root";
-    //$banco = "u991725301_andes";
-    $banco = "andes";
+    $usuario = "u431676248_root"; 
+    //$usuario = "root";
+    $senha = "polaco929";
+    //$senha = "root";
+    $banco = "u431676248_andes";
+    //$banco = "andes";
     $conecta = mysqli_connect($servidor,$usuario,$senha,$banco);
 
     // Passo 2 - Testar conexão
