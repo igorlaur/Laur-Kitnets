@@ -3,4 +3,3 @@
 <p>O cliente escolhe a Kitnet de sua preferência e efetua a pré-reserva preenchendo um formulário</p>
 <h2>Sistema</h2>
 <p>Cliente terá acesso a área de login do sistema de kitnets</p>
-sdasd
