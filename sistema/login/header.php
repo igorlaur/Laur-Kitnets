@@ -82,7 +82,7 @@
                                     <li><a href="../../index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="../../imediacoes.php">Imediações</a></li>
                                     <li><a href="../../reserva.php">Reserva</a></li>
-                                    <li><a href="../../index.php#footer" id="contato">Contato</a></li>
+                                    <li><a href="../../index.php#footer" id="contato">Contaaato</a></li>
                                 </ul>
                             </div>
                         </div>
