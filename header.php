@@ -5,13 +5,17 @@
                                                          -->
 <html class="no-js" lang="pt-br">
     <head>
-            <!-- Meta -->
+        <!-- Meta -->
         <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+            <!-- Google -->
         <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
+            <!-- Bing-->
+        <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
-        <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp,
+        <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
-        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, kitnet sp zona oeste"> 
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
