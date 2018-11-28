@@ -15,7 +15,7 @@
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
-        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp"> 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, kitnet em osasco"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
