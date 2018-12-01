@@ -15,10 +15,10 @@
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
-        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, kitnet em osasco"> 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
-        <meta http-equiv="refresh" content="120"> <!-- 4 segundos -->
+        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
         <script>
 
         </script>
@@ -59,7 +59,7 @@
                         <a href="index.php" title="home">
                             <div class="table">
                                 <div class="table-cell">
-                                    <h1>Laur's Kitnets</h1>
+                                    <h1 id="kitnet">Laur's Kitnets</h1>
                                 </div>
                             </div>
                         </a>
@@ -71,7 +71,7 @@
                                 <ul class="menu-items">
                                     <li></li>
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle text-white" wm-link="index.php" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                        <a class="nav-link dropdown-toggle" wm-link="index.php" id="navbarDropdown" role="button" data-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
                                             Nossas Kitnets
                                         </a>
@@ -83,11 +83,11 @@
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
-                                    <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
-                                    <li><a href="imediacoes.php">Imediações</a></li>
-                                    <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <li><a href="sistema/login/login.php">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
+                                    <li><a href="index.php#about-us" id="button">Sobre</a></li>
+                                    <li><a href="imediacoes.php" id="button">Imediações</a></li>
+                                    <li><a href="reserva.php" id="button">Reserva</a></li>
+                                    <li><a href="index.php#footer" id="button">Contato</a></li>
+                                    <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                 </ul>
                             </div>
                         </div>
@@ -133,14 +133,14 @@
                     </div>
 
                     
-
+                <!-- Mobile -->
                     <div class="sliding-header-menu-main-menu small-12 columns">
                         
                         <div class="table">
                             <div class="table-cell">
                                 <ul class="sliding-header-menu-li">
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle text-black-50" wm-link="index.php" id="navbarDropdown" role="button" data-toggle="dropdown"
+                                        <a class="nav-link dropdown-toggle text-black-50" wm-link="index.php" id="navbarDropdownBlue" role="button" data-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
                                             Nossas Kitnets
                                         </a>
@@ -157,7 +157,7 @@
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
-                                    <li><a class="clear button warning" href="sistema/login/login.php">Login/Entrar</a>
+                                    <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
                                 </ul>
                             </div>
                         </div>     
@@ -184,20 +184,24 @@
         text-decoration:none; 
         } 
 
+       
+
         #indisp{
             background-color: white;
-            color: orange;
+            color: #4394ff;
         }
         #indisp:hover{
             background-color: red;
             color: white;
+            transition-duration: 1s;
         }
         #disp{
-            background-color: orange;
-            color: white;
+            background-color: black;
+            color: #4394ff;
         }
         #disp:hover{
             background-color: green;
+            transition-duration: 1s;
         }
         #kitnetpequena div{
             color: #fff;
@@ -210,5 +214,24 @@
         }
         #kitnetluxo div{
             color: rgb(43, 255, 0);
+        }
+
+
+        h1#kitnet{
+            color: #4394ff;
+        }
+        header{
+            background-color: black;
+        }
+        footer{
+            background-color: black;
+        }
+
+        #login{
+            background-color: black;
+            color: white;
+        }
+        #login:hover{
+            color: #4394ff;
         }
     </style>
