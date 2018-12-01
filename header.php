@@ -83,10 +83,10 @@
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                         </div>
                                     </li>
-                                    <li><a href="index.php#about-us" id="button">Sobre</a></li>
+                                    <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
-                                    <li><a href="index.php#footer" id="button">Contato</a></li>
+                                    <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                 </ul>
                             </div>
@@ -96,13 +96,13 @@
                     <script>
         $(function () {
             $('li #sobre').click(function (e) {
-				$('html, body').animate({ scrollTop: $('#about-us').offset().top }, 1000); // Adaptando ao heigh
+				$('html, body').animate({ scrollTop: $('#about-us').offset().top}, 1000); // Adaptando ao heigh
             });
             $('li #contato').click(function (e) {
                 $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000);
             });
             $('#home').click(function (e) {
-                $('html, body').animate({scrollToP: $('#home').offset().top}, 1000);
+                $('html, body').animate({ scrollToP: $('#home').offset().top}, 1000);
             });
         });
 
@@ -184,7 +184,35 @@
         text-decoration:none; 
         } 
 
-       
+        a#button{
+            color: white;
+        }
+        a#navbarDropdown{
+            color: white;
+        }
+        a#navbarDropdown:hover{
+            color: #4394ff;
+            transition-duration: 0.5s;
+        }
+        a#navbarDropdownBlue{
+            color: #4394ff;
+        }
+        a#navbarDropdownBlue:hover{
+            color: black;
+        }
+        a#button:hover{
+            color: #4394ff;
+            transition-duration: 0.5s;
+        }
+
+        a#contato:hover{
+            color: #4394ff;
+            transition-duration: 0.5s;
+        }
+        a#sobre:hover{
+            color: #4394ff;
+            transition-duration: 0.5s;
+        }
 
         #indisp{
             background-color: white;
