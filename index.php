@@ -136,7 +136,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo (previsão 01/12/18)</div>
+                                Kitnet Luxo (Reservado)</div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -532,8 +532,9 @@
         }
         #kitnetluxo div{
             /*color: rgb(254, 137, 0);*/
-            color: rgb(43, 255, 0); 
+            /*color: rgb(43, 255, 0); */
             /* color: #ff0000; */
+            color: #ffb329;
         }
         #airbnb{
             color: blue;
