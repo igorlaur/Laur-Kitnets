@@ -202,16 +202,16 @@
         }
         a#button:hover{
             color: #4394ff;
-            transition-duration: 0.5s;
+            transition-duration: 0.3s;
         }
 
         a#contato:hover{
             color: #4394ff;
-            transition-duration: 0.5s;
+            transition-duration: 0.3s;
         }
         a#sobre:hover{
             color: #4394ff;
-            transition-duration: 0.5s;
+            transition-duration: 0.3s;
         }
 
         #indisp{
@@ -221,7 +221,7 @@
         #indisp:hover{
             background-color: red;
             color: white;
-            transition-duration: 1s;
+            transition-duration: 0.3s;
         }
         #disp{
             background-color: black;
