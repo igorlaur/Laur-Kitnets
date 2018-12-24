@@ -14,9 +14,9 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitmedia = array("kitnet-media" => array(
-                    "contem" => "<li>Cama BOX;</li> <li>Internet 15mb;</li>
-                                                          <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                    "bonus" => "<li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua.</li>"
+                    "contem" => "<li>Cama BOX;</li>
+                                <li>Microondas, geladeira, fogão e armários.</li> <br>",
+                    "bonus" => "<li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua.</li> <li>Internet 15mb e 30mb;</li>"
                 )); ?>
                     <?php foreach ($kitmedia as $produto) { ?>
                         
