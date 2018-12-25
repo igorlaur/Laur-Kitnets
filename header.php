@@ -19,6 +19,7 @@
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="500"> <!-- tempo  -->
+        <meta name="description" content="Kitnets executiva para alugar no Butantã">
         <script>
 
         </script>
