@@ -240,6 +240,10 @@
                         Por que nos escolher? Estamos localizado em avenida comercial, próximo a tudo que
                     você possa imaginar!
                     </p>
+
+                    <p> 
+                        Website desenvolvido por <a href="https://www.linkedin.com/in/igor-laur/" target="blank">Igor Laur</a>
+                    </p>
                 </div>
             
             </div>
