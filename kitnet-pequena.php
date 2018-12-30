@@ -36,16 +36,8 @@
                 } ?>
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1200.00</h5>
-                    <button id="btn">Indisponível</button>
+                    <?php include 'botao-disponibilidade.php'?>
                 </div>
-                <style>
-                    #btn{
-                        background-color: rgb(204, 0, 0);
-                    }
-                    #btn:hover{
-                        background-color: rgb(148, 0, 0);
-                    }
-                </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-porta.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
