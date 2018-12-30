@@ -537,8 +537,8 @@
         #kitnetluxo div{
             /*color: rgb(254, 137, 0);*/
             /*color: rgb(43, 255, 0); */
-            color: #ff0000; 
-            /* color: #ffb329; */
+            color: #ff0000;             /* Vermelho */
+            /* color: #ffb329; */       /* Laranja */ 
         }
         #airbnb{
             color: blue;
