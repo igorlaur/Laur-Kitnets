@@ -71,7 +71,7 @@
                 
                 <div class="copyright small-12 columns">
                     <?php $ano_atual = date("Y"); ?> <!-- Função Date pega o ano atual -->
-                    <?php echo $ano_atual; ?> &copy; Todos os direitos reservados   -   Igor Laur   
+                    <?php echo $ano_atual; ?> &copy; Todos os direitos reservados   
                     
                 </div>
             </div>

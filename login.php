@@ -61,7 +61,7 @@
         <footer>
             <div id="footer_central">
                 <p><?php $ano_atual = date("Y"); ?> <!-- Função Date pega o ano atual -->
-                <?php echo $ano_atual; ?>&copy; Todos os direitos reservados   -   Igor Laur</p>
+                <?php echo $ano_atual; ?>&copy; Todos os direitos reservados</p>
             </div>
         </footer>
     </body>
