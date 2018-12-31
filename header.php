@@ -167,18 +167,36 @@
             </div>
 
         </header>
+    
+   
 
     <!-- Header Fixo -->
         <div class="ghost-element">
         </div>
 
         <main class="p-0" wm-link-destino></main>
-    <!-- padding 3 -->
+    <!-- End Header Fixo -->
 
+    <!-- padding 3 -->
     <script src="jquery-3.2.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/navegacao.js"></script>
+
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/5c295aaf7a79fc1bddf2bb48/default';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+    </script>
+    <!--End of Tawk.to Script-->
+    
 
         <style>
         a:link { 
