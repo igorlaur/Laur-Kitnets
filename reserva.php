@@ -10,7 +10,7 @@ $produtos = array(
 
     array(
         'nome' => 'Kitnet Média',
-        'estoque' => 0
+        'estoque' => 1
     ),
 
     array(
@@ -20,7 +20,7 @@ $produtos = array(
 
     array(
         'nome' => 'Kitnet Luxo',
-        'estoque' => 1
+        'estoque' => 0
     )
 
 )
