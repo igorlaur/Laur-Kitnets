@@ -179,7 +179,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média (indisponível)</div>
+                                    <div class="title">Kitnet Média (disponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -529,16 +529,17 @@
             color: #ff0000;
         }
         #kitnetmedia div{
-            color: #ff0000;
+            color: rgb(43, 255, 0);
+            /*color: #ff0000;*/
         }
         #kitnetgrande div{
             color: #ff0000;
         }
         #kitnetluxo div{
-            /*color: rgb(254, 137, 0);*/
-            /*color: rgb(43, 255, 0); */
-            color: #ff0000;             /* Vermelho */
-            /* color: #ffb329; */       /* Laranja */ 
+            /*color: rgb(43, 255, 0); */    /* Verde */
+            /*color: rgb(254, 137, 0);*/    /* Laranja */
+            color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
         }
         #airbnb{
             color: blue;
