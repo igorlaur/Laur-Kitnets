@@ -36,7 +36,7 @@
                 } ?>
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1200.00</h5>
-                    <?php include 'botao-disponibilidade.php'?>
+                    <?php include 'botao-indisponibilidade.php'?>
                 </div>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
