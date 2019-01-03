@@ -1,10 +1,10 @@
-<button id="btn">Indisponível</button>
+<a href="reserva.php"><button id="btn">Disponível | Garanta sua reserva!</button></a>
                 
 <style>
     #btn{
-        background-color: rgb(204, 0, 0);
+        background-color: green;
     }
     #btn:hover{
-        background-color: rgb(148, 0, 0);
+        background-color: rgb(0, 102, 26);
     }
 </style>
