@@ -232,7 +232,7 @@
                 <div class="about-us-text">
                     <p>
                         Nós estamos desde 2007 no mercado, localizado na principal avenida do
-                        butantã e temos como objetivo ajudar estudantes ou executivos a encontrarem o lar
+                        butantã e temos como objetivo ajudar executivos a encontrarem o lar
                         ideal para viver!
                     </p>
                     
