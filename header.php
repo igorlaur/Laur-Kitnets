@@ -280,4 +280,32 @@
         #login:hover{
             color: #4394ff;
         }
+
+        /* BARRA DE ROLAGEM */
+            /* Tamanho da Barra */
+            ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+            -webkit-border-radius: 16px;
+            }
+
+            /* Fundo da Barra de Rolagem, caminho que a barra percorre */
+            ::-webkit-scrollbar-track-piece {
+            background-color: black;
+            -webkit-border-radius: 3px;
+            }
+
+            /* Barra / Scroolbar (VERTICAL) */
+            ::-webkit-scrollbar-thumb:vertical {
+            height: 5px;
+            background-color: #1E90FF; /* ed145b */
+            -webkit-border-radius: 3px;
+            }
+
+            /* Barra / Scroolbar (HORIZONTAL) */
+            ::-webkit-scrollbar-thumb:horizontal {
+            width: 5px;
+            background-color: #1E90FF;
+            -webkit-border-radius: 3px;
+            }
     </style>
