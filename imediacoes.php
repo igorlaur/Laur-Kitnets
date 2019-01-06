@@ -1,4 +1,7 @@
 <?php include 'header.php'; ?>
+<head>
+    <title>Imediações | Laur's Kitnets USP</title>
+</head>
     <div class="cardapio-list small-11 large-12 columns no-padding small-centered">
         
         <div class="global-page-container">

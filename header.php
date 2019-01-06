@@ -36,7 +36,6 @@
         
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Laur's Kitnets USP</title>
         <link rel="stylesheet" href="css/foundation.css" />
         <link rel="stylesheet" href="css/slick.css" />
         <link rel="stylesheet" href="css/style.css" />

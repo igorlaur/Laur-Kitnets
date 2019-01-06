@@ -1,5 +1,7 @@
 <?php include 'header.php'; ?>
-
+<head>
+    <title>Reserva | Laur's Kitnets USP</title>
+</head>
 <?php
 
 $produtos = array(

@@ -1,7 +1,10 @@
 <?php include 'header.php'; ?>
+<head>
+    <title>Kitnet Pequena | Laur's Kitnets USP</title>
+    <meta name="description" content="Kitnet grande para alugar no Butantã">
+</head>
     <div class="ghost-element">
     </div>
-    <meta name="description" content="Kitnet para alugar no Butantã">
     <style> 
         #espacamento{
             padding: 0px;

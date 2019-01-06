@@ -1,7 +1,10 @@
-
 <?php include 'header.php'; ?>
+
+<head>
+    <title>Laur's Kitnets USP</title>
     <meta name="description" content="Kitnets executiva para alugar no Butantã">
-    
+</head>
+
     <?php 
     $produtos = array(
         array(
@@ -25,6 +28,7 @@
         )
     )
     ?>
+
     <body>
     <nav id="janela">
 		<ul>

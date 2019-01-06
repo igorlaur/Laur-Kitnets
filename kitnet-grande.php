@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
-<meta name="description" content="Kitnet grande para alugar no Butantã">
+<head>
+    <title>Kitnet Grande | Laur's Kitnets USP</title>
+    <meta name="description" content="Kitnet grande para alugar no Butantã">
+</head>
+
 <div class="ghost-element">
     </div>
     <style> 

@@ -1,4 +1,7 @@
 <?php include 'header.php'; ?>
+<head>
+    <title>Eldorado | Laur's Kitnets USP</title>
+</head>
 <div class="ghost-element">
     </div>
     <style> 

@@ -1,6 +1,9 @@
 <?php include 'header.php'; ?>
-<html class="no-js" lang="en">
-<meta name="description" content="Kitnet luxo para alugar no Butantã">
+<html class="no-js" lang="pt-br">
+<head>
+    <title>Kitnet Luxo | Laur's Kitnets USP</title>
+    <meta name="description" content="Kitnet grande para alugar no Butantã">
+</head>
     <!--<head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />

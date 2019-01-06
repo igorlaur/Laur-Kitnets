@@ -30,7 +30,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Laur's Kitnets | Login</title>
+        <title>Login | Laur's Kitnets</title>
         
         <!-- estilo -->
         <link href="sistema/login/_css/estilo.css" rel="stylesheet">
