@@ -41,8 +41,7 @@
         <link rel="stylesheet" href="css/style.css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Permanent+Marker|Raleway:400,700" rel="stylesheet">
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
-        <link rel="icon" href="img/logo/logo.jpg" type="image/x-icon" />
-        <link rel="shortcut icon" href="img/logo/logo.jpg" type="image/x-icon" />
+        <?php include 'shortcut.html'; ?>
         <script src="js/vendor/modernizr.js"></script>
     </head>
     
