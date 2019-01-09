@@ -235,14 +235,14 @@
 
                 <div class="about-us-text">
                     <p>
-                        Nós estamos desde 2007 no mercado, localizado na principal avenida do
-                        butantã e temos como objetivo ajudar executivos a encontrarem o lar
-                        ideal para viver!
+                        Localizado na principal avenida do Butantã, estamos desde 2007 ajudando 
+                        excecutivos a encontrarem um lar ideal para viver, com todos os benefícios 
+                        que a Corifeu de Azevedo Marques proporciona!
                     </p>
                     
                     <p>
-                        Por que nos escolher? Estamos localizado em avenida comercial, próximo a tudo que
-                    você possa imaginar!
+                        Por que nos escolher? Estamos localizado em uma Av. referência comercial, onde 
+                        tudo que é necessário se encontra ao redor e a poucos metros!
                     </p>
 
                     <p> 
