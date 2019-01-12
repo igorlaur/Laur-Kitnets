@@ -21,7 +21,7 @@
                     "contem" => "<li> Cama BOX; </li> <li> TV 22''; </li>
                                                             <li> Internet 15mb; </li> <li> Microondas, geladeira, fogão 
                                                             e armários. </li>",
-                    "bonus" => "<li class='text-success'>Valor mais acessível.</li>"
+                    "bonus" => "<li>Porcelanato</li> <li class='text-success'>Valor mais acessível.</li>"
 
                 )); ?>
                     <?php foreach ($kitpequena as $produto) { ?>

@@ -19,7 +19,7 @@
                 <?php $kitmedia = array("kitnet-media" => array(
                     "contem" => "<li>Cama BOX;</li>
                                 <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                    "bonus" => "<li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua.</li> <li>Internet 15mb e 30mb;</li>"
+                    "bonus" => "<li>Porcelanato</li> <li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua.</li> <li>Internet 15mb e 30mb;</li>"
                 )); ?>
                     <?php foreach ($kitmedia as $produto) { ?>
                         
