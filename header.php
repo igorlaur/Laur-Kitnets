@@ -77,9 +77,9 @@
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="disp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
@@ -146,9 +146,9 @@
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                             <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
-                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="disp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>

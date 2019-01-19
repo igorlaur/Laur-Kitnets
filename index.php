@@ -140,7 +140,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo (Indisponível)</div>
+                                Kitnet Luxo (Reservado)</div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -162,7 +162,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Grande (indisponível)</div>
+                                    <div class="title">Kitnet Grande (EM BREVE)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -530,19 +530,27 @@
             color: white;
         }
         #kitnetpequena div{
-            color: #ff0000;
-        }
-        #kitnetmedia div{
-            color: rgb(43, 255, 0);
-            /*color: #ff0000;*/
-        }
-        #kitnetgrande div{
-            color: #ff0000;
-        }
-        #kitnetluxo div{
             /*color: rgb(43, 255, 0); */    /* Verde */
             /*color: rgb(254, 137, 0);*/    /* Laranja */
             color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+        #kitnetmedia div{
+            color: rgb(43, 255, 0); */    /* Verde */
+            /*color: rgb(254, 137, 0);*/    /* Laranja */
+            /*color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+        #kitnetgrande div{
+            color: rgb(43, 255, 0); */    /* Verde */
+            /*color: rgb(254, 137, 0);*/    /* Laranja */
+            /*color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+        #kitnetluxo div{
+            /*color: rgb(43, 255, 0); */    /* Verde */
+            color: rgb(254, 137, 0);*/    /* Laranja */
+            /*color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #airbnb{
