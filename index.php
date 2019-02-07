@@ -19,12 +19,12 @@
 
         array(
             'nome' => 'Kitnet Grande',
-            'estoque' => 0
+            'estoque' => 1
         ),
 
         array(
             'nome' => 'Kitnet Luxo',
-            'estoque' => 1
+            'estoque' => 0
         )
     )
     ?>
@@ -130,7 +130,7 @@
 
                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetluxo"> 
                         <div class="cardapio-item">
-                            <a href="kitnet-luxo.php" title="Kitnet luxo">
+                            <a href="kitnet-luxo.php" title="Kitnet Luxo">
                                 
                                 <div class="cardapio-item-image">
                                     <img src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet no Butantã USP"/>   
@@ -183,7 +183,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média (disponível)</div>
+                                    <div class="title">Kitnet Média (Reservado)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -536,8 +536,8 @@
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetmedia div{
-            color: rgb(43, 255, 0); */    /* Verde */
-            /*color: rgb(254, 137, 0);*/    /* Laranja */
+            /* color: rgb(43, 255, 0); */    /* Verde */
+            color: rgb(254, 137, 0);    /* Laranja */
             /*color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
