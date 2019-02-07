@@ -15,7 +15,7 @@
         <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
-        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp"> 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, morar usp"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="500"> <!-- tempo  -->
@@ -78,7 +78,7 @@
                                             <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
-                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="disp">Kitnet Média</a>
+                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
@@ -147,7 +147,7 @@
                                             <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
-                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="disp">Kitnet Média</a>
+                                            <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
