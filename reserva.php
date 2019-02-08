@@ -12,12 +12,12 @@ $produtos = array(
 
     array(
         'nome' => 'Kitnet Média',
-        'estoque' => 1
+        'estoque' => 0
     ),
 
     array(
         'nome' => 'Grande',
-        'estoque' => 0
+        'estoque' => 1
     ),
 
     array(
