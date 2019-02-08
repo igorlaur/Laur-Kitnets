@@ -1,33 +1,10 @@
 <?php include 'header.php'; ?>
+<?php include 'logica/aluguel.php'; ?>
 
 <head>
     <title>Laur's Kitnets USP</title>
     <meta name="description" content="Kitnets executiva para alugar no Butantã">
 </head>
-
-    <?php 
-    $produtos = array(
-        array(
-            'nome' => 'Kitnet Pequena',
-            'estoque' => 0
-        ),
-
-        array(
-            'nome' => 'Kitnet Média',
-            'estoque' => 0
-        ),
-
-        array(
-            'nome' => 'Kitnet Grande',
-            'estoque' => 1
-        ),
-
-        array(
-            'nome' => 'Kitnet Luxo',
-            'estoque' => 0
-        )
-    )
-    ?>
 
     <body>
     <nav id="janela">
@@ -140,7 +117,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo (Reservado)</div>
+                                Kitnet Luxo <?php echo $reservado; ?></div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -160,9 +137,8 @@
                                 </div>
 
                                 <div class="item-info">
-                                    
                                 
-                                    <div class="title">Kitnet Grande (EM BREVE)</div>
+                                    <div class="title" id="grande">Kitnet Grande <?php echo $emBreve; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -183,7 +159,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média (Reservado)</div>
+                                    <div class="title">Kitnet Média <?php echo $reservado; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -205,7 +181,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Pequena (indisponível)</div>
+                                    <div class="title">Kitnet Pequena <?php echo $indisponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
