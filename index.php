@@ -138,12 +138,11 @@
 
                                 <div class="item-info">
                                 
-                                    <div class="title" id="grande">Kitnet Grande <?php echo $emBreve; ?></div>
+                                    <div class="title">Kitnet Grande <?php echo $emBreve; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
                                 </div>
-                                
                             </a>
                         </div>
                     </div>
