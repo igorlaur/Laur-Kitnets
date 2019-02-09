@@ -1,6 +1,6 @@
 <?php 
     header('Content-type: text/css; charset:UTF-8');
-    $emBreve = '(EM BREVE)';
+    $emBreve = '(Disponibilidade em 25/02/2019)';
     $reservado = '(Reservado)';
     $indisponivel = '(Indisponível)';
     $disponível = '(Disponível)';
