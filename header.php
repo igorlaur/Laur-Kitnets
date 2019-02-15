@@ -75,7 +75,7 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="disp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
@@ -144,7 +144,7 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="disp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="disp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
