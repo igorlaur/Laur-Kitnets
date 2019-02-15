@@ -3,7 +3,7 @@
     $emBreve = '(Disponibilidade em 25/02/2019)';
     $reservado = '(Reservado)';
     $indisponivel = '(Indisponível)';
-    $disponível = '(Disponível)';
+    $disponivel = '(Disponível)';
 
     // if($emBreve){
     //     include 'botao-indisponibilidade.php'; 
