@@ -1,7 +1,8 @@
 <?php include 'header.php'; ?>
+<html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Média | Laur's Kitnets USP</title>
-    <meta name="description" content="Kitnet média para alugar no Butantã">
+    <meta name="description" content="Kitnet Média para alugar no Butantã">
 </head>
     <div class="ghost-element">
     </div>

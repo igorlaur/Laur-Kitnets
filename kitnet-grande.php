@@ -1,7 +1,9 @@
 <?php include 'header.php'; ?>
+<html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Grande | Laur's Kitnets USP</title>
-    <meta name="description" content="Kitnet grande para alugar no Butantã">
+    <meta name="description" content="Kitnet Grande para alugar no Butantã">
+    <link rel="icon" href="../img/logo/logo.jpg" type="image/x-icon" />
 </head>
 
 <div class="ghost-element">

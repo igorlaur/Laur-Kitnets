@@ -2,7 +2,7 @@
 <html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Luxo | Laur's Kitnets USP</title>
-    <meta name="description" content="Kitnet grande para alugar no Butantã">
+    <meta name="description" content="Kitnet Luxo para alugar no Butantã">
 </head>
     <!--<head>
         <meta charset="utf-8" />
