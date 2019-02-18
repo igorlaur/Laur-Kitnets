@@ -3,7 +3,6 @@
 <head>
     <title>Kitnet Grande | Laur's Kitnets USP</title>
     <meta name="description" content="Kitnet Grande para alugar no Butantã">
-    <link rel="icon" href="../img/logo/logo.jpg" type="image/x-icon" />
 </head>
 
 <div class="ghost-element">
