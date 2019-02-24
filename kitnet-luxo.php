@@ -49,7 +49,7 @@
 
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1700.00</h5>
-                    <a href="reserva.php"><button id="btn">Rerservar diretamente!</button></a> 
+                    <?php include "botao-indisponibilidade.php"; ?> 
                     <a href="https://bit.ly/2QRSgQq" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <br> <br>
                     <h5>*Apenas esta Kitnet é possível reservar via Airbnb</h5>
@@ -57,9 +57,6 @@
 
                 
                 <style>
-                    #btn{
-                        background-color: green;
-                    }
                     #btn:hover{
                         background-color: rgb(0, 102, 26);
                     }

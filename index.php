@@ -117,7 +117,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo <?php echo $disponivel; ?></div>
+                                Kitnet Luxo <?php echo $reservado; ?></div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -138,7 +138,7 @@
 
                                 <div class="item-info">
                                 
-                                    <div class="title">Kitnet Grande <?php echo $emBreve; ?></div>
+                                    <div class="title">Kitnet Grande <?php echo $reservado; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -158,7 +158,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média <?php echo $reservado; ?></div>
+                                    <div class="title">Kitnet Média <?php echo $indisponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -512,19 +512,19 @@
         }
         #kitnetmedia div{
             /* color: rgb(43, 255, 0); */    /* Verde */
-            color: rgb(254, 137, 0);    /* Laranja */
-            /*color: #ff0000;                 /* Vermelho */
+            /* color: rgb(254, 137, 0);    /* Laranja */
+            color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            color: rgb(43, 255, 0); */    /* Verde */
-            /*color: rgb(254, 137, 0);*/    /* Laranja */
+            /* color: rgb(43, 255, 0); */    /* Verde */
+            color: rgb(254, 137, 0);   /* Laranja */
             /*color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{
-            color: rgb(43, 255, 0);    /* Verde */
-            /* color: rgb(254, 137, 0);*/    /* Laranja */
+            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(254, 137, 0);   /* Laranja */
             /* color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
