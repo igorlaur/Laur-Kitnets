@@ -491,8 +491,18 @@
     </div>
 </div>
     <?php include 'footer.php'; ?>
-
+    <?php
+        if($indisponivel){
+            echo "<p> class='kitnetpequena'> </p>";
+        }
+    ?>
     <style>
+        
+        .kitnetpequena {
+            color: #ff0000;
+        }
+        */
+
         a:link { 
         text-decoration:none; 
         } 
@@ -507,7 +517,7 @@
         #kitnetpequena div{
             /*color: rgb(43, 255, 0); */    /* Verde */
             /*color: rgb(254, 137, 0);*/    /* Laranja */
-            color: #ff0000;                 /* Vermelho */
+            /* color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetmedia div{
