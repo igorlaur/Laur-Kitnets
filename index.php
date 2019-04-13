@@ -205,7 +205,7 @@
                 </div>
 
                 
-                    <img src="img/logo.jpg.jpg" alt="Fachada de laur's kitnets">
+                    <img src="img/logo/laurKitnets.png" alt="Fachada de laur's kitnets">
                 
 
                 <div class="about-us-text">
