@@ -491,11 +491,6 @@
     </div>
 </div>
     <?php include 'footer.php'; ?>
-    <?php
-        if($indisponivel){
-            echo "<p id='kitnetpequena'>aaa </p>";
-        }
-    ?>
     <style>
         a:link { 
         text-decoration:none; 
