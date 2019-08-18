@@ -205,7 +205,7 @@
                 </div>
 
                 
-                    <img src="img/logo.jpg.jpg" alt="Fachada de laur's kitnets">
+                    <img src="img/logo/laurKitnets.png" alt="Fachada de laur's kitnets">
                 
 
                 <div class="about-us-text">
@@ -516,9 +516,9 @@
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            /* color: rgb(43, 255, 0); */    /* Verde */
+            /* color: rgb(43, 255, 0);    /* Verde */
             /* color: rgb(254, 137, 0);   /* Laranja */
-            color: #ff0000;                 /* Vermelho */
+            color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{
