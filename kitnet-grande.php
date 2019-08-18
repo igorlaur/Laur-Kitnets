@@ -21,7 +21,7 @@
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitgrande = array("kitnet-grande" => array(
                     "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                    "bonus" => "<li>Porcelanato</li> <li>Internet 120mb e 15mb;</li> <li>Smart TV 32''."
+                    "bonus" => "<li>Porcelanato</li> <li>Internet 120mb;</li> <li>Smart TV 32''."
                 )); ?>
                     
                     <?php foreach ($kitgrande as $produto) { ?>
