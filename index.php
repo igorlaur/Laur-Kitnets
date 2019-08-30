@@ -198,36 +198,60 @@
 
     <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
 
-            <div class="global-page-container">
-                <div id="about-us" class="about-us-title small-12 columns no-padding">
-                <h3>Sobre Nós</h3>
-                <hr>
-                </div>
-
-                
-                    <img src="img/logo/laurKitnets.png" alt="Fachada de laur's kitnets">
-                
-
-                <div class="about-us-text">
-                    <p>
-                        Localizado na principal avenida do Butantã, estamos desde 2007 ajudando 
-                        excecutivos a encontrarem um lar ideal para viver, com todos os benefícios 
-                        que a Corifeu de Azevedo Marques proporciona!
-                    </p>
-                    
-                    <p>
-                        Por que nos escolher? Estamos localizado em uma Av. referência comercial, onde 
-                        tudo que é necessário se encontra ao redor e a poucos metros!
-                    </p>
-
-                    <p> 
-                        Website desenvolvido por <a href="https://www.linkedin.com/in/igor-laur/" target="blank">Igor Laur</a>
-                    </p>
-                </div>
-            
+        <div class="global-page-container">
+            <div id="about-us" class="about-us-title small-12 columns no-padding">
+            <h3>Segurança</h3>
+            <hr>
             </div>
 
+            
+                <img src="img/seguranca/camera.jpg" alt="Segurança">
+
+
+            <div class="about-us-text">
+                <p>
+                        É utilizado câmeras em áreas externas com reconhecimento facial, laser
+                    noturno e armazenamento de vídeos em nuvem para total conforto e segurança 
+                    dos moradores.
+                </p>
+            </div>
+        
         </div>
+
+    </div>
+
+    <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
+
+        <div class="global-page-container">
+            <div id="about-us" class="about-us-title small-12 columns no-padding">
+            <h3>Sobre Nós</h3>
+            <hr>
+            </div>
+
+            
+                <img src="img/logo/laurKitnets.png" alt="Fachada de laur's kitnets">
+            
+
+            <div class="about-us-text">
+                <p>
+                    Localizado na principal avenida do Butantã, estamos desde 2007 ajudando 
+                    excecutivos a encontrarem um lar ideal para viver, com todos os benefícios 
+                    que a Corifeu de Azevedo Marques proporciona!
+                </p>
+                
+                <p>
+                    Por que nos escolher? Estamos localizado em uma Av. referência comercial, onde 
+                    tudo que é necessário se encontra ao redor e a poucos metros!
+                </p>
+
+                <p> 
+                    Website desenvolvido por <a href="https://www.linkedin.com/in/igor-laur/" target="blank">Igor Laur</a>
+                </p>
+            </div>
+        
+        </div>
+
+    </div>
 
     <style>
     .card-deck{
