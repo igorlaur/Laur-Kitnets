@@ -196,21 +196,19 @@
         </div>
     </div>
 
-    <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
+    <div class="about-us small-11 large-12 columns no-padding small-centered" id="seguranca-us">
 
         <div class="global-page-container">
-            <div id="about-us" class="about-us-title small-12 columns no-padding">
+            <div id="seguranca" class="about-us-title small-12 columns no-padding">
             <h3>Segurança</h3>
             <hr>
             </div>
 
             
-                <img src="img/seguranca/camera.jpg" alt="Segurança">
-
-
+            <img src="img/seguranca/camera.jpg" alt="Segurança">
             <div class="about-us-text">
                 <p>
-                        É utilizado câmeras em áreas externas com reconhecimento facial, laser
+                        São utilizado câmeras em áreas externas com reconhecimento facial, laser
                     noturno e armazenamento de vídeos em nuvem para total conforto e segurança 
                     dos moradores.
                 </p>
@@ -218,12 +216,33 @@
         
         </div>
 
+        <div class="about-us small-11 large-12 columns no-padding small-centered" id="seguranca-us">
+
+        <div class="global-page-container">
+            <div id="seguranca" class="about-us-title small-12 columns no-padding">
+            <!-- <h3>Segurança</h3> -->
+            
+            </div>
+
+            
+            <img src="img/seguranca/extintor.jpg" alt="Segurança">
+            <div class="about-us-text">
+                <p>
+                    Para uma maior segurança também disponibilizamos exintor de incêndio para sua maior
+                    segurança.
+                    O extintor é de Classe A, B, C e D, podendo apagar qualquer incêndio.
+                </p>
+            </div>
+        
+        </div>
+
+
     </div>
 
     <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
 
         <div class="global-page-container">
-            <div id="about-us" class="about-us-title small-12 columns no-padding">
+            <div id="about-us-text" class="about-us-title small-12 columns no-padding">
             <h3>Sobre Nós</h3>
             <hr>
             </div>
