@@ -20,7 +20,7 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitgrande = array("kitnet-grande" => array(
-                    "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão e armários.</li> <br>",
+                    "contem" => "<li>Cama BOX;</li> <li> Assinatura Amazon Prime; </li> <li>Microondas, geladeira, fogão e armários.</li> <br>",
                     "bonus" => "<li>Porcelanato</li> <li>Internet 120mb;</li> <li>Smart TV 32''."
                 )); ?>
                     

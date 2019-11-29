@@ -19,9 +19,11 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitpequena = array("kitnet-pequena" => array(
-                    "contem" => "<li> Cama BOX; </li> <li> TV 22''; </li>
-                                                            <li> Internet 120mb; </li> <li> Microondas, geladeira, fogão 
-                                                            e armários. </li>",
+                    "contem" => "<li> Cama BOX; </li> 
+                                 <li> TV 22''; </li> 
+                                 <li> Assinatura Amazon Prime; </li>
+                                 <li> Internet 120mb; </li> 
+                                 <li> Microondas, geladeira, fogão e armários. </li>",
                     "bonus" => "<li>Porcelanato</li> <li class='text-success'>Valor mais acessível.</li>"
 
                 )); ?>

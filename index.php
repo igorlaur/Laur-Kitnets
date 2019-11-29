@@ -228,8 +228,7 @@
             <img src="img/seguranca/extintor.jpg" alt="Segurança">
             <div class="about-us-text">
                 <p>
-                    Para uma maior segurança também disponibilizamos exintor de incêndio para sua maior
-                    segurança.
+                    Para uma maior segurança também disponibilizamos exintor de incêndio.
                     O extintor é de Classe A, B, C e D, podendo apagar qualquer incêndio.
                 </p>
             </div>
