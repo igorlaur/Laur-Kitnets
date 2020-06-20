@@ -138,7 +138,7 @@
 
                                 <div class="item-info">
                                 
-                                    <div class="title">Kitnet Grande <?php echo $indisponivel; ?></div>
+                                    <div class="title">Kitnet Grande <?php echo $disponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -180,7 +180,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Pequena <?php echo $reservado; ?></div>
+                                    <div class="title">Kitnet Pequena <?php echo $indisponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -218,25 +218,55 @@
 
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="seguranca-us">
 
-        <div class="global-page-container">
-            <div id="seguranca" class="about-us-title small-12 columns no-padding">
-            <!-- <h3>Segurança</h3> -->
+            <div class="global-page-container">
+                <div id="seguranca" class="about-us-title small-12 columns no-padding">
+                <!-- <h3>Segurança</h3> -->
             
-            </div>
+                </div>
 
             
             <img src="img/seguranca/extintor.jpg" alt="Segurança">
             <div class="about-us-text">
                 <p>
-                    Para uma maior segurança também disponibilizamos exintor de incêndio para sua maior
-                    segurança.
+                    Para uma maior segurança também disponibilizamos exintor de incêndio.
                     O extintor é de Classe A, B, C e D, podendo apagar qualquer incêndio.
                 </p>
             </div>
         
         </div>
 
+        <div class="about-us small-11 large-12 columns no-padding small-centered" id="seguranca-us">
 
+        <div class="global-page-container">
+            <div id="seguranca" class="about-us-title small-12 columns no-padding">
+            <!-- <h3>Segurança</h3> -->
+
+            </div>
+
+            <img src="img/seguranca/kitnet-butanta-delegacia.jpg" alt="Segurança">
+                <div class="about-us-text">
+                    <p>
+                        Delegacia 51º DP há 180 metros.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+        <div class="global-page-container">
+            <div id="seguranca" class="about-us-title small-12 columns no-padding">
+            <!-- <h3>Segurança</h3> -->
+
+            </div>
+
+            <img src="img/seguranca/kitnet-butanta-guardacivil.png" alt="Segurança">
+                <div class="about-us-text">
+                    <p>
+                        Guarda civil metropolitana há 500 metros.
+                    </p>
+                </div>
+
+            </div>
+        </div>
     </div>
 
     <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
@@ -547,9 +577,9 @@
             color: white;
         }
         #kitnetpequena div{
-            /*color: rgb(43, 255, 0); */    /* Verde */
-            color: rgb(254, 137, 0);    /* Laranja */
-            /*color: #ff0000;*/         /* Vermelho */
+            /* color: rgb(43, 255, 0); */     /* Verde */
+            /* color: rgb(254, 137, 0); */   /* Laranja */
+               color: #ff0000;                   /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetmedia div{
@@ -559,9 +589,9 @@
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(43, 255, 0);    /* Verde */
             /* color: rgb(254, 137, 0);   /* Laranja */
-            color: #ff0000;                /* Vermelho */
+            /* color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{

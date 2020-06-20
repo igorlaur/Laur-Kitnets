@@ -48,7 +48,7 @@
                 } ?>
 
                     <br>
-                    <h5 class="text-success"><b>Preço: </b>R$ 1700.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1800.00</h5>
                     <?php include "botao-indisponibilidade.php"; ?> 
                     <a href="https://bit.ly/2QRSgQq" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <br> <br>
@@ -88,11 +88,7 @@
 
             </div>
 
-            
-
-            <div class="go-back small-12 columns no-padding">
-                <a href="cardapio.html"><< Voltar ao Menu</a>
-            </div>
+            <?php include 'voltarMenu.php'; ?>
 
         </div>
     </div>

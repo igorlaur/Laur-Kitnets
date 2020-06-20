@@ -39,7 +39,7 @@
                     <?php 
                 } ?>
                     <br>
-                    <h5 class="text-success"><b>Preço: </b>R$ 1200.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1250.00</h5>
                     <?php include 'botao-indisponibilidade.php'?>
                 </div>
 
@@ -49,7 +49,7 @@
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-cama.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-cozinha2.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-pequena/Kitnet-butanta-pequena-tv.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-tv.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-banheiro.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
                 <script>
@@ -58,9 +58,7 @@
 
             </div>
 
-            <div class="go-back small-12 columns no-padding">
-                <a href="cardapio.html"><< Voltar ao Menu</a>
-            </div>
+            <?php include 'voltarMenu.php'; ?>
 
         </div>
     </div>

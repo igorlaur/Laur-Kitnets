@@ -54,9 +54,7 @@
 
             </div>
 
-            <div class="go-back small-12 columns no-padding">
-                <a href="cardapio.html"><< Voltar ao Menu</a>
-            </div>
+            <?php include 'voltarMenu.php'; ?>
 
         </div>
     </div>
