@@ -31,7 +31,7 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                     <?php $kitluxo = array("kit-luxo" => array(
-                        "contem" => "<li>Cama BOX;</li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
+                        "contem" => "<li>Cama BOX;</li> <li> Assinatura Amazon Prime; </li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
                         "bonus" => "<li>Internet 120mb;</li> <li>Smart TV 32'; <li>Ventilador;</li> <li>Cafeteira;</li> <li>Sofá;</li> <li>Sacada;</li> <li>Cozinha americana;</li>"
                     )); ?>
 
