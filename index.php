@@ -296,10 +296,18 @@
                 <p> 
                     Website desenvolvido por <a href="https://www.linkedin.com/in/igor-laur/" target="blank">Igor Laur</a>
                 </p>
+                <div class="product-picture small-12 large-7 columns no-padding">
+                    <iframe 
+                        width="560" 
+                        height="315" 
+                        src="https://www.youtube.com/embed/3TXeqbax7fk" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
             </div>
-        
         </div>
-
     </div>
 
     <style>
