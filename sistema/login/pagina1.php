@@ -10,7 +10,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Curso PHP FUNDAMENTAL</title>
+        <title>Laur's Kitnets</title>
         
         <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
@@ -19,7 +19,7 @@
     <body>
         <header>
             <div id="header_central">
-                <img src="assets/logo_andes.gif">
+                <img src="assets/laurkitnets.png">
                 <img src="assets/text_bnwcoffee.gif">
             </div>
         </header>
@@ -35,7 +35,7 @@
 
         <footer>
             <div id="footer_central">
-                <p>ANDES &eacute; uma empresa fict&iacute;cia, usada para o curso PHP Integra&ccedil;&atilde;o com MySQL.</p>
+                <p>Laur's &eacute; uma empresa fict&iacute;cia, usada para o curso PHP Integra&ccedil;&atilde;o com MySQL.</p>
             </div>
         </footer>
     </body>

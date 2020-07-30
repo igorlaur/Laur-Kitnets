@@ -24,8 +24,8 @@
         
         -->
         
-        <img src="assets/logo_andes.gif">
-        <img src="assets/text_bnwcoffee.gif">
+        <img width="70" height="70" src="assets/laurkitnet.png">
+        <!--<img src="assets/text_bnwcoffee.gif">-->
         <a href="sair.php">Sair</a>
     </div>
 </header>

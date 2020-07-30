@@ -35,7 +35,7 @@
         <title>Laur's Kitnets | Área do morador</title>
         
         <!-- estilo -->
-        <link href="_css/estilo.css" rel="stylesheet">
+        <link href="_css/style.css" rel="stylesheet">
         <link href="_css/produtos.css" rel="stylesheet">
         <link href="_css/produto_pesquisa.css" rel="stylesheet">
     </head>
@@ -52,29 +52,45 @@
             ?>
 
             <!-- Área de pesquisa de dados -->  
-            <div id="janela_pesquisa">
+
+            <!--<div id="janela_pesquisa">
                 <form action="inicial.php" method="get">
                     <input type="text" name="produto" placeholder="Pesquisa">
                     <input type="image" name="pesquisa" src="assets/botao_search.png">
                 </form>
             </div>
+            -->
+
+            <!-- iframe -->
+            <iframe 
+                width="100%" 
+                height="500" 
+                src="https://time.graphics/pt/embed?v=1&id=398351" 
+                frameborder="0" 
+                allowfullscreen>
+            </iframe>
+            <div>
+                <a  
+                    style="font-size: 12px; text-decoration: none;" 
+                    title="Timeline generator" 
+                    href="https://time.graphics">
+                        Timeline generator
+                </a>
+            </div>
+            
+            
+            <!-- Fim iframe -->
             
             <div id="listagem_produtos"> 
             <?php
                 while($linha = mysqli_fetch_assoc($resultado)) {
             ?>
-                <ul>
-                    <li class="imagem">
-                        <a href="detalhe.php?codigo=<?php echo $linha['produtoID'] ?>"> <!-- Coloquei o 'produtoID' para aparecer como parâmetro neste meu link -->
-                            <img src="<?php echo $linha["imagempequena"] ?>">
-                        </a>
-                    </li>
-                    <li><h3><?php echo $linha["nomeproduto"] ?></h3></li>
-                    <li>Tempo de Entrega : <?php echo $linha["tempoentrega"] ?></li>
-                    <li>Pre&ccedil;o unit&aacute;rio: <?php echo $linha["precounitario"] ?></li>    
-
-                </ul>
-             <?php
+                
+                <!-- LISTAGEM PRODUTOS -->
+                    <?php/* include 'listagem-produtos.php'; */ ?>
+                <!-- FIM LISTAGEM PRODUTOS -->
+                
+            <?php
                 }
             ?>           
             </div>
