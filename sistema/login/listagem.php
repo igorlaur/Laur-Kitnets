@@ -77,6 +77,10 @@
                         Timeline generator
                 </a>
             </div>
+
+            <div>
+                <img src="images/cadastro.png">
+            </div>
             
             
             <!-- Fim iframe -->
