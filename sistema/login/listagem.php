@@ -73,7 +73,8 @@
                 <a  
                     style="font-size: 12px; text-decoration: none;" 
                     title="Timeline generator" 
-                    href="https://time.graphics">
+                    href="https://time.graphics"
+                    target="_blank">
                         Timeline generator
                 </a>
             </div>
