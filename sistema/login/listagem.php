@@ -82,6 +82,10 @@
             <div>
                 <img src="images/cadastro.png">
             </div>
+
+            <a href="https://docs.google.com/spreadsheets/d/1Xa28YRK1f1CBiILSAw75qVxI63pdizeCfSDVAUhtGGA/edit?usp=sharing"
+            target="_blank">
+            Planilha Dados Kitnets</a>
             
             
             <!-- Fim iframe -->
