@@ -80,13 +80,49 @@
             </div>
 
             <div>
+                <a href="https://docs.google.com/spreadsheets/d/1Xa28YRK1f1CBiILSAw75qVxI63pdizeCfSDVAUhtGGA/edit?usp=sharing"
+                    target="_blank">
+                    <h1>Planilha Dados Kitnets</h1>
+                </a>
                 <img src="images/cadastro.png">
             </div>
 
-            <a href="https://docs.google.com/spreadsheets/d/1Xa28YRK1f1CBiILSAw75qVxI63pdizeCfSDVAUhtGGA/edit?usp=sharing"
-            target="_blank">
-            Planilha Dados Kitnets</a>
-            
+            <div>    
+                
+                <h1>Pagamento inquilino</h1>
+                <table border="1">
+                    <tr>
+                        <th>Kitnet</th>
+                        <th>Nome</th>
+                        <th>Vencimento</th>
+                        <th>Lavanderia</th>
+                    </tr>
+                    <tr>
+                        <td>Pequena</td>
+                        <td>Natanielle</td>
+                        <td>10</td>
+                        <td>Sábado</td>
+                    </tr>
+                    <tr>
+                        <td>Média</td>
+                        <td>Tiffany</td>
+                        <td>10</td>
+                        <td>Sexta-feira</td>
+                    </tr>
+                    <tr>
+                        <td>Grande</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Luxo</td>
+                        <td>Erlon</td>
+                        <td>31</td>
+                        <td>Terça-feira</td>
+                    </tr>
+                </table>
+            </div>
             
             <!-- Fim iframe -->
             
