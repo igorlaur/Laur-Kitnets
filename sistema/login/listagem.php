@@ -111,8 +111,8 @@
                     </tr>
                     <tr>
                         <td>Grande</td>
-                        <td></td>
-                        <td></td>
+                        <td>Rony</td>
+                        <td>16</td>
                         <td></td>
                     </tr>
                     <tr>
