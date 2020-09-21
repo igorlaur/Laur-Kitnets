@@ -180,7 +180,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Pequena <?php echo $indisponivel; ?></div>
+                                    <div class="title">Kitnet Pequena (previsão 01/10/2020) <?php echo $indisponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -587,8 +587,8 @@
         #kitnetpequena div{
             /* color: rgb(43, 255, 0); */     /* Verde */
             /* color: rgb(254, 137, 0); */   /* Laranja */
-               color: #ff0000;                   /* Vermelho */
-            /* color: #ffb329; */           /* Laranja */ 
+            /* color: #ff0000;                   /* Vermelho */
+            color: #ffb329;            /* Laranja */ 
         }
         #kitnetmedia div{
             /* color: rgb(43, 255, 0); */    /* Verde */
