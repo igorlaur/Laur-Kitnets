@@ -26,7 +26,8 @@
                                 <li> Microondas, geladeira, fogão e armários; </li>
                                 <li> Porcelanato. </li> ",
 
-                    "bonus" => "<li class='text-success'>Valor mais acessível.</li>"
+                    "bonus" => "<li> Assinatura Amazon Prime; </li>
+                                <li class='text-success'>Valor mais acessível.</li>"
 
                 )); ?>
                     <?php foreach ($kitpequena as $produto) { ?>
