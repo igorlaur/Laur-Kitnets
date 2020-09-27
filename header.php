@@ -40,7 +40,7 @@
         <link rel="stylesheet" href="css/foundation.css" />
         <link rel="stylesheet" href="css/slick.css" />
         <link rel="stylesheet" href="css/style.css" />
-        <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Permanent+Marker|Raleway:400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@569;600;800&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
         <?php include 'shortcut.html'; ?>
         <script src="js/vendor/modernizr.js"></script>
@@ -59,7 +59,7 @@
                         <a href="index.php" title="home">
                             <div class="table">
                                 <div class="table-cell">
-                                    <h1 id="kitnet">Laur's Kitnets</h1>
+                                    <h1 id="kitnet">Laur's Kitnets USP</h1>
                                 </div>
                             </div>
                         </a>
@@ -80,7 +80,7 @@
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="disp">Kitnet Pequena</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
@@ -150,7 +150,7 @@
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
-                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
+                                            <a class="dropdown-item" wm-link="kitnet-pequena.php" id="disp">Kitnet Pequena</a>
                                         </div>
                                     </li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
