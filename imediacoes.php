@@ -90,27 +90,6 @@
 
                 <div class="slider-cardapio">
                     <div class="slider-002 small-12 small-centered columns">
-
-                    <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
-                            <div class="cardapio-item">
-                                <a href="bike.php" title="Yellow Bike">
-                                    
-                                    <div class="item-image">
-                                        <img src="img/transporte/bike-butanta.jpg" alt="Foto da yellow bike a próximo Laur's Kitnets"/>   
-                                    </div>
-
-                                    <div class="item-info">
-                                        <img src="img/social-icons/bike.png" width="50">
-                                        <div class="title">Espalhada a cada esquina - Yellow Bike</div>
-                                    </div>
-
-                                    <div class="gradient-filter">
-                                    </div>
-                                    
-                                </a>
-                            </div>
-                        </div>
-
                         <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns"> 
                             <div class="cardapio-item">
                                 <a href="onibus.php" title="Transporte público Butantã">
