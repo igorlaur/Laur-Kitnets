@@ -117,7 +117,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Kitnet Luxo <?php echo $indisponivel; ?></div>
+                                Studio <?php echo $indisponivel; ?></div>
                                 </div>
                                 
                                 <div class="gradient-filter">
