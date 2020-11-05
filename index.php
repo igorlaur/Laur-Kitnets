@@ -117,7 +117,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Studio <?php echo $disponivel; ?></div>
+                                Studio (reservado recentemente) </div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -138,7 +138,7 @@
 
                                 <div class="item-info">
                                 
-                                    <div class="title">Kitnet Grande <?php echo $indisponivel; ?></div>
+                                    <div class="title">Kitnet Grande <?php echo $disponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -597,14 +597,14 @@
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(43, 255, 0);    /* Verde */
             /* color: rgb(254, 137, 0);   /* Laranja */
-            color: #ff0000;                /* Vermelho */
+            /* color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{
-            color: rgb(43, 255, 0);    /* Verde */
-            /* color: rgb(254, 137, 0);   /* Laranja */
+            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(254, 137, 0);   /* Laranja */
             /* color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
