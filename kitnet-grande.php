@@ -44,11 +44,22 @@
                     <br> <br>
 
                     <h5 class="text-success"><b>Preço: </b>R$ 1450.00</h5>
-                    
+                    <a href="https://airbnb.com/h/kitnet-grande" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <?php include "botao-disponibilidade.php"; ?>
 
                 </div>
                 
+                <style>
+                    #btn:hover{
+                        background-color: rgb(0, 102, 26);
+                    }
+                    #btnairbnb{
+                        background-color: #FF5500;
+                    }
+                    #btnairbnb:hover{
+                        background-color: orange;
+                    }
+                </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
                     <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-escritorio.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
