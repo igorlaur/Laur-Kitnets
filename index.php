@@ -138,8 +138,9 @@
 
                                 <div class="item-info">
                                 
-                                    <div class="title">Kitnet Grande <?php echo $disponivel; ?></div>
-                                </div>
+                                    <div class="title"> <img src="img/social-icons/airbnb.png" width="125">
+                                    Kitnet Grande <?php echo $disponivel; ?></div>
+                                    </div>
 
                                 <div class="gradient-filter">
                                 </div>
@@ -180,7 +181,9 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Pequena <?php echo $disponivel; ?></div>
+                                    <div class="title"> <img src="img/social-icons/airbnb.png" width="125"> 
+                                    Kitnet Pequena (reservado recentemente)
+                                    </div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -585,8 +588,8 @@
             color: white;
         }
         #kitnetpequena div{
-            color: rgb(43, 255, 0);      /* Verde */
-            /* color: rgb(254, 137, 0); */   /* Laranja */
+            /* color: rgb(43, 255, 0);      /* Verde */
+            color: rgb(254, 137, 0);        /* Laranja */
             /* color: #ff0000;                   /* Vermelho */
             /* color: #ffb329;            /* Laranja */ 
         }
