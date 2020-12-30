@@ -145,6 +145,6 @@
                 </div>
             </div>
         </div>
+        <?php include 'carrossel.php'; ?>
     </body>
-    <?php include 'carrossel.php'; ?>
 <?php include 'footer.php'; ?>

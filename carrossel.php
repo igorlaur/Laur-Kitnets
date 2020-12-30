@@ -26,7 +26,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Studio <?php echo $indisponivel; ?> </div>
+                                Studio (indisponível) </div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -68,7 +68,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média <?php echo $indisponivel; ?></div>
+                                    <div class="title">Kitnet Média (indisponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -107,3 +107,30 @@
             </div>
         </div>
     </div>
+
+    <style>
+        #kitnetpequena div{
+            color: rgb(43, 255, 0);      /* Verde */
+            /* color: rgb(254, 137, 0);        /* Laranja */
+            /* color: #ff0000;                   /* Vermelho */
+            /* color: #ffb329;            /* Laranja */ 
+        }
+        #kitnetmedia div{
+            /* color: rgb(43, 255, 0); */    /* Verde */
+            /* color: rgb(254, 137, 0);    /* Laranja */
+            color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+        #kitnetgrande div{
+            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(254, 137, 0);   /* Laranja */
+            /* color: #ff0000;                /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+        #kitnetluxo div{
+            /* color: rgb(43, 255, 0);    /* Verde */
+            /* color: rgb(254, 137, 0);   /* Laranja */
+            color: #ff0000;                 /* Vermelho */
+            /* color: #ffb329; */           /* Laranja */ 
+        }
+    </style>
