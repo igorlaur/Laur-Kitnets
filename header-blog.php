@@ -21,8 +21,9 @@
         <meta property="og:description" content="Veja a diferença entre o que é kitnet, o que é studio além de outros derivados e saiba qual a melhor opção para você.">
         <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://laur.com.br/qual-a-diferenca-entre-apartamentos-kitnets-studio-jk-loft-flat-e-republica">
+        <meta property="og:url" content="https://laur.com.br/qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php">
         <meta property="og:image" content="https://laur.com.br/img/kitnet/kitnet-grande/kitnet-butanta-grande-cozinha.jpg">
+        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
         <meta http-equiv="refresh" content="500"> <!-- tempo  -->

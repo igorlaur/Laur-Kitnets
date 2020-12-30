@@ -1,3 +1,4 @@
+<?php include 'header-blog.php'; ?>
 
 <div class="cardapio small-11 large-12 columns no-padding small-centered">
         <div class="global-page-container">
