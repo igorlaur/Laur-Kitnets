@@ -99,9 +99,9 @@
                     </tr>
                     <tr>
                         <td>Pequena</td>
-                        <td>Natanielle</td>
-                        <td>10</td>
-                        <td>Sábado</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>Média</td>
@@ -113,13 +113,13 @@
                         <td>Grande</td>
                         <td>Rony</td>
                         <td>16</td>
-                        <td></td>
+                        <td>Domingo</td>
                     </tr>
                     <tr>
                         <td>Luxo</td>
-                        <td>Erlon</td>
-                        <td>31</td>
-                        <td>Terça-feira</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
                     </tr>
                 </table>
             </div>
