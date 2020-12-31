@@ -4,6 +4,7 @@
 <head>
     <title>Laur's Kitnets USP</title>
     <meta name="description" content="Kitnets executiva para alugar no Butantã">
+    <meta property="og:image" content="https://laur.com.br/img/logo/laurKitnets.png">
 </head>
 
     <body>

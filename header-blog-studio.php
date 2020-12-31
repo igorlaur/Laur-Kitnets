@@ -6,6 +6,28 @@
                                                          -->
 <html class="no-js" lang="pt-br">
     <head>
+        <!-- Meta -->
+        <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+            <!-- Google -->
+        <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
+        <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
+            <!-- Bing-->
+        <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
+        <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
+        <meta name="Keywords"   content="diferença kitnet e studio, kitnet, flat, jk, republica moradia, loft, apartamento">
+        <meta name="description" content="Veja a diferença entre o que é kitnet, o que é studio além de outros derivados e saiba qual a melhor opção para você."> 
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e apto. Veja a melhor para você.">
+        <meta property="og:description" content="Veja a diferença entre o que é kitnet, o que é studio além de outros derivados e saiba qual a melhor opção para você.">
+        <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://laur.com.br/qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php">
+        <meta property="og:image" content="https://laur.com.br/blog/img/flat.jpg">
+        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
+        <meta name="application-name" content="Laur's Kitnets Corifeu USP">
+            <!-- Meta de Reload da página -->
+        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>
@@ -138,7 +160,7 @@
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="blog.php">Blog</a></li>
+                                    
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
