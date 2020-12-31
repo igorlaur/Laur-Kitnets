@@ -73,7 +73,7 @@
                             <div class="table-cell">
                                 <ul class="menu-items">
                                     <li></li>
-                                    <li class="nav-item dropdown">
+                                    <!--<li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" wm-link="index.php" id="navbarDropdown" role="button" data-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
                                             Nossas Kitnets
@@ -85,7 +85,8 @@
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="disp">Kitnet Pequena</a>
                                         </div>
-                                    </li>
+                                    </li>-->
+                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
@@ -144,7 +145,7 @@
                         <div class="table">
                             <div class="table-cell">
                                 <ul class="sliding-header-menu-li">
-                                    <li class="nav-item dropdown">
+                                    <!--<li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle text-black-50" wm-link="index.php" id="navbarDropdownBlue" role="button" data-toggle="dropdown"
                                             aria-haspopup="true" aria-expanded="false">
                                             Nossas Kitnets
@@ -156,7 +157,8 @@
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="disp">Kitnet Pequena</a>
                                         </div>
-                                    </li>
+                                    </li>-->
+                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>

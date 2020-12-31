@@ -176,7 +176,9 @@
                 </div>
             </div>
         </div>
+        <div id="kitnet">
         <?php include 'carrossel.php'; ?>
+        </div>
     </body>
 <?php include 'footer.php'; ?>
 

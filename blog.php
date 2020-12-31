@@ -13,7 +13,7 @@
     <meta name="description" content="Blog sobre curiosidades relacionado a imóveis e mercado imobiliário."> 
     <meta property="og:locale" content="pt_BR">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="Qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e apto. Veja a melhor para você.">
+    <meta property="og:title" content="Blog referente ao mercado imobiliário e curiosidades.">
     <meta property="og:description" content="Blog sobre curiosidades relacionado a imóveis e mercado imobiliário.">
     <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
     <meta property="og:type" content="website">
