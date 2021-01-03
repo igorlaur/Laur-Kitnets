@@ -3,7 +3,7 @@
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
             <div class="global-page-container">
                 <div id="about-us-text" class="about-us-title small-12 columns no-padding">
-                    <h1>Você sabe qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e apto?</h1>
+                    <h1>Você sabe qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e co-living?</h1>
                     <hr>
                 </div>
             
@@ -13,9 +13,9 @@
                         Há semelhança entre esses nomes, porém existem características que os diferenciam.
                     </p>
                     
-                    <h3>
+                    <h2>
                         Kitnet
-                    </h3>
+                    </h2>
                     <img src="blog/img/kitnet.jpg" alt="O que é uma kitnet" title="Foto de Kitnet">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/garoa?ad_name=project-specs&ad_medium=single">Archdaily</a>
@@ -40,9 +40,9 @@
                         - Apenas um cômodo integrando quarto e cozinha ou as vezes até mesmo a sala, além do banheiro. </br>
                     </p>
 
-                    <h3>
+                    <h2>
                         Studio
-                    </h3>
+                    </h2>
                     <img src="blog/img/studio.jpg" alt="O que é um studio" title="Foto de Studio">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.setin.com.br/downtownnovarepublica?utm_source=aptovc&utm_medium=conteudo&utm_campaign=downtown_nova_republica&utm_term=apartamentos_studios&utm_content=apartamentos_studios">Downtown Nova Republica</a>
@@ -63,9 +63,9 @@
                         - Geralmente possui sacada/varanda; </br>
                     </p>
 
-                    <h3>
+                    <h2>
                         Flat
-                    </h3>
+                    </h2>
                     <img src="blog/img/flat.jpg" alt="O que é um flat" title="Foto de Flat">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/studio-mk27-marcio-kogan?ad_name=project-specs&ad_medium=single">Archdaily</a>
@@ -93,9 +93,9 @@
                         - Em alguns casos café da manhã.</br>
                     </p>
 
-                    <h3>
+                    <h2>
                         Loft
-                    </h3>
+                    </h2>
                     <img src="blog/img/loft.jpg" alt="O que é um loft" title="Foto de Loft">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/korman-arquitetos?ad_name=project-specs&ad_medium=single">Archdaily</a>
@@ -117,9 +117,9 @@
                         - Possui um estilo industrial com tijolos a vista.</br>
                     </p>
 
-                    <h3>
+                    <h2>
                         JK
-                    </h3>
+                    </h2>
                     <img src="blog/img/kitnet-butanta-grande-cozinha.jpg" alt="O que é um jk" title="Foto de Kitnet">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://laur.com.br/kitnet-grande.php">Laur's Kitnets</a>
@@ -138,9 +138,9 @@
                         - Sem divisórias.
                     </p>
 
-                    <h3>
+                    <h2>
                         República
-                    </h3>
+                    </h2>
                     <img src="blog/img/republica.jpg" alt="O que é uma republica" title="Foto de Republica Estudantil">
                     <p id="referencia">
                         Fonte da imagem: <a href="http://msda.com.br/republicas-de-estudantes-em-condominios/">MSDA</a>
@@ -157,9 +157,9 @@
                         - Cozinha compartilhada.
                     </p>
 
-                    <h3>
+                    <h2>
                         Apartamento
-                    </h3>
+                    </h2>
                     <img src="blog/img/apartamento.jpg" alt="O que é um apartamento" title="Foto de apartamento">
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/950769/apartamento-pavan-nucleo-de-arquitetura-experimental?ad_source=search&ad_medium=search_result_all">Archdaily</a>
@@ -170,6 +170,31 @@
                         kitnets até mesmo unidades com vários dormitórios.
                         Normalmente, é paga taxa de condomínio ao sindico ou administrador do prédio para as manutenções das áreas comuns 
                         e externas.
+                    </p>
+
+                    <h2>
+                        Co-living
+                    </h2>
+                    <img src="blog/img/coliving.jpg" alt="O que é um co-living" title="Foto de apartamento">
+                    <p id="referencia">
+                        Fonte da imagem: <a href="https://www.archdaily.com.br/br/914917/o-que-significa-co-living">Archdaily</a>
+                        Projeto: <a href="https://www.archdaily.com.br/br/914917/o-que-significa-co-living">Eduardo Souza</a>
+                    </p>
+                    <p>
+                        Coliving é um conceito moderno de cortiço, porém de uma forma mais contemporânea e só ganhou destaque nos últimos anos.
+                        A ideia do coliving é fornecer uma moradia compartilhada para realizar um "network" entre os outros morades, tendo como
+                        atividades de refeições e discussões nas áreas comuns, até mesmo estender ao compartilhamento do espaço de trabalho (coworking) e
+                        empreendiment ocoletivo.
+                        É uma tendência urbana e está cada vez mais comum na Europa, Estados Unidos e no Canadá.
+                        </br></br>
+                        Público: Os espaços de coliving geralmente variam entre as idades de 19 a 40 anos. São em maioria funcionários de startups,
+                        empreendedores ou até mesmo estudantes.
+                        </br></br>
+                        Características:</br>
+                        - Quarto individual;</br>
+                        - Cozinha, sala de estar e demais cômodos compartilhado;</br>
+                        - Costuma ser melhor mobiliado;</br>
+                        - Geralmente espaço de trabalho separado para coworking.</br>
                     </p>
 
                     <!-- Inserir carrossel de aluguel -->
