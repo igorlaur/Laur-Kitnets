@@ -24,21 +24,34 @@
                     <p> 
                         O nome já explica o conceito, onde Kitnet vem da junção das palavras Kitchen (cozinha, em inglês) com dinette
                         (sala de jantar pequena),  que significa “pequena cozinha”. 
-                        </br>
+                    </p>
+                    <p>
                         Esse quadro vem se transformando em razão das inovações e também das adequações, além da padronização da qualidade 
                         definida pelas construtoras que buscam atender as demandas de mercado.
-                        </br>
+                    </p>
+                    <p>
                         Esse tipo de construção também teve origem nos EUA, que são pequenos apartamentos com uma área de até 50m², e 
                         chegou no Brasil durante a década de 40 concentrado nos centros urbanos. A grande maioria das kitnets são menos valorizadas, pois seus prédios são mais básicos e não possuem muito luxo.
-                        </br></br>
-                        Público: Ideal para quem mora sozinho, busca um ótimo custo benefício e tem um estilo de vida dinâmico. Também 
-                        geralmente são pessoas que trabalham de home office ou até mesmo estudantes de uma determinada universidade regional.
-                        </br></br>
-                        Tamanho: até 50 metros quadrados.
-                        </br></br>
-                        Características: </br>
-                        - Apenas um cômodo integrando quarto e cozinha ou as vezes até mesmo a sala, além do banheiro. </br>
                     </p>
+                    <p id="bold">
+                        Público: 
+                    </p>
+                    <p>    
+                        Ideal para quem mora sozinho, busca um ótimo custo benefício e tem um estilo de vida dinâmico. Também 
+                        geralmente são pessoas que trabalham de home office ou até mesmo estudantes de uma determinada universidade regional.
+                    </p>
+                    <p id="bold">
+                        Tamanho: 
+                    </p>
+                    <p>    
+                        Até 50 metros quadrados.
+                    </p>
+                    <p id="bold">
+                        Características: 
+                    </p>
+                    <ul>
+                        <li>Apenas um cômodo integrando quarto e cozinha ou as vezes até mesmo a sala, além do banheiro.</li>
+                    </ul>
 
                     <h2>
                         Studio
@@ -49,19 +62,28 @@
                     </p>
                     <p>
                         Também com origem estadunidense, e foi adotado por muitos países ao passar dos anos.
-                        </br>
-                        Público: Solteiros ou casais em sua maioria jovens que estão realizando os planejamentos futuro de vida e não possuem 
+                    </p>
+                    <p id="bold">
+                        Público:
+                    </p>
+                    <p>
+                        Solteiros ou casais em sua maioria jovens que estão realizando os planejamentos futuro de vida e não possuem 
                         filhos. São geralmente executivos que passam pouco tempo em casa, portanto querem evitar trabalho com manutenção e 
                         organização.
-                        </br></br>
-                        Tamanho: Cerca de 30m²
-                        </br></br>
-                        Características: </br>
-                        - Cozinha americana; </br>
-                        - Quarto e área social não precisam necessariamente estarem divididos por uma parede, as mobílias podem realizar a 
-                        divisão; </br>
-                        - Geralmente possui sacada/varanda; </br>
                     </p>
+                    <p id="bold">
+                        Tamanho: 
+                    <p>    
+                        Cerca de 30m².
+                    </p>
+                    <p id=bold>
+                        Características:
+                    <ul>
+                        <li>Cozinha americana;</li>
+                        <li>Quarto e área social não precisam necessariamente estarem divididos por uma parede, as mobílias podem realizar a 
+                        divisão;</li>
+                        <li>Geralmente possui sacada/varanda;</li>
+                    </ul>
 
                     <h2>
                         Flat
@@ -74,24 +96,35 @@
                     <p>
                         Geralmente são um pouco maiores do que quartos de hotel e possuem facilidades como limpeza diária, lavanderia e refeições, sendo cobradas na taxa de condomínio.
                         É uma moradia segura e confortável para pessoas que não dispõem seu tempo para rotinas de uma casa.
-                        </br></br>
-                        Público: São ideais para pessoas que moram sozinhas e executivos com uma vida corrida e estão buscando praticidade para economizar tempo em seu dia a dia.
-                        </br></br>
-                        Tamanho: podendo existir de 9m² até em torno de 65m², podendo existir divisória ou não.
-                        </br></br>
-                        Características:</br>
-                        - Segurança, recepção e portaria 24 horas;</br>
-                        - Garagem com controle e manobrista;</br>
-                        - TV a cabo;</br>
-                        - Telefone local;</br>
-                        - Manutenção emergencial e preventiva das áreas comuns;</br>
-                        - Lavagem e troca de roupa de cama e banho;</br>
-                        - Setor de governança;</br>
-                        - Internet;</br>
-                        - Lavanderia;</br>
-                        - Arrumação diária;</br>
-                        - Em alguns casos café da manhã.</br>
                     </p>
+                    <p id="bold">
+                        Público: 
+                    </p>
+                    <p>
+                        São ideais para pessoas que moram sozinhas e executivos com uma vida corrida e estão buscando praticidade para economizar tempo em seu dia a dia.
+                    </p>
+                    <p id="bold">
+                        Tamanho:
+                    </p> 
+                    <p>
+                        Podendo existir de 9m² até em torno de 65m², podendo existir divisória ou não.
+                    </p>
+                    <p id="bold">
+                        Características:
+                    </p>
+                    <ul>
+                        <li>Segurança, recepção e portaria 24 horas;</li>
+                        <li>Garagem com controle e manobrista;</li>
+                        <li>TV a cabo;</li>
+                        <li>Telefone local;</li>
+                        <li>Manutenção emergencial e preventiva das áreas comuns;</li>
+                        <li>Lavagem e troca de roupa de cama e banho;</li>
+                        <li>Setor de governança;</li>
+                        <li>Internet;</li>
+                        <li>Lavanderia;</li>
+                        <li>Arrumação diária;</li>
+                        <li>Em alguns casos café da manhã.</li>
+                    </ul>
 
                     <h2>
                         Loft
@@ -103,19 +136,33 @@
                     </p>
                     <p>
                         Vem originado de Nova Iorque, dos grandes espaços industriais que foram convertidos para uso residencial geralmente mostrados em filmes de Hollywood. 
-                        </br>
-                        Possui uma ausência de paredes para esse tipo de apartamento por ter sido um depósito anteriormente.
-                        </br></br>
-                        Tamanho:  Maior que 50m².
-                        </br></br>
-                        Características:</br>
-                        - Não possuem paredes ou divisórias;</br>
-                        - Imóveis amplos;</br>
-                        - Divide o local com pé-direito duplo, podendo incluir um mezanino ou não necessariamente;</br>
-                        - As janelas são grandes e com maior iluminação natural;</br>
-                        - A maioria das vezes as instalações geralmente são elétricas e hidráulicas a mostra;</br>
-                        - Possui um estilo industrial com tijolos a vista.</br>
                     </p>
+                    <p>
+                        Possui uma ausência de paredes para esse tipo de apartamento por ter sido um depósito anteriormente.
+                    </p>
+                    <p id="bold">
+                        Público:
+                    </p>
+                    <p>
+                        É muito procurado por casais que não possuem filhos e pessoas solteiras, geralmente são pessoas jovens.
+                    </p>
+                    <p id="bold">
+                        Tamanho:
+                    </p>  
+                    <p>
+                        Maior que 50m².
+                    </p>
+                    <p id="bold">
+                        Características:
+                    </p>
+                    <ul>
+                        <li>Não possuem paredes ou divisórias;</li>
+                        <li>Imóveis amplos;</li>
+                        <li>Divide o local com pé-direito duplo, podendo incluir um mezanino ou não necessariamente;</li>
+                        <li>As janelas são grandes e com maior iluminação natural;</li>
+                        <li>A maioria das vezes as instalações geralmente são elétricas e hidráulicas a mostra;</li>
+                        <li>Possui um estilo industrial com tijolos a vista.</li>
+                    </ul>
 
                     <h2>
                         JK
@@ -128,15 +175,20 @@
                         É um imóvel projetado com tudo que é necessário em apenas um único cômodo - sala, cozinha, banheiro e área de serviço. Possui apenas o banheiro separado.
                         </br>
                         O nome não é muito utilizado pois a maioria da população utiliza o termo "kitnet" que se tornou mais comum.
-                        </br></br>
-                        Público: São buscados por estudantes ou jovens que ainda não constituíram uma família e estão iniciando sua carreira profissional.
-                        </br></br>
-                        Tamanho: de 9 a 20m²
-                        </br></br>
-                        Características: </br>
-                        - Sala, cozinha e quarto no mesmo cômodo; </br>
-                        - Sem divisórias.
+                        </br>
                     </p>
+                        <p id="bold">Público:</p>
+                    <p>
+                        São buscados por estudantes ou jovens que ainda não constituíram uma família e estão iniciando sua carreira profissional.
+                    </p>
+                        <p id="bold">Tamanho:</p> 
+                        De 9 a 20m².
+                        </br></br>
+                        <p id="bold">Características:</p>
+                    <ul>
+                        <li>Sala, cozinha e quarto no mesmo cômodo;</li>
+                        <li>Sem divisórias.</li>
+                    </ul>
 
                     <h2>
                         República
@@ -147,16 +199,16 @@
                     </p>
                     <p>
                         São moradias próximo a universidades e dividas em sua maioria por estudantes. Geralmente é uma casa ou apartamento com quartos ocupando uma ou mais pessoas por cômodo, tendo a sala, banheiro e cozinha compartilhada com outros moradores.
-                        </br></br>
-                        Público: Jovens centrados nos estudos da faculdade e geralmente com uma menor renda.
-                        </br></br>
-                        Características:</br>
-                        - Quarto (individual ou compartilhado);</br>
-                        - Banheiro privativo ou compartilhado;</br>
-                        - Sala compartilhada;</br>
-                        - Cozinha compartilhada.
                     </p>
-
+                    <p id="bold">Público:</p> 
+                    <p>Jovens centrados nos estudos da faculdade e geralmente com uma menor renda.</p>
+                    <p id="bold">Características:</p>
+                    <ul>
+                        <li>Quarto (individual ou compartilhado);</li>
+                        <li>Banheiro privativo ou compartilhado;</li>
+                        <li>Sala compartilhada;</li>
+                        <li>Cozinha compartilhada.</li>
+                    </ul>
                     <h2>
                         Apartamento
                     </h2>
@@ -182,20 +234,25 @@
                     </p>
                     <p>
                         Coliving é um conceito moderno de cortiço, porém de uma forma mais contemporânea e só ganhou destaque nos últimos anos.
-                        A ideia do coliving é fornecer uma moradia compartilhada para realizar um "network" entre os outros morades, tendo como
+                        A ideia do coliving é fornecer uma moradia compartilhada para realizar um "network" entre os outros moradores, tendo como
                         atividades de refeições e discussões nas áreas comuns, até mesmo estender ao compartilhamento do espaço de trabalho (coworking) e
                         empreendiment ocoletivo.
+                        </br>
                         É uma tendência urbana e está cada vez mais comum na Europa, Estados Unidos e no Canadá.
-                        </br></br>
-                        Público: Os espaços de coliving geralmente variam entre as idades de 19 a 40 anos. São em maioria funcionários de startups,
+                        </br>
+                        <p id="bold">Público:</p>
+                        Os espaços de coliving geralmente variam entre as idades de 19 a 40 anos. São em maioria funcionários de startups,
                         empreendedores ou até mesmo estudantes.
                         </br></br>
+                    <p id="bold">
                         Características:</br>
-                        - Quarto individual;</br>
-                        - Cozinha, sala de estar e demais cômodos compartilhado;</br>
-                        - Costuma ser melhor mobiliado;</br>
-                        - Geralmente espaço de trabalho separado para coworking.</br>
                     </p>
+                    <ul>
+                        <li>Quarto individual;</li>
+                        <li>Cozinha, sala de estar e demais cômodos compartilhado;</li>
+                        <li>Costuma ser melhor mobiliado;</li>
+                        <li>Geralmente espaço de trabalho separado para coworking.</li>
+                    </ul>
 
                     <!-- Inserir carrossel de aluguel -->
                 </div>
@@ -212,5 +269,8 @@
     {
         color:#848484;
         font-style: italic;
+    }
+    #bold{
+        font-weight: bold;
     }
 </style>
