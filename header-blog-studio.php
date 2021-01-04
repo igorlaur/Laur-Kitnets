@@ -15,6 +15,7 @@
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="diferença kitnet e studio, kitnet, flat, jk, republica moradia, loft, apartamento, co-living, coliving o que é, o que é kitnet, o que é studio">
+        <meta name="title" content="Qual a diferença entre kitnet, jk, república, co-living | Laur's Kitnets">
         <meta name="description" content="Veja a diferença entre o que é kitnet, o que é studio além de outros derivados e saiba qual a melhor opção para você."> 
         <meta property="og:locale" content="pt_BR">
         <meta property="og:type" content="article">
