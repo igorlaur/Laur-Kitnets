@@ -11,8 +11,9 @@
             <!-- Google -->
         <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
         <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
-            <!-- Bing-->
+            <!-- Bing -->
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
+            <!-- SEO -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="diferença kitnet e studio, kitnet, flat, jk, republica moradia, loft, apartamento, co-living, coliving o que é, o que é kitnet, o que é studio">
         <meta name="title" content="Qual a diferença entre kitnet, jk, república, co-living | Laur's Kitnets">
