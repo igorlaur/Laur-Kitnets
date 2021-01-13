@@ -236,7 +236,7 @@
                         Coliving é um conceito moderno de cortiço, porém de uma forma mais contemporânea e só ganhou destaque nos últimos anos.
                         A ideia do coliving é fornecer uma moradia compartilhada para realizar um "network" entre os outros moradores, tendo como
                         atividades de refeições e discussões nas áreas comuns, até mesmo estender ao compartilhamento do espaço de trabalho (coworking) e
-                        empreendiment ocoletivo.
+                        empreendimento coletivo.
                         </br>
                         É uma tendência urbana e está cada vez mais comum na Europa, Estados Unidos e no Canadá.
                         </br>
