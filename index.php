@@ -134,7 +134,7 @@
                             <a href="kitnet-grande.php" title="Kitnet Grande">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv.jpeg" alt="Kitnet grande no Butantã USP"/>   
+                                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-1.jpg" alt="Kitnet grande no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">

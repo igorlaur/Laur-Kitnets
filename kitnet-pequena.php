@@ -21,7 +21,7 @@
                 <?php $kitpequena = array("kitnet-pequena" => array(
                     "contem" => "<li> Cama BOX; </li> 
                                 <li> TV 22''; </li>
-                                <li> Internet 120mb; </li> 
+                                <li> Internet 300mb (cabeada e wi-fi); </li> 
                                 <li> Ventilador; </li> 
                                 <li> Microondas, geladeira, fogão e armários; </li>
                                 <li> Porcelanato. </li> ",
@@ -64,6 +64,19 @@
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-1.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-2.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-3.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-7.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-9.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-10.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-12.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-15.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-6.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-8.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-11.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/quinto-andar/kitnet-butanta-pequena-14.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-porta.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-cozinha.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>

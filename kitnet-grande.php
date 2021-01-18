@@ -31,10 +31,12 @@
                 <?php $kitgrande = array("kitnet-grande" => array(
                     "contem" => "<li>Cama BOX;</li> 
                                 <li>Ventilador;</li> 
-                                <li>Microondas, geladeira, fogão e armários.</li> <br>",
+                                <li>Microondas, geladeira, fogão e armários.</li>
+                                <li>Internet cabeada e wi-fi (300mb).
+                                <br>",
                     
                     "bonus" => "<li>Porcelanato</li> 
-                                <li>Internet 120mb;</li> 
+                                <li>Cadeira executiva (fotos desatualizadas);</li> 
                                 <li>Smart TV 32'';</li>
                                 <li>Sofá</li> 
                                 <li>Assinatura Amazon Prime.</li>" 
@@ -71,12 +73,25 @@
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-1.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-2.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-3.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-4.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-5.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-6.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-7.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-8.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-9.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-10.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-11.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-12.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-13.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
+
                     <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-escritorio.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-escritorio2.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-cozinha.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-escritorio3.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-sofa.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-banheiro.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
 
             </div>
