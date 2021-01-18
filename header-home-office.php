@@ -6,6 +6,32 @@
                                                          -->
 <html class="no-js" lang="pt-br">
     <head>
+        <!-- Meta -->
+        <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
+            <!-- Google -->
+        <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
+        <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
+            <!-- Bing -->
+        <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
+            <!-- SEO -->
+        <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
+        <meta name="Keywords"   content="kitnet, kitnet para home office, moradia com qualidade de vida, kitnet home office, Laur Kitnets">
+        <meta name="title" content="Como nos adaptamos ao home office e a qualidade de vida dos moradoes. | Laur's Kitnets">
+        <meta name="description" content="Veja como adaptamos nossas kitnets para o home office."> 
+        <meta property="og:locale" content="pt_BR">
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Como nos adaptamos ao home office e a qualidade de vida aos moradores. | Laur's Kitnets">
+        <meta property="og:description" content="Veja como adaptamos nossas kitnets para o home office e a qualidade de vida aos moradores. ">
+        <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://laur.com.br/home-office.php">
+        <meta property="og:image" content="https://laur.com.br/blog/home-office/kitnet-home-office3.jpeg">
+        <meta property="og:image:alt" content="Como nos adaptamos ao home office?">
+        <meta property="og:updated_time" content="1610926459">
+        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
+        <meta name="application-name" content="Laur's Kitnets Corifeu USP">
+            <!-- Meta de Reload da página -->
+        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>
@@ -18,29 +44,6 @@
         
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!-- Meta -->
-        <meta name="author"     content="Igor Laur">    <!-- Qual é o autor desta página? -->
-            <!-- Google -->
-        <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
-        <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
-            <!-- Bing-->
-        <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
-        <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
-        <meta name="Keywords"   content="imobiliaria, studio, kitnet, flat, jk, republica moradia, loft, apartamento">
-        <meta name="description" content="Blog sobre curiosidades relacionado a imóveis e mercado imobiliário."> 
-        <meta property="og:locale" content="pt_BR">
-        <meta property="og:type" content="article">
-        <meta property="og:title" content="Blog referente ao mercado imobiliário e curiosidades.">
-        <meta property="og:description" content="Blog relacionado a curiosidades sobre os nossos imóveis e mercado imobiliário.">
-        <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://laur.com.br/blog.php">
-        <meta property="og:image" content="https://laur.com.br/img/logo/logo.png">
-        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
-        <meta property="og:updated_time" content="1610928967">
-        <meta name="application-name" content="Laur's Kitnets Corifeu USP">
-            <!-- Meta de Reload da página -->
-        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
         <link rel="stylesheet" href="css/foundation.css" />
         <link rel="stylesheet" href="css/slick.css" />
         <link rel="stylesheet" href="css/style.css" />
@@ -87,6 +90,7 @@
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
+                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
@@ -158,6 +162,7 @@
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
+                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>

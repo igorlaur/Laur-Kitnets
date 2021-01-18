@@ -25,7 +25,7 @@
         <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://laur.com.br/qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php">
-        <meta property="og:image" content="https://laur.com.br/blog/img/flat.jpg">
+        <meta property="og:image" content="https://laur.com.br/blog/img/flat2.png">
         <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Meta de Reload da página -->
@@ -164,7 +164,7 @@
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    
+                                    <li><a href="blog.php">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>

@@ -140,7 +140,7 @@
                                 <div class="item-info">
                                 
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125">
-                                    Kitnet Grande (disponibilidade em 01/02)</div>
+                                    Kitnet Grande (reservado recentemente)</div>
                                     </div>
 
                                 <div class="gradient-filter">
@@ -195,6 +195,58 @@
                     </div>
 
 
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="cardapio small-11 large-12 columns no-padding small-centered">
+        <div class="global-page-container">
+            <div class="cardapio-title small-12 columns no-padding">
+            <h3><a href="/blog.php">Conheça nosso blog </a></h3>
+            <hr>
+            </div>
+        </div>
+
+        <div class="global-page-container">
+
+
+            <div class="slider-cardapio">
+                <div class="slider-002 small-12 small-centered columns">
+
+                <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
+                    <div class="cardapio-item">
+                        <a href="home-office.php" title="Kitnet Grande">  
+                            <div class="cardapio-item-image">
+                                <img src="blog/home-office/kitnet-home-office.png" alt="Kitnet grande no Butantã USP"/>   
+                            </div>
+                                <div class="item-info">
+                                    <div class="title"> <img src="img/logo/laurkitnet.png" width="125">
+                                        <p>Veja como adaptamos nossas kitnets para o Home Office e a qualidade de vida aos moradores.</p>
+                                    </div>
+                                </div>
+
+                                <div class="gradient-filter">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
+                        <div class="cardapio-item">
+                            <a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php" title="Kitnet Luxo">
+                                <div class="cardapio-item-image">
+                                    <img src="blog/img/flat.png" alt="Kitnet no Butantã USP"/>   
+                                </div>
+                                <div class="item-info">     
+                                    <div class="title" ><img src="img/logo/laurkitnet.png" width="125">
+                                    <p>Qual a diferença entre kitnets, studios, jk, loft, flat, republica e apartamento?</p>
+                                    </div> 
+                                </div>
+                                <div class="gradient-filter">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -601,8 +653,8 @@
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            color: rgb(43, 255, 0);    /* Verde */
-            /* color: rgb(254, 137, 0);   /* Laranja */
+            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(254, 137, 0);   /* Laranja */
             /* color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
@@ -614,6 +666,12 @@
         }
         #airbnb{
             color: blue;
+        }
+        #blog div{
+            color: #00BFFF;
+        }
+        #bold{
+            font-weight: bold;
         }
     </style>
     <script>
