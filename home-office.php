@@ -52,7 +52,7 @@
                     <p id="referencia">Imagem de <a href="https://pixabay.com/pt/users/tumisu-148124/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5571609">Tumisu</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5571609">Pixabay</a></p>
                     <p>
                         Aproveitando a melhoria da qualidade de internet à todos, então não podíamos deixar de pensar na qualidade de vida
-                        dos nossos clientes, e então assinamos o pacote Netflix para que possam assistir filmes e séries da plataforma.
+                        dos nossos clientes, portanto assinamos o pacote Netflix para que possam assistir filmes e séries da plataforma.
                     </p>
                     
                     <h2>
