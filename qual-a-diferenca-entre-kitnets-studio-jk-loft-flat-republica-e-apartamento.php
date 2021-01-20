@@ -253,8 +253,7 @@
                         <li>Costuma ser melhor mobiliado;</li>
                         <li>Geralmente espaço de trabalho separado para coworking.</li>
                     </ul>
-
-                    <!-- Inserir carrossel de aluguel -->
+                    <?php include 'instagram.php'; ?>
                 </div>
             </div>
         </div>

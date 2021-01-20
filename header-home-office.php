@@ -25,7 +25,7 @@
         <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://laur.com.br/home-office.php">
-        <meta property="og:image" content="https://laur.com.br/blog/home-office/kitnet-home-office3.jpeg">
+        <meta property="og:image" content="https://laur.com.br/blog/home-office/og-kitnet-home-office.jpg">
         <meta property="og:image:alt" content="Como nos adaptamos ao home office?">
         <meta property="og:updated_time" content="1610926459">
         <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
