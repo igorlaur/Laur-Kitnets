@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header-regulamento.php'; ?>
 
     <meta name="description" content="Laur's Kitnets - Regulamento">
     <meta property="og:image" content="www.laur.com.br/regulamento1.jpg">
