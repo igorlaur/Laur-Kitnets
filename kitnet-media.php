@@ -21,7 +21,7 @@
                     "contem" => "<li>Cama BOX;</li>
                                 <li> Assinatura Amazon Prime; </li>
                                 <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                    "bonus" => "<li>Porcelanato</li> <li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua;</li> <li>Internet 120mb;</li> <li> Assinatura Amazon Prime. </li>"
+                    "bonus" => "<li>Porcelanato</li> <li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua;</li> <li>Internet 120mb;</li> <li> Assinatura Amazon Prime. </li> <li> Assinatura Netflix. </li>"
                 )); ?>
                     <?php foreach ($kitmedia as $produto) { ?>
                         
@@ -37,7 +37,7 @@
                 } ?>
                     
                     <br>
-                    <h5 class="text-success"><b>Preço: </b>R$ 1300.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1400.00</h5>
 
                     <?php include 'botao-indisponibilidade.php'; ?>
 

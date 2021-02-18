@@ -160,7 +160,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média <?php echo $indisponivel; ?></div>
+                                    <div class="title">Kitnet Média (disponibilidade em 01/03)</div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -654,9 +654,9 @@
             /* color: #ffb329;            /* Laranja */ 
         }
         #kitnetmedia div{
-            /* color: rgb(43, 255, 0); */    /* Verde */
+            color: rgb(43, 255, 0); */    /* Verde */
             /* color: rgb(254, 137, 0);    /* Laranja */
-            color: #ff0000;                 /* Vermelho */
+            /* color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
