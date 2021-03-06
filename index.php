@@ -160,7 +160,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média (disponibilidade em 01/03)</div>
+                                    <div class="title">Kitnet Média (disponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">

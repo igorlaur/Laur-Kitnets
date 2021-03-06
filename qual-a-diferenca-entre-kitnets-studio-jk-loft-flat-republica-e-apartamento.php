@@ -1,4 +1,5 @@
 <?php include 'header-blog-studio.php'; ?>
+<?php include 'icones-contato.php'; ?>
     <body>
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
             <div class="global-page-container">

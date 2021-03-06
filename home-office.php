@@ -1,4 +1,5 @@
 <?php include 'header-home-office.php'; ?>
+<?php include 'icones-contato.php'; ?>
     <html class="no-js" lang="pt-br">
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
             <div class="global-page-container">
@@ -14,7 +15,16 @@
                     <p id="referencia">
                         Imagem de <a href="https://pixabay.com/pt/users/lukasbieri-4664461/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2452807">Lukas Bieri</a> por <a href="https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2452807">Pixabay</a>
                     </p> 
-                    <hr>                
+                    <hr>   
+                    <h2>
+                        Cadeira executiva
+                    </h2>
+                    <img src="blog/home-office/home-office-cadeira-executiva.jpg" alt="Cadeira executiva para o home office" title="Foto do cadeira executiva | Laur's Kitnets" width="640" height="426">
+                    <p>
+                        Pensando no conforto trouxemos cadeiras executiva para manter uma melhor postura durante o home office. Além disso, 
+                        colocamos uma MESA com espaço para notebook e mais um monitor. 👍
+                    </p>
+                    <hr>             
                     <h2>
                         Cabeamento
                     </h2>

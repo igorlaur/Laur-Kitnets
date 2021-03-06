@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+<?php include 'icones-contato.php'; ?>
 <html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Luxo | Laur's Kitnets USP</title>

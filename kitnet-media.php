@@ -1,4 +1,5 @@
 <?php include 'header.php'; ?>
+<?php include 'icones-contato.php'; ?>
 <html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Média | Laur's Kitnets USP</title>
@@ -20,8 +21,20 @@
                 <?php $kitmedia = array("kitnet-media" => array(
                     "contem" => "<li>Cama BOX;</li>
                                 <li> Assinatura Amazon Prime; </li>
-                                <li>Microondas, geladeira, fogão e armários.</li> <br>",
-                    "bonus" => "<li>Porcelanato</li> <li>Smart TV 32'';</li> <li>Ventilador;</li> <li>Janela para rua;</li> <li>Internet 120mb;</li> <li> Assinatura Amazon Prime. </li> <li> Assinatura Netflix. </li>"
+                                <li>Microondas, geladeira, fogão e armários.</li>
+                                <li>Ventilador;</li>
+                                <li>Internet fibra ótica 300mb (cabeada e wi-fi); </br> </br>",
+                    "bonus" => "<li> Netflix </li>
+                                <li> Assinatura Amazon Prime; </li> 
+                                <li> Cadeira executiva </li>
+                                <li>Porcelanato;</li> 
+                                <li>Smart TV 32'';</li>  
+                                <li>Janela para rua;</li> </br> 
+                                ",
+                    "home office" => "<li>MESA com espaço para notebook e mais um monitor;</li>
+                                      <li>CADEIRA EXECUTIVA para melhor conforto;</li>
+                                      <li>Internet fibra ótica de 300mb cabeada e wi-fi (com ping baixo).</li> 
+                                    "
                 )); ?>
                     <?php foreach ($kitmedia as $produto) { ?>
                         
@@ -33,24 +46,36 @@
                         <h4>Bônus</h4>
                         <?php echo $produto["bonus"]; ?>
 
+                        <h4>Home Office</h4>
+                        <?php echo $produto["home office"]; ?>
+
                     <?php 
                 } ?>
                     
                     <br>
                     <h5 class="text-success"><b>Preço: </b>R$ 1400.00</h5>
-
-                    <?php include 'botao-indisponibilidade.php'; ?>
+                    </br>
+                    <?php include 'botao-disponibilidade.php'; ?>
+                    </br></br>
+                    <?php include 'botao_quinto-andar.php'; ?>
 
                 </div>
                 
 
                 <div class="product-picture small-12 large-7 columns no-padding">
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media2.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-tv.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-cozinha.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-geladeira.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-media/kitnet-butanta-media-banheiro.jpg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media1.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media2.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media3.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media4.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media5.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media6.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media7.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media8.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media9.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media10.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media11.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media12.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
 
             </div>
