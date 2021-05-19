@@ -1,10 +1,37 @@
 <?php include 'header-home-office.php'; ?>
 <?php include 'icones-contato.php'; ?>
+<!-- Facebook SDK -->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+        appId      : '335462494253345',
+        xfbml      : true,
+        version    : 'v10.0'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- /Facebook SDK -->
     <html class="no-js" lang="pt-br">
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
             <div class="global-page-container">
                 <div id="about-us-text" class="about-us-title small-12 columns no-padding">
                     <h1>Como nos adaptamos ao home office?</h1>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         Devido a pandemia em que o nosso planeta vive, os moradores não costumam ir ao escritório com a mesma frequência
                         como antes, portanto passam mais tempo em suas kitnets e com isso nós investimos na qualidade de vida de todos.

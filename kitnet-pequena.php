@@ -1,5 +1,25 @@
 <?php include 'header.php'; ?>
 <?php include 'icones-contato.php'; ?>
+<!-- Facebook SDK -->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+        appId      : '335462494253345',
+        xfbml      : true,
+        version    : 'v10.0'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- /Facebook SDK -->
 <html class="no-js" lang="pt-br">
 <head>
     <title>Kitnet Pequena | Laur's Kitnets USP</title>
@@ -44,7 +64,15 @@
                     
                     <?php 
                 } ?>
-                    <br>
+                    <br> 
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    <br> <br>
+
                     <h5 class="text-success"><b>Preço: </b>R$ 1250.00</h5>
                     <a href="https://www.airbnb.com.br/rooms/13560595?preview_for_ml=true&source_impression_id=p3_1606178550_d%2BBSdXyLwmrdnG2e&guests=1&adults=1" 
                         target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button>

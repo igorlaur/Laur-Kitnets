@@ -1,6 +1,26 @@
 <?php include 'header.php'; ?>
 <?php include 'icones-contato.php'; ?>
 <html class="no-js" lang="pt-br">
+<!-- Facebook SDK -->
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+        appId      : '335462494253345',
+        xfbml      : true,
+        version    : 'v10.0'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- /Facebook SDK -->
 <head>
     <title>Kitnet Grande | Laur's Kitnets USP</title>
     <meta name="description" content="Kitnet Grande para alugar no Butantã">
@@ -47,15 +67,22 @@
                         <h3>Kitnet Grande</h3>
                         <h4>Contém</h4>
                         <?php echo $produto["contem"]; ?>
-                    
+                        </br>
                         <h4>Bônus</h4>
                         <?php echo $produto["bonus"]; ?>
                     <?php 
                 } ?> 
-
+                    <br>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
                     <br> <br>
 
-                    <h5 class="text-success"><b>Preço: </b>R$ 1450.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1500.00</h5>
+                    <?php include 'facebook_like.php'; ?>
                     <a href="https://airbnb.com/h/kitnet-grande" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <?php include "botao-indisponibilidade.php"; ?>
 

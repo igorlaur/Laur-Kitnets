@@ -8,6 +8,27 @@
 </head>
 
     <body>
+    <!-- Facebook SDK -->
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                appId      : '335462494253345',
+                xfbml      : true,
+                version    : 'v10.0'
+                });
+                FB.AppEvents.logPageView();
+            };
+
+            (function(d, s, id){
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+    <!-- /Facebook SDK -->
+    
     <nav id="janela">
 		<ul>
 			<a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target="blank"><li id="tela1"><img src="img/social-icons/whatsapp.svg"></li></a>
@@ -117,8 +138,15 @@
                                 <div class="item-info">
                                     
                                   
-                                <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Studio <?php echo $indisponivel; ?> </div>
+                                    <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
+                                        Studio <?php echo $indisponivel; ?> 
+                                    </div>
+                                    <div
+                                        class="fb-like"
+                                        data-share="true"
+                                        data-width="450"
+                                        data-show-faces="true">
+                                    </div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -140,7 +168,13 @@
                                 <div class="item-info">
                                 
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125">
-                                    Kitnet Grande <?php echo $indisponivel; ?> </div>
+                                    Kitnet Grande (disponibilidade em 04/06) </div>
+                                        <div
+                                            class="fb-like"
+                                            data-share="true"
+                                            data-width="450"
+                                            data-show-faces="true">
+                                        </div>
                                     </div>
 
                                 <div class="gradient-filter">
@@ -158,9 +192,13 @@
                                 </div>
 
                                 <div class="item-info">
-                                    
-                                
-                                    <div class="title">Kitnet Média (reservado recentemente)</div>
+                                    <div class="title">Kitnet Média <?php echo $indisponivel; ?></div>
+                                    <div
+                                        class="fb-like"
+                                        data-share="true"
+                                        data-width="450"
+                                        data-show-faces="true">
+                                    </div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -180,10 +218,14 @@
                                 </div>
 
                                 <div class="item-info">
-                                    
-                                
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125"> 
-                                    Kitnet Pequena <?php echo $indisponivel; ?>
+                                        Kitnet Pequena <?php echo $indisponivel; ?>
+                                    </div>
+                                    <div
+                                        class="fb-like"
+                                        data-share="true"
+                                        data-width="450"
+                                        data-show-faces="true">
                                     </div>
                                 </div>
 
@@ -655,14 +697,14 @@
         }
         #kitnetmedia div{
             /* color: rgb(43, 255, 0); */    /* Verde */
-            color: rgb(254, 137, 0);    /* Laranja */
-            /* color: #ff0000;                 /* Vermelho */
+            /* color: rgb(254, 137, 0);    /* Laranja */
+            color: #ff0000;                 /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetgrande div{
-            /* color: rgb(43, 255, 0);    /* Verde */
+            color: rgb(43, 255, 0);    /* Verde */
             /* color: rgb(254, 137, 0);   /* Laranja */
-            color: #ff0000;                /* Vermelho */
+            /* color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{

@@ -1,6 +1,26 @@
 <?php include 'header-blog-studio.php'; ?>
 <?php include 'icones-contato.php'; ?>
     <body>
+        <!-- Facebook SDK -->
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                appId      : '335462494253345',
+                xfbml      : true,
+                version    : 'v10.0'
+                });
+                FB.AppEvents.logPageView();
+            };
+
+            (function(d, s, id){
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <!-- /Facebook SDK -->
         <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
             <div class="global-page-container">
                 <div id="about-us-text" class="about-us-title small-12 columns no-padding">
@@ -22,6 +42,13 @@
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/garoa?ad_name=project-specs&ad_medium=single">Archdaily</a>
                         Projeto: <a href="https://www.archdaily.com.br/br/office/garoa?ad_name=project-specs&ad_medium=single">Garoa</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p> 
                         O nome já explica o conceito, onde Kitnet vem da junção das palavras Kitchen (cozinha, em inglês) com dinette
                         (sala de jantar pequena),  que significa “pequena cozinha”. 
@@ -61,6 +88,13 @@
                     <p id="referencia">
                         Fonte da imagem: <a href="https://www.setin.com.br/downtownnovarepublica?utm_source=aptovc&utm_medium=conteudo&utm_campaign=downtown_nova_republica&utm_term=apartamentos_studios&utm_content=apartamentos_studios">Downtown Nova Republica</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         Também com origem estadunidense, e foi adotado por muitos países ao passar dos anos.
                     </p>
@@ -94,6 +128,13 @@
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/studio-mk27-marcio-kogan?ad_name=project-specs&ad_medium=single">Archdaily</a>
                         Projeto: <a href="https://www.archdaily.com.br/br/office/studio-mk27-marcio-kogan?ad_name=project-specs&ad_medium=single">Studio MK27 - Marcio Kogan</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         Geralmente são um pouco maiores do que quartos de hotel e possuem facilidades como limpeza diária, lavanderia e refeições, sendo cobradas na taxa de condomínio.
                         É uma moradia segura e confortável para pessoas que não dispõem seu tempo para rotinas de uma casa.
@@ -135,6 +176,13 @@
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/office/korman-arquitetos?ad_name=project-specs&ad_medium=single">Archdaily</a>
                         Projeto: <a href="https://www.archdaily.com.br/br/office/korman-arquitetos?ad_name=project-specs&ad_medium=single">Korman Arquitetos</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         Vem originado de Nova Iorque, dos grandes espaços industriais que foram convertidos para uso residencial geralmente mostrados em filmes de Hollywood. 
                     </p>
@@ -172,6 +220,13 @@
                     <p id="referencia">
                         Fonte da imagem: <a href="https://laur.com.br/kitnet-grande.php">Laur's Kitnets</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         É um imóvel projetado com tudo que é necessário em apenas um único cômodo - sala, cozinha, banheiro e área de serviço. Possui apenas o banheiro separado.
                         </br>
@@ -198,6 +253,13 @@
                     <p id="referencia">
                         Fonte da imagem: <a href="http://msda.com.br/republicas-de-estudantes-em-condominios/">MSDA</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         São moradias próximo a universidades e dividas em sua maioria por estudantes. Geralmente é uma casa ou apartamento com quartos ocupando uma ou mais pessoas por cômodo, tendo a sala, banheiro e cozinha compartilhada com outros moradores.
                     </p>
@@ -218,6 +280,13 @@
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/950769/apartamento-pavan-nucleo-de-arquitetura-experimental?ad_source=search&ad_medium=search_result_all">Archdaily</a>
                         Projeto: <a href="https://www.archdaily.com.br/br/950769/apartamento-pavan-nucleo-de-arquitetura-experimental?ad_source=search&ad_medium=search_result_all">Núcleo de Arquitetura Experimental</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         O apartamento é popularmente conhecido, sendo uma unidade habitacional em edifícios. Nele pode existir desde 
                         kitnets até mesmo unidades com vários dormitórios.
@@ -233,6 +302,13 @@
                         Fonte da imagem: <a href="https://www.archdaily.com.br/br/914917/o-que-significa-co-living">Archdaily</a>
                         Projeto: <a href="https://www.archdaily.com.br/br/914917/o-que-significa-co-living">Eduardo Souza</a>
                     </p>
+                    <div
+                        class="fb-like"
+                        data-share="true"
+                        data-width="350"
+                        data-show-faces="true">
+                    </div>
+                    </br> </br>
                     <p>
                         Coliving é um conceito moderno de cortiço, porém de uma forma mais contemporânea e só ganhou destaque nos últimos anos.
                         A ideia do coliving é fornecer uma moradia compartilhada para realizar um "network" entre os outros moradores, tendo como
