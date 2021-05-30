@@ -1,5 +1,4 @@
 <?php include 'header-blog.php'; ?>
-<?php include 'logica/aluguel.php'; ?>
 
 <div class="cardapio small-11 large-12 columns no-padding small-centered">
         <div class="global-page-container">
@@ -49,7 +48,7 @@
                                 <div class="item-info">
                                 
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125">
-                                    Kitnet Grande <?php echo $indisponivel; ?></div>
+                                    Kitnet Grande (reservado recentemente)</div>
                                     </div>
 
                                 <div class="gradient-filter">
@@ -69,7 +68,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média </div>
+                                    <div class="title">Kitnet Média (indisponível)</div>
                                 </div>
 
                                 <div class="gradient-filter">
