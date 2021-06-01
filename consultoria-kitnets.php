@@ -62,21 +62,34 @@
                     <li>A trajetória de Laur's Kitnets;</li>
                     <li>As melhores localizações para investir em São Paulo;</li>
                     <li>Construção & infraestrutura</li>
-                        <ul>Modelos de construção;<ul>
-                        <ul>Adaptação para o home office;</ul>
-                        <ul>Tecnologias utilizadas.</ul>
+                        <ul>- Modelos de construção;<ul>
+                        <ul>- Adaptação para o home office;</ul>
+                        <ul>- Tecnologias utilizadas.</ul>
                     <li>Método de locação;</li>
-                        <ul>- O inquilino ideal</ul>
-                        <ul>- Sistema de locação</ul>
+                        <ul>- O inquilino ideal;</ul>
+                        <ul>- Sistema de locação;</ul>
                         <ul>- Regulamento com o decorrer de mais de 35 anos de experiência.</ul>
                     <li>Modos de divulgação;</li>
                         <ul>- Métodos de divulgação;</ul>
                         <ul>- Desenvolvimento de materiais para divulgação;</ul>
                         <ul>- Plataformas para divulgação;</ul>
-                    <li>Qualidade de vida aos inquilinos</li>
+                    <li>Qualidade de vida aos inquilinos;</li>
+                    <li>Retorno financeiro.</li>
                 </ol>
             </div>
         </div>
+        <?php include "botao-consultoria.php"; ?>
     </div>
 </body>
+<style>
+    #btn:hover{
+        background-color: rgb(0, 102, 26);
+    }
+    #btnairbnb{
+        background-color: #FF5500;
+    }
+    #btnairbnb:hover{
+        background-color: orange;
+    }
+</style>
 <?php include 'footer.php'; ?>
