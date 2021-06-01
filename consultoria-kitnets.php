@@ -62,7 +62,7 @@
                     <li>A trajetória de Laur's Kitnets;</li>
                     <li>As melhores localizações para investir em São Paulo;</li>
                     <li>Construção & infraestrutura</li>
-                        <ul>- Modelos de construção;<ul>
+                        <ul>- Modelos de construção;</ul>
                         <ul>- Adaptação para o home office;</ul>
                         <ul>- Tecnologias utilizadas.</ul>
                     <li>Método de locação;</li>
