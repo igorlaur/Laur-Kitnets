@@ -290,9 +290,9 @@
                     </div>
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
                         <div class="cardapio-item">
-                            <a href="consultoria-kitnets.php" title="">
+                            <a href="consultoria-kitnets.php" title="consultoria de kitnets">
                                 <div class="cardapio-item-image">
-                                    <img src="blog/consultoria/consultoria-kitnets.jpg" alt=""/>   
+                                    <img src="blog/consultoria/consultoria-kitnets.jpg" alt="consultoria de kitnets"/>   
                                 </div>
                                 <div class="item-info">     
                                     <div class="title" ><img src="img/logo/laurkitnet.png" width="125">
