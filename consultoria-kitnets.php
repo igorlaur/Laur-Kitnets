@@ -50,9 +50,9 @@
                 </div>
                 </br> </br>
                 <p> 
-                        Olá, investidor(a)! Temos experiência com aluguel de kitnets e repúblicas desde 1984 em São Paulo. Começamos
-                    com imóveis no edifício Copan, Praça Roosvelt e Nestor Pestana. Após alguns anos fundamos a Laur's Kitnets, em 2007,
-                    no qual atualmente trabalhamos com kitnets na região do Butantã.
+                        Olá, investidor(a)! Temos experiência com construções e compra de imóveis voltadas para aluguel, como kitnets, studios e 
+                    repúblicas desde 1984 em São Paulo. Começamos com imóveis no edifício Copan, Praça Roosvelt e Nestor Pestana. 
+                    Após alguns anos fundamos a Laur's Kitnets, em 2007, no qual atualmente trabalhamos com kitnets na região do Butantã.
                 </p>
                 <p>
                     Conosco você terá uma consultoria especializada em kitnets e studios, nela você verá:
