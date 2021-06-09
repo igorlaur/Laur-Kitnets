@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header-kitpequena.php'; ?>
 <?php include 'icones-contato.php'; ?>
 <!-- Facebook SDK -->
 <script>

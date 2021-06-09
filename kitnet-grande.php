@@ -72,7 +72,7 @@
                     </div>
                     <br> <br>
 
-                    <h5 class="text-success"><b>Preço: </b>R$ 1500.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1490.00</h5>
                     <?php include 'facebook_like.php'; ?>
                     <a href="https://airbnb.com/h/kitnet-grande" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <?php include "botao-disponibilidade.php"; ?>
