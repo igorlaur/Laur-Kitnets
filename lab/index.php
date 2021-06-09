@@ -127,6 +127,37 @@
             <div class="slider-cardapio">
                 <div class="slider-002 small-12 small-centered columns">
 
+
+                <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetluxo"> 
+                        <div class="cardapio-item">
+                            <a href="studio.php" title="Kitnet Luxo">
+                                
+                                <div class="cardapio-item-image">
+                                    <img src="img/kitnet/studio/sacada-studio.jpeg" alt="Kitnet no Butantã USP"/>   
+                                </div>
+
+                                <div class="item-info">
+                                    
+                                  
+                                    <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
+                                        Studio (em breve) 
+                                    </div>
+                                    <div
+                                        class="fb-like"
+                                        data-share="true"
+                                        data-width="450"
+                                        data-show-faces="true">
+                                    </div>
+                                </div>
+                                
+                                <div class="gradient-filter">
+                                </div>
+                                
+                            </a>
+                        </div>
+                    </div>
+
+
                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="kitnetluxo"> 
                         <div class="cardapio-item">
                             <a href="kitnet-luxo.php" title="Kitnet Luxo">

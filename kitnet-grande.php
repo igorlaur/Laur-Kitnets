@@ -53,14 +53,16 @@
                     "contem" => "<li>Cama BOX;</li> 
                                 <li>Ventilador;</li> 
                                 <li>Microondas, geladeira, fogão e armários.</li>
-                                <li>Internet cabeada e wi-fi (300mb).
-                                <br>",
+                                <li>Smart TV 32'';</li>",
+
+                    "home office" => "<li>Internet fibra ótica cabeada e wi-fi, com 300mb e ping baixo;</li>
+                                      <li>Cadeira executiva;</li>
+                                      <li>Netflix;</li>
+                                      <li>Amazon Prime.</li>
+                                      </br>",
                     
-                    "bonus" => "<li>Porcelanato</li> 
-                                <li>Cadeira executiva (fotos desatualizadas);</li> 
-                                <li>Smart TV 32'';</li>
-                                <li>Sofá</li> 
-                                <li>Assinatura Amazon Prime.</li>" 
+                    "diferenciais" => "<li>Sofá.</li>"
+
                 )); ?>
                     
                     <?php foreach ($kitgrande as $produto) { ?>
@@ -68,8 +70,10 @@
                         <h4>Contém</h4>
                         <?php echo $produto["contem"]; ?>
                         </br>
-                        <h4>Bônus</h4>
-                        <?php echo $produto["bonus"]; ?>
+                        <h4>Home Office</h4>
+                        <?php echo $produto["home office"]; ?>
+                        <h4>Diferenciais</h4>
+                        <?php echo $produto["diferenciais"]; ?>
                     <?php 
                 } ?> 
                     <br>
