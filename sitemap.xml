@@ -40,7 +40,7 @@
 <url>
   <loc>https://laur.com.br/blog.php</loc>
   <lastmod>2021-01-18</lastmod>
-  <priority>0.75</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://laur.com.br/qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php</loc>
@@ -50,7 +50,7 @@
 <url>
   <loc>https://laur.com.br/home-office.php</loc>
   <lastmod>2021-01-18</lastmod>
-  <priority>0.65</priority>
+  <priority>0.75</priority>
 </url>
 <url>
   <loc>https://laur.com.br/imediacoes.php</loc>
@@ -68,105 +68,83 @@
   <priority>0.68</priority>
 </url>
 <url>
-  <loc>https://laur.com.br/sistema/login/login.php</loc>
-  <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
-<url>
   <loc>https://laur.com.br/onibus.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/usp.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.44</priority>
 </url>
 <url>
   <loc>https://laur.com.br/saojudas.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.44</priority>
 </url>
 <url>
   <loc>https://laur.com.br/unip.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://laur.com.br/bike.php</loc>
-  <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.44</priority>
 </url>
 <url>
   <loc>https://laur.com.br/metro.php</loc>
   <lastmod>2021-01-17T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.44</priority>
 </url>
 <url>
   <loc>https://laur.com.br/droga-raia.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/sacolao-oba.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/violeta.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/kadalora.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/mcdonalds.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/eldorado.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://laur.com.br/vila-butantan.php</loc>
-  <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/correios.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/itau.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/santander.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/forum.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
 <url>
   <loc>https://laur.com.br/instituto-butanta.php</loc>
   <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
+  <priority>0.32</priority>
 </url>
-<url>
-  <loc>https://laur.com.br/cardapio.html</loc>
-  <lastmod>2019-01-05T01:41:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
 </urlset>
