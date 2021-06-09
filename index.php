@@ -397,13 +397,6 @@
 
             <div class="about-us-text">
                 <p>
-                    Temos experiência com construções e compra de imóveis voltadas para aluguel, como kitnets, studios e 
-                    repúblicas desde 1984 em São Paulo. Começamos com imóveis no edifício Copan, Praça Roosvelt e Nestor Pestana. 
-                    Após alguns anos fundamos a Laur's Kitnets, em 2007, no qual atualmente trabalhamos com kitnets na região do Butantã.
-                    <a href="https://laur.com.br/consultoria-kitnets.php">Também prestamos consultoria para investimento!</a>
-                </p>
-                
-                <p>
                     Localizado na principal avenida do Butantã, estamos desde 2007 ajudando 
                     excecutivos a encontrarem um lar ideal para viver, com todos os benefícios 
                     que a Corifeu de Azevedo Marques proporciona!
