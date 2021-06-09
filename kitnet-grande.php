@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header-kitgrande.php'; ?>
 <?php include 'icones-contato.php'; ?>
 <html class="no-js" lang="pt-br">
 <!-- Facebook SDK -->
@@ -21,19 +21,6 @@
     }(document, 'script', 'facebook-jssdk'));
 </script>
 <!-- /Facebook SDK -->
-<head>
-    <title>Kitnet Grande | Laur's Kitnets USP</title>
-    <meta name="description" content="Kitnet Grande para alugar no Butantã">
-    <meta property="og:locale" content="pt_BR">
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Kitnet Grnade">
-    <meta property="og:description" content="Se você deseja morar em uma kitnet com maior espaço, essa é a ideal à você.">
-    <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://laur.com.br/kitnet-grande.php">
-    <meta property="og:image" content="https://laur.com.br/img/kitnet/kitnet-grande/kitnet-butanta-grande-cozinha.jpg">
-    <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
-</head>
 
 <div class="ghost-element">
     </div>
