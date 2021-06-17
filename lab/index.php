@@ -94,7 +94,7 @@
 
 
         <div class="photo-section small-12 columns">
-            <img class="homepage-main-photo" src="img/kitnet/kitnet-luxo/kitnet-butanta-luxo.jpg" alt="Kitnet no Butantã USP">
+            <img class="homepage-main-photo" witth src="img/kitnet/marketing/banner.png" alt="Kitnet no Butantã USP">
         </div>
 
         <div class="main-section-title small-10 columns">
