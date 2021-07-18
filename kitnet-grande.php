@@ -92,6 +92,16 @@
                 </style>
 
                 <div class="product-picture small-12 large-7 columns no-padding">
+                    <iframe class="product-picture small-12 large-7 columns no-padding"
+                        width="460" 
+                        height="315" 
+                        src="https://www.youtube.com/embed/iRZgvK8f1iE" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen
+                        id="iframe">
+                    </iframe>
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-1.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-2.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
@@ -125,3 +135,9 @@
 </body>
 
 </html>
+
+<style>
+    #iframe{
+        padding-bottom: 6mm;
+    }
+</style>
