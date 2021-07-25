@@ -102,7 +102,7 @@
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <li><a href="blog.php" id="button">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br" id="button">Blog</a></li>
                                     <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                    <!-- <li><a href="login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a> -->
                                 </ul>

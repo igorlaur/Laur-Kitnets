@@ -100,7 +100,7 @@
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <li><a href="blog.php" id="button">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br" id="button">Blog</a></li>
                                     <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                    <!-- <li><a href="login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a> -->
                                 </ul>
@@ -171,7 +171,7 @@
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>

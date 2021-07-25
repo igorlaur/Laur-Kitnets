@@ -3,7 +3,7 @@
 
 <head>
     <title>Laur's Kitnets USP</title>
-    <meta name="description" content="Kitnets executiva para alugar no Butantã">
+    <meta name="description" content="Está a procura de Kitnets executivas para alugar no Butantã? Temos o ideal à você!">
     <meta property="og:image" content="https://laur.com.br/img/logo/laurKitnets.png">
 </head>
 
@@ -291,9 +291,9 @@
                     </div>
                     <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
                         <div class="cardapio-item">
-                            <a href="consultoria-kitnets.php" title="">
+                            <a href="https://blog.laur.com.br/consultoria-kitnets.php" title="">
                                 <div class="cardapio-item-image">
-                                    <img src="blog/consultoria/consultoria-kitnets.jpg" alt=""/>   
+                                    <img src="blog/consultoria/consultoria-kitnets.jpg" alt="Pretende construir kitnets? Também prestamos consultoria!"/>   
                                 </div>
                                 <div class="item-info">     
                                     <div class="title" ><img src="img/logo/laurkitnet.png" width="125">
