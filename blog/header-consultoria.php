@@ -132,7 +132,7 @@
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
                             <div class="table-cell">
-                                <img src="img/menu/hamburguer.svg">
+                                <img src="img/menu/hamburguer.svg" alt="Botão hamburguer">
                             </div> 
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                     <div class="sliding-header-menu-close-button small-12 columns">
                         <div class="table">
                             <div class="table-cell">
-                                <img class="close-icon" src="img/menu/close.svg">
+                                <img class="close-icon" src="img/menu/close.svg" alt="Fechar">
                             </div>	
                         </div>	
                     </div>
