@@ -258,7 +258,7 @@
 
                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
                     <div class="cardapio-item">
-                        <a href="home-office.php" title="Home office">  
+                        <a href="https://blog.laur.com.br/home-office.php" title="Home office">  
                             <div class="cardapio-item-image">
                                 <img src="blog/home-office/kitnet-home-office.png" alt="Como nos adaptamos ao home office? | Laur Kitnets"/>   
                             </div>
@@ -275,7 +275,7 @@
                     </div>
                 <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
                         <div class="cardapio-item">
-                            <a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php" title="Você sabe qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e co-living?">
+                            <a href="https://blog.laur.com.br/qual-a-diferenca-entre-kitnets-studio-jk-loft-flat-republica-e-apartamento.php" title="Você sabe qual a diferença entre Kitnet, Studio, Loft, Flat, JK, republica e co-living?">
                                 <div class="cardapio-item-image">
                                     <img src="blog/img/flat.png" alt="Qual a diferença entre kitnets, studios, coliving e derivados"/>   
                                 </div>

@@ -90,8 +90,8 @@
                         background-color: orange;
                     }
                 </style>
-
-                <div class="product-picture small-12 large-7 columns no-padding">
+                
+                <div class="responsive-embed">
                     <iframe class="product-picture small-12 large-7 columns no-padding"
                         width="460" 
                         height="315" 
@@ -102,6 +102,9 @@
                         allowfullscreen
                         id="iframe">
                     </iframe>
+                </div>
+                <div class="product-picture small-12 large-7 columns no-padding">
+                
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-1.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-2.jpg" alt="Kitnet grande no butantã próximo ao Metrô / USP" title="Foto da kitnet grande no butantã próximo ao Metrô / USP"> <br> <br>
