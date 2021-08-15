@@ -174,7 +174,7 @@
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="https://blog.laur.com.br">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <a href="https://api.whatsapp.com/send?phone=5511952286097&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"></li></a>
+                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
                                 </ul>
                             </div>

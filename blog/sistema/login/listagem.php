@@ -86,6 +86,16 @@
                 </a>
                 <img src="images/cadastro.png">
             </div>
+            <div>
+                <iframe 
+                    width="600" 
+                    height="700" 
+                    src="https://datastudio.google.com/embed/reporting/f6644dc1-6eb8-46c4-a1f1-f90c5ded57b0/page/IyxXC" 
+                    frameborder="0" 
+                    style="border:0" 
+                    allowfullscreen>
+                </iframe>
+            </div>
 
             <div>    
                 

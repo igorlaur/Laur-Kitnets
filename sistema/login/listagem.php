@@ -78,13 +78,21 @@
                         Timeline generator
                 </a>
             </div>
-
             <div>
                 <a href="https://docs.google.com/spreadsheets/d/1Xa28YRK1f1CBiILSAw75qVxI63pdizeCfSDVAUhtGGA/edit?usp=sharing"
                     target="_blank">
                     <h1>Planilha Dados Kitnets</h1>
                 </a>
-                <img src="images/cadastro.png">
+            </div>
+	        <div>
+                <iframe 
+                    width="100%" 
+                    height="2000" 
+                    src="https://datastudio.google.com/embed/reporting/f6644dc1-6eb8-46c4-a1f1-f90c5ded57b0/page/IyxXC" 
+                    frameborder="0" 
+                    style="border:0" 
+                    allowfullscreen>
+                </iframe>
             </div>
 
             <div>    
