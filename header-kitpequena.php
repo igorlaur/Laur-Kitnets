@@ -18,6 +18,7 @@
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
         kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, morar usp, laur, laur kitnets"> 
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
+        <meta name="description" content="Você está a procura de uma kitnet econômica no Butantã? Essa kitnet é perfeita para você e com tudo incluso.">
         <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
         <meta property="og:title" content="Está a procura de kitnet? Temos o local ideal! | Laur's Kitnets">
         <meta property="og:description" content="Estamos desde 2007 no Butantã. Vamos ajudar você conseguir o local ideal para viver!">
@@ -91,7 +92,7 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Studio</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
@@ -128,7 +129,7 @@
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
                             <div class="table-cell">
-                                <img src="img/menu/hamburguer.svg">
+                                <img src="img/menu/hamburguer.svg" alt="Hamburguer">
                             </div> 
                         </div>
                     </div>
@@ -144,7 +145,7 @@
                     <div class="sliding-header-menu-close-button small-12 columns">
                         <div class="table">
                             <div class="table-cell">
-                                <img class="close-icon" src="img/menu/close.svg">
+                                <img class="close-icon" src="img/menu/close.svg" alt="Fechar">
                             </div>	
                         </div>	
                     </div>
@@ -162,7 +163,7 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Studio</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
@@ -174,7 +175,7 @@
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="blog.php">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
+                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
                                 </ul>
                             </div>

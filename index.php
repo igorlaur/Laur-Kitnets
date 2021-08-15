@@ -222,7 +222,7 @@
                                 <img src="blog/home-office/kitnet-home-office.png" alt="Como nos adaptamos ao home office? | Laur Kitnets"/>   
                             </div>
                             <div class="item-info">
-                                <div class="title"> <img src="img/logo/laurkitnet.png" width="125">
+                                <div class="title"> <img src="img/logo/laurkitnet.png" width="125" alt="Logo">
                                     <p>Veja como adaptamos nossas kitnets para o Home Office e a qualidade de vida aos moradores.</p>
                                 </div>
                             </div>

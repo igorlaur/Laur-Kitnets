@@ -17,6 +17,8 @@
         kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
         alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
         kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, morar usp, laur, laur kitnets"> 
+        <meta name="description" content="Está a procura de kitnet? Vamos ajudar você a conseguir o local ideal para viver! Também prestamos
+        consultoria para construção.">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
         <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
         <meta property="og:title" content="Está a procura de kitnet? Temos o local ideal! | Laur's Kitnets">
