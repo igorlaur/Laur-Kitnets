@@ -254,7 +254,7 @@
                                     <img src="blog/consultoria/consultoria-kitnets.jpg" alt="Pretende construir kitnets? Também prestamos consultoria!"/>   
                                 </div>
                                 <div class="item-info">     
-                                    <div class="title" ><img src="img/logo/laurkitnet.png" width="125">
+                                    <div class="title" ><img src="img/logo/laurkitnet.png" alt="Logo" width="125">
                                     <p>Pretende construir kitnets? Também prestamos consultoria!</p>
                                     </div> 
                                 </div>

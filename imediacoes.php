@@ -32,7 +32,7 @@
                                     <div class="item-info">
                                         
                                     
-                                    <div class="title"><img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                    <div class="title"><img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                         10 min - Universidade de São Paulo (USP)</div>
                                     </div>
 
@@ -54,7 +54,7 @@
                                     <div class="item-info">
                                         
                                     
-                                        <div class="title"><img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                        <div class="title"><img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                             10 min - Universidade São Judas Tadeu (USJT)</div>
                                         </div>
 
@@ -76,7 +76,7 @@
                                     <div class="item-info">
                                         
                                     
-                                        <div class="title"><img src="img/social-icons/bus.png" width="40"> 15 min - UNIP Pinheiros</div>
+                                        <div class="title"><img src="img/social-icons/bus.png" alt="Ônibus" width="40"> 15 min - UNIP Pinheiros</div>
                                     </div>
 
                                     <div class="gradient-filter">
@@ -104,7 +104,7 @@
                                     </div>
 
                                     <div class="item-info">
-                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                         <div class="title">1 min - Ponto de ônibus</div>
                                     </div>
 
@@ -125,8 +125,8 @@
 
                                     <div class="item-info">
                                         
-                                        <div id="bus" class="title"><img src="img/social-icons/bus.png" width="40">  
-                                        <img id="bike" src="img/social-icons/bike.png" width="50">
+                                        <div id="bus" class="title"><img src="img/social-icons/bus.png" alt="Ônibus" width="40" alt="Ônibus">  
+                                        <img id="bike" src="img/social-icons/bike.png" alt="Bike" width="50">
                                             3 a 5 min - Metrô Butantã
                                         </div>
                                         <style>
@@ -163,7 +163,7 @@
                                     </div>
 
                                     <div class="item-info">
-                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                         <div class="title">15 segundos - Farmácia Droga Raia</div>
                                     </div>
 
@@ -183,7 +183,7 @@
                                     </div>
 
                                     <div class="item-info">
-                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                         <div class="title">1 minuto - Sacolão Oba - $$$</div>
                                     </div>
 
@@ -203,7 +203,7 @@
                                     </div>
 
                                     <div class="item-info">
-                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50"/>
+                                        <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50"/>
                                         <div class="title">5 minutos - Mercado Violeta - $$</div>
                                     </div>
 
@@ -231,7 +231,7 @@
                                             </div>
     
                                             <div class="item-info">
-                                                <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                                <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                                 <div class="title">5 minutos - Pizzaria Kadalora</div>
                                             </div>
     
@@ -249,7 +249,7 @@
                                             </div>
     
                                             <div class="item-info">
-                                                <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                                <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                                 <div class="title">10 minutos - McDonald's</div>
                                             </div>
     
@@ -268,7 +268,7 @@
                                             </div>
     
                                             <div class="item-info">
-                                                <img src="img/social-icons/bus.png" width="50">
+                                                <img src="img/social-icons/bus.png" alt="Ônibus" width="50">
                                                 <div class="title">10 minutos - Shopping Eldorado</div>
                                             </div>
     
@@ -288,7 +288,7 @@
                                             </div>
     
                                             <div class="item-info">
-                                                <img src="img/social-icons/bus.png" width="50">
+                                                <img src="img/social-icons/bus.png" alt="Ônibus" width="50">
                                                 <div class="title">10 minutos - Vila Butantan</div>
                                             </div>
     
@@ -319,7 +319,7 @@
                                         </div>
 
                                         <div class="item-info">
-                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                             <div class="title">1 minuto - Correios</div>
                                         </div>
 
@@ -337,7 +337,7 @@
                                         </div>
 
                                         <div class="item-info">
-                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                             <div class="title">2 minutos - Banco Itaú</div>
                                         </div>
 
@@ -355,7 +355,7 @@
                                         </div>
 
                                         <div class="item-info">
-                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                             <div class="title">3 minutos - Banco Santander</div>
                                         </div>
 
@@ -373,7 +373,7 @@
                                         </div>
 
                                         <div class="item-info">
-                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" alt="Correndo" width="50">
                                             <div class="title">8 minutos - Fórum Butantã</div>
                                         </div>
 
@@ -391,7 +391,7 @@
                                         </div>
 
                                         <div class="item-info">
-                                            <img src="img/social-icons/runer-silhouette-running-fast.svg" width="50">
+                                            <img src="img/social-icons/runer-silhouette-running-fast.svg"alt="Correndo" width="50">
                                             <div class="title">10 minutos - Instituto Butantan</div>
                                         </div>
 

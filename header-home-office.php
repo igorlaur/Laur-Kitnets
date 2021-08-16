@@ -132,7 +132,7 @@
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
                             <div class="table-cell">
-                                <img src="img/menu/hamburguer.svg">
+                                <img src="img/menu/hamburguer.svg" alt="Hamburguer">
                             </div> 
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                     <div class="sliding-header-menu-close-button small-12 columns">
                         <div class="table">
                             <div class="table-cell">
-                                <img class="close-icon" src="img/menu/close.svg">
+                                <img class="close-icon" src="img/menu/close.svg" alt="Fechar">
                             </div>	
                         </div>	
                     </div>
@@ -179,7 +179,7 @@
                                     <li><a href="reserva.php">Reserva</a></li>
                                     <li><a href="https://blog.laur.com.br">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img"></li></a>
+                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
                                 </ul>
                             </div>
@@ -187,7 +187,6 @@
                     </div>                           
                 </div>
             </div>
-
         </header>
     
    

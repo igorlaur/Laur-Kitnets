@@ -49,10 +49,11 @@
     }
 ?>
 <!doctype html>
-<html>
+<html title="Sistema de login">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Gerencial de Laur's Kitnets"
         <title>Laur's Kitnets | Login</title>
         
         <!-- estilo -->

@@ -1,4 +1,3 @@
-<!--HEADER DA DIFERENÇA ENTRE KITNET E STUDIO-->
 <!DOCTYPE html>
 <?php date_default_timezone_set('America/Sao_Paulo'); ?> <!-- Definido fuso horário São Paulo, coloquei
                                                             no header e antes do html significa que qualquer
@@ -11,27 +10,26 @@
             <!-- Google -->
         <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
         <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
-            <!-- Bing -->
+            <!-- Bing-->
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
-            <!-- SEO -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
-        <meta name="Keywords"   content="viver de kitnet, moradia com qualidade de vida, kitnet home office, Como construir kitnet, renda passiva, projeto de kitnets">
-        <meta name="title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta name="description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!"> 
-        <meta property="og:locale" content="pt_BR">
-        <meta property="og:type" content="article">
-        <meta property="og:title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta property="og:description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!">
-        <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://laur.com.br/consultoria-kitnets.php">
-        <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
-        <meta property="og:image:alt" content="Consultoria para investimento de Kitnets.">
-        <meta property="og:updated_time" content="1610926459">
-        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
+        <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
+        kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, morar usp, laur, laur kitnets"> 
+        <meta name="description" content="Está a procura de kitnet? Vamos ajudar você a conseguir o local ideal para viver! Também prestamos
+        consultoria para construção.">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
-            <!-- Meta de Reload da página -->
-        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
+        <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
+        <meta property="og:title" content="Está a procura de kitnet? Temos o local ideal! | Laur's Kitnets">
+        <meta property="og:description" content="Estamos desde 2007 no Butantã. Vamos ajudar você conseguir o local ideal para viver!">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://laur.com.br">
+
+        <script>
+
+        </script>
+        
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>
@@ -41,6 +39,7 @@
 
         gtag('config', 'UA-125555309-1');
         </script>
+            <!-- End Google Analytics -->
         
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -51,6 +50,7 @@
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
         <?php include 'shortcut.html'; ?>
         <script src="js/vendor/modernizr.js"></script>
+
             <!-- Hotjar Tracking Code for https://laur.com.br -->
         <script>
             (function(h,o,t,j,a,r){
@@ -65,7 +65,7 @@
     </head>
     
     <body>
-
+        <?php include 'facebook_sdk.php'; ?>
 
         <header>
             
@@ -74,7 +74,7 @@
                 <div class="global-page-container">
                 
                     <div class="logo small-6 small-offset-3 large-3 large-offset-0 columns no-padding">
-                        <a href="https://laur.com.br/" title="home">
+                        <a href="index.php" title="home">
                             <div class="table">
                                 <div class="table-cell">
                                     <h1 id="kitnet">Laur's Kitnets USP</h1>
@@ -94,19 +94,18 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Studio</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
-                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <li><a href="blog.php" id="button">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br" id="button">Blog</a></li>
                                     <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                    <!-- <li><a href="login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a> -->
                                 </ul>
@@ -115,24 +114,23 @@
                     </div>
                     <script src="jquery-3.2.1.min.js"></script>
                     <script>
-        $(function () {
-            $('li #sobre').click(function (e) {
-				$('html, body').animate({ scrollTop: $('#about-us').offset().top}, 1000); // Adaptando ao heigh
-            });
-            $('li #contato').click(function (e) {
-                $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000);
-            });
-            $('#home').click(function (e) {
-                $('html, body').animate({ scrollToP: $('#home').offset().top}, 1000);
-            });
-        });
-
-    </script>
+                        $(function () {
+                            $('li #sobre').click(function (e) {
+                                $('html, body').animate({ scrollTop: $('#about-us').offset().top}, 1000); // Adaptando ao heigh
+                            });
+                            $('li #contato').click(function (e) {
+                                $('html, body').animate({ scrollTop: $('#footer').offset().top}, 1000);
+                            });
+                            $('#home').click(function (e) {
+                                $('html, body').animate({ scrollToP: $('#home').offset().top}, 1000);
+                            });
+                        });
+                    </script>
                     
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
                             <div class="table-cell">
-                                <img src="img/menu/hamburguer.svg" alt="Botão hamburguer">
+                                <img src="img/menu/hamburguer.svg" alt="hamburguer">
                             </div> 
                         </div>
                     </div>
@@ -166,20 +164,19 @@
                                             Nossas Kitnets
                                         </a>
                                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Studio</a>
+                                            <a class="dropdown-item" wm-link="kitnet-luxo.php" id="indisp">Kitnet Luxo</a>
                                             <div class="dropdown-divider"></div>
                                             <a class="dropdown-item" wm-link="kitnet-grande.php" id="indisp">Kitnet Grande</a>
                                             <a class="dropdown-item" wm-link="kitnet-media.php" id="indisp">Kitnet Média</a>
                                             <a class="dropdown-item" wm-link="kitnet-pequena.php" id="indisp">Kitnet Pequena</a>
                                         </div>
                                     </li>
-                                    <li><a href="qual-a-diferenca-entre-kitnets-studio-jk-loft-republica-e-apartamento.php#kitnet" id="kitnet">Nossas Kitnets</a></li>
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"></li></a>
+                                    <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"> Whatsapp <img src="img/social-icons/whatsapp.svg" width="25" id="img" alt="Whatsapp"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
                                 </ul>
                             </div>
@@ -200,7 +197,6 @@
     <!-- End Header Fixo -->
 
     <!-- padding 3 -->
-    <script src="jquery-3.2.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/navegacao.js"></script>
