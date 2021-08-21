@@ -52,7 +52,7 @@
                     </br> </br>
                     <p> 
                             Olá, investidor(a)! Temos experiência com construções e compra de imóveis voltadas para aluguel, como kitnets, studios e 
-                        repúblicas desde 1984 em São Paulo. Começamos com imóveis no edifício Copan, Praça Roosvelt e Nestor Pestana. 
+                        repúblicas desde 1984 em São Paulo. Começamos com imóveis na Martinho Prado, Avanhandava e Nestor Prestana (todos nas proximidades da Praça Roosevelt). 
                         Após alguns anos fundamos a Laur's Kitnets, em 2007, no qual atualmente trabalhamos com kitnets na região do Butantã.
                     </p>
                     <p>
@@ -65,15 +65,17 @@
                         <li>Construção & infraestrutura</li>
                             <ul>- Modelos de construção;</ul>
                             <ul>- Adaptação para o home office;</ul>
-                            <ul>- Tecnologias utilizadas.</ul>
+                            <ul>- Auxílio com infraestrutura de rede com Access Points;
                         <li>Método de locação;</li>
                             <ul>- O inquilino ideal;</ul>
                             <ul>- Sistema de locação;</ul>
                             <ul>- Regulamento com o decorrer de mais de 35 anos de experiência.</ul>
                         <li>Modos de divulgação;</li>
                             <ul>- Métodos de divulgação;</ul>
+                            <ul>- Ferramentas para merketing;</ul>
                             <ul>- Desenvolvimento de materiais para divulgação;</ul>
-                            <ul>- Plataformas para divulgação;</ul>
+                            <ul>- Plataformas para divulgação com auxílio de nossos gráficos;</ul>
+                        <li>Sistema para gestão das kitnets;</li>
                         <li>Qualidade de vida aos inquilinos;</li>
                         <li>Retorno financeiro.</li>
                     </ol>
