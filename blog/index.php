@@ -1,4 +1,5 @@
 <?php include 'header-blog.php'; ?>
+<?php include 'icones-contato.php'; ?>
 <html class="no-js" lang="pt-br">
 <body>
     <div class="about-us small-11 large-12 columns no-padding small-centered" id="about-us">
