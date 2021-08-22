@@ -52,7 +52,7 @@
                     </br> </br>
                     <p> 
                             Olá, investidor(a)! Temos experiência com construções e compra de imóveis voltadas para aluguel, como kitnets, studios e 
-                        repúblicas desde 1984 em São Paulo. Começamos com imóveis na Martinho Prado, Avanhandava e Nestor Prestana (todos nas proximidades da Praça Roosevelt). 
+                        repúblicas desde 1984, em São Paulo. Começamos com imóveis na Martinho Prado, Avanhandava e Nestor Prestana (todos nas proximidades da Praça Roosevelt). 
                         Após alguns anos fundamos a Laur's Kitnets, em 2007, no qual atualmente trabalhamos com kitnets na região do Butantã.
                     </p>
                     <p>
