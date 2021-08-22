@@ -22,8 +22,8 @@
                     <p>
                         Av. Corifeu de Azevedo Marques, 929<br>
                         São Paulo/SP<br>
-                        <a id="tel" class="horario-aberto" href="tel:11952286097" title="Telefone">
-                        T. (11) 95228-6097</a><br>
+                        <a id="tel" class="horario-aberto" href="tel:11966306867" title="Telefone">
+                        T. (11) 96630-6867</a><br>
                         <style>
                             a#tel:hover{
                                 color: green; 
