@@ -26,6 +26,7 @@
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
         <meta name="Keywords"   content="imobiliaria, studio, kitnet, flat, jk, republica moradia, loft, apartamento">
+        <meta name="title" content="Blog - Laur's Kitnets USP">
         <meta name="description" content="Blog sobre curiosidades relacionado a imóveis e mercado imobiliário."> 
         <meta property="og:locale" content="pt_BR">
         <meta property="og:type" content="article">
