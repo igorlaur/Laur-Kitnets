@@ -65,17 +65,22 @@
                         <li>Construção & infraestrutura</li>
                             <ul>- Modelos de construção;</ul>
                             <ul>- Adaptação para o home office;</ul>
-                            <ul>- Auxílio com infraestrutura de rede com Access Points;
+                            <ul>- Auxílio com infraestrutura de rede com Access Points;</ul>
                         <li>Método de locação;</li>
                             <ul>- O inquilino ideal;</ul>
                             <ul>- Sistema de locação;</ul>
                             <ul>- Regulamento com o decorrer de mais de 35 anos de experiência.</ul>
                         <li>Modos de divulgação;</li>
                             <ul>- Métodos de divulgação;</ul>
-                            <ul>- Ferramentas para merketing;</ul>
+                            <ul>- Ferramentas para marketing;</ul>
                             <ul>- Desenvolvimento de materiais para divulgação;</ul>
                             <ul>- Plataformas para divulgação com auxílio de nossos gráficos;</ul>
-                        <li>Sistema para gestão das kitnets;</li>
+                        <li>Tecnologia</li>
+                            <ul>- Sistema para gestão das kitnets;</ul>
+                            <ul>- Site</ul>
+                            <ul>- Dashboard (Controle em gráficos e tabelas referente ao pagamento e dados dos inquilinos)</ul> 
+                            <ul>- Dashboard (Gráficos de acessos de clientes no site)</ul>
+                        <li>Análise de crédito;</li>
                         <li>Qualidade de vida aos inquilinos;</li>
                         <li>Retorno financeiro.</li>
                     </ol>
