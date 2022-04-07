@@ -1,4 +1,3 @@
-<?php include 'header-blog.php'; ?>
 <?php include 'logica/aluguel.php'; ?>
 
 <div class="cardapio small-11 large-12 columns no-padding small-centered">
@@ -27,7 +26,7 @@
                                     
                                   
                                 <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                Studio (indisponível) </div>
+                                Kitnet Luxo <?php echo $indisponivel; ?> </div>
                                 </div>
                                 
                                 <div class="gradient-filter">
@@ -43,7 +42,7 @@
                             <a href="kitnet-grande.php" title="Kitnet Grande">
                                 
                                 <div class="cardapio-item-image">
-                                    <img src="img/kitnet/kitnet-grande/kitnet-butanta-grande-tv.jpeg" alt="Kitnet grande no Butantã USP"/>   
+                                    <img src="img/kitnet/kitnet-grande/quinto-andar/kitnet-butanta-grande-1.jpg" alt="Kitnet grande no Butantã USP"/>   
                                 </div>
 
                                 <div class="item-info">
@@ -69,7 +68,7 @@
                                 <div class="item-info">
                                     
                                 
-                                    <div class="title">Kitnet Média </div>
+                                    <div class="title">Kitnet Média <?php echo $indisponivel; ?></div>
                                 </div>
 
                                 <div class="gradient-filter">
@@ -92,7 +91,7 @@
                                     
                                 
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125"> 
-                                    Kitnet Pequena (disponibilidade em 04/01)
+                                    Kitnet Pequena <?php echo $indisponivel; ?>
                                     </div>
                                 </div>
 
@@ -111,9 +110,9 @@
 
     <style>
         #kitnetpequena div{
-            color: rgb(43, 255, 0);      /* Verde */
+            /* color: rgb(43, 255, 0);      /* Verde */
             /* color: rgb(254, 137, 0);        /* Laranja */
-            /* color: #ff0000;                   /* Vermelho */
+            color: #ff0000;                   /* Vermelho */
             /* color: #ffb329;            /* Laranja */ 
         }
         #kitnetmedia div{
@@ -124,8 +123,8 @@
         }
         #kitnetgrande div{
             /* color: rgb(43, 255, 0);    /* Verde */
-            color: rgb(254, 137, 0);   /* Laranja */
-            /* color: #ff0000;                /* Vermelho */
+            /* color: rgb(254, 137, 0);   /* Laranja */
+            color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{

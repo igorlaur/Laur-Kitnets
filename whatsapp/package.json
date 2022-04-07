@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "robo.js",
+  "scripts": {
+    "start": "node robo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Laur",
+  "license": "ISC",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.8.14"
+  }
+}

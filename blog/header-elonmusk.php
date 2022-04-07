@@ -15,19 +15,17 @@
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
             <!-- SEO -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
-        <meta name="Keywords"   content="viver de kitnet, moradia com qualidade de vida, kitnet home office, Como construir kitnet, renda passiva, projeto de kitnets">
-        <meta name="title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta name="description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!"> 
+        <meta name="Keywords"   content="elon musk, kitnet elon musk, studio elon musk, elon musk kitnet, kitnet curiosidade">
+        <meta name="title" content="Qual a diferença entre kitnet, jk, república, co-living | Laur's Kitnets">
+        <meta name="description" content="Conheça a Kitnet de Elon Musk! Um comodo interamente mobiliado com tudo necessário para morar."> 
         <meta property="og:locale" content="pt_BR">
         <meta property="og:type" content="article">
-        <meta property="og:title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta property="og:description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!">
+        <meta property="og:title" content="Você sabia? Elon Musk, um dos 10 homens mais ricos do mundo vive em uma kitnet de 36m²">
+        <meta property="og:description" content="Conheça a Kitnet de Elon Musk! Um comodo interamente mobiliado com tudo necessário para morar.">
         <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="https://laur.com.br/consultoria-kitnets.php">
-        <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
-        <meta property="og:image:alt" content="Consultoria para investimento de Kitnets.">
-        <meta property="og:updated_time" content="1610926459">
+        <meta property="og:url" content="https://laur.com.br/elonmusk.php">
+        <meta property="og:image" content="img/blog/elonmusk-kitnet/elon-musk-og.jpg">
         <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
             <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -153,6 +151,7 @@
                     
                 <!-- Mobile -->
                     <div class="sliding-header-menu-main-menu small-12 columns">
+
                         <div class="table">
                             <div class="table-cell">
                                 <ul class="sliding-header-menu-li">

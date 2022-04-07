@@ -105,7 +105,7 @@
             
         </div>
     </div>
-
+    </br></br>
     <div class="cardapio small-11 large-12 columns no-padding small-centered">
         <div class="global-page-container">
             <div class="cardapio-title small-12 columns no-padding">
@@ -124,7 +124,7 @@
                                 </div>
                                 <div class="item-info">               
                                     <div class="title" ><img src="img/social-icons/airbnb.png" width="125">
-                                        Studio <?php echo $indisponivel; ?> 
+                                        Kitnet Luxo <?php echo $indisponivel; ?> 
                                     </div>
                                     <div
                                         class="fb-like"
@@ -146,7 +146,7 @@
                                 </div>
                                 <div class="item-info">
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125">
-                                    Kitnet Grande (reservado recentemente) </div>
+                                    Kitnet Grande <?php echo $indisponivel; ?></div>
                                         <div
                                             class="fb-like"
                                             data-share="true"
@@ -205,6 +205,37 @@
             </div>
         </div>
     </div>
+    </br>
+    <div class="cardapio small-11 large-12 columns no-padding small-centered">
+        <div class="global-page-container">
+            <div class="cardapio-title small-12 columns no-padding">
+                <h3>NOSSOS PARCEIROS</h3>
+                <hr>
+            </div>
+        </div>
+        <div class="global-page-container">
+            <div class="slider-cardapio">
+                <div class="slider-002 small-12 small-centered columns">
+                    <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
+                        <div class="cardapio-item">
+                            <a href="https://laur.com.br/kitnet-indicacao.php" title="Kitnet">  
+                            <div class="cardapio-item-image">
+                                <img src="img/kitnet/kitnet-indicacao/kitnet.jpeg" alt="Conheça a nossa indicação de mais kitnets de outro proprietário"/>   
+                            </div>
+                            <div class="item-info">
+                                <div class="title"> <img src="img/logo/laurkitnet.png" width="125" alt="Logo">
+                                    <p>Kitnet - (Essa kitnet pertence a outro proprietário e está sujeito a alterações no regulamento)</p>
+                                </div>
+                            </div>
+                                <div class="gradient-filter">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="cardapio small-11 large-12 columns no-padding small-centered">
         <div class="global-page-container">
             <div class="cardapio-title small-12 columns no-padding">
@@ -256,6 +287,22 @@
                                 <div class="item-info">     
                                     <div class="title" ><img src="img/logo/laurkitnet.png" alt="Logo" width="125">
                                     <p>Pretende construir kitnets? Também prestamos consultoria!</p>
+                                    </div> 
+                                </div>
+                                <div class="gradient-filter">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="cardapio-item-outer bounce-hover small-10 medium-4 columns" id="blog"> 
+                        <div class="cardapio-item">
+                            <a href="https://blog.laur.com.br/elonmusk-kitnet.php" title="">
+                                <div class="cardapio-item-image">
+                                    <img src="blog/img/blog/elonmusk-kitnet/elon-musk.jpg" alt="Você sabia? Elon Musk, um dos 10 homens mais ricos do mundo vive em uma kitnet de 36m²."/>   
+                                </div>
+                                <div class="item-info">     
+                                    <div class="title" ><img src="img/logo/laurkitnet.png" alt="Logo" width="125">
+                                    <p>Você sabia? Elon Musk, um dos 10 homens mais ricos do mundo vive em uma kitnet de 36m².</p>
                                     </div> 
                                 </div>
                                 <div class="gradient-filter">
@@ -663,8 +710,8 @@
         }
         #kitnetgrande div{
             /* color: rgb(43, 255, 0);    /* Verde */
-            color: rgb(254, 137, 0);   /* Laranja */
-            /* color: #ff0000;                /* Vermelho */
+            /* color: rgb(254, 137, 0);   /* Laranja */
+            color: #ff0000;                /* Vermelho */
             /* color: #ffb329; */           /* Laranja */ 
         }
         #kitnetluxo div{

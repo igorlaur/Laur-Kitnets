@@ -1,4 +1,3 @@
-<!--HEADER DA DIFERENÇA ENTRE KITNET E STUDIO-->
 <!DOCTYPE html>
 <?php date_default_timezone_set('America/Sao_Paulo'); ?> <!-- Definido fuso horário São Paulo, coloquei
                                                             no header e antes do html significa que qualquer
@@ -11,25 +10,25 @@
             <!-- Google -->
         <meta name="google-site-verification" content="Zz_P93Oqu49C3Q7ey9q9g_nP6xBwik5xbRd4MPmF9lc" /> <!-- Verificação de propriedade Google Search -->
         <meta name="google-site-verification" content="UMk43ZVIFsv1vsH-M8ObZRQiQC5m4da6l-zLf1CzIYI" /> <!-- Verificação G-Suíte -->
-            <!-- Bing -->
+            <!-- Bing-->
         <meta name="msvalidate.01" content="F74D69D71B1D418C4A775B725E43A88F" />
-            <!-- SEO -->
         <meta name="generator"  content="VSCode">       <!-- Qual software que criou/gerou esta página? -->
-        <meta name="Keywords"   content="viver de kitnet, moradia com qualidade de vida, kitnet home office, Como construir kitnet, renda passiva, projeto de kitnets">
-        <meta name="title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta name="description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!"> 
-        <meta property="og:locale" content="pt_BR">
-        <meta property="og:type" content="article">
-        <meta property="og:title" content="Pretende investir em kitnets? Também prestamos consultoria! | Laur's Kitnets">
-        <meta property="og:description" content="Estamos desde 1984 investindo em kitnets. Veja passo a passo como é possível!">
-        <meta property="og:site_name" content="Laur's Kitnets Corifeu USP">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://laur.com.br/consultoria-kitnets.php">
-        <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
-        <meta property="og:image:alt" content="Consultoria para investimento de Kitnets.">
-        <meta property="og:updated_time" content="1610926459">
-        <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
+        <meta name="Keywords"   content="Kitnets executiva para alugar no Butantã, Kitnet mobiliada, kitnet usp, kitnets usp
+        kitnet próximo ao metro, kitnet sp, kitnet butanta, kitnet no butantã, kitnet proximo a usp, kitnet perto da usp,
+        alugar kitnet proximo ao metro, kit net, studio butanta, studio no butanta, quitinete butanta, kitnet luxo butanta, 
+        kitnet sp zona oeste, aluguel kitnet butanta usp, aluguel kitnet usp, morar usp, laur, laur kitnets"> 
+        <meta name="Description" content="Estamos desde 2007 no Butantã. Vamos ajudar você conseguir o local ideal para viver! Conheça nossas kitnets.">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
+        <meta property="og:image" content="https://laur.com.br/blog/consultoria/consultoria-kitnets-og.png">
+        <meta property="og:title" content="Está a procura de kitnet? Temos o local ideal! | Laur's Kitnets">
+        <meta property="og:description" content="Estamos desde 2007 no Butantã. Vamos ajudar você conseguir o local ideal para viver!">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://laur.com.br-kitnet-grande.php">
+
+        <script>
+
+        </script>
+        
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>
@@ -49,6 +48,7 @@
         <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
         <?php include 'shortcut.html'; ?>
         <script src="js/vendor/modernizr.js"></script>
+
             <!-- Hotjar Tracking Code for https://laur.com.br -->
         <script>
             (function(h,o,t,j,a,r){
@@ -63,7 +63,7 @@
     </head>
     
     <body>
-
+        <?php include 'facebook_sdk.php'; ?>
 
         <header>
             
@@ -72,7 +72,7 @@
                 <div class="global-page-container">
                 
                     <div class="logo small-6 small-offset-3 large-3 large-offset-0 columns no-padding">
-                        <a href="https://laur.com.br/" title="home">
+                        <a href="index.php" title="home">
                             <div class="table">
                                 <div class="table-cell">
                                     <h1 id="kitnet">Laur's Kitnets USP</h1>
@@ -103,7 +103,7 @@
                                     <li><a href="imediacoes.php" id="button">Imediações</a></li>
                                     <li><a href="reserva.php" id="button">Reserva</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
-                                    <li><a href="blog.php" id="button">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br" id="button">Blog</a></li>
                                     <li><a href="sistema/login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a>
                                    <!-- <li><a href="login/login.php" id="button">|&nbsp;&nbsp;&nbsp;&nbsp; Login</a> -->
                                 </ul>
@@ -129,7 +129,7 @@
                     <div class="hamburguer-icon small-2 columns text-right">
                         <div class="table">
                             <div class="table-cell">
-                                <img src="img/menu/hamburguer.svg" alt="Botão hamburguer">
+                                <img src="img/menu/hamburguer.svg" alt="Hamburguer">
                             </div> 
                         </div>
                     </div>
@@ -153,6 +153,7 @@
                     
                 <!-- Mobile -->
                     <div class="sliding-header-menu-main-menu small-12 columns">
+                        
                         <div class="table">
                             <div class="table-cell">
                                 <ul class="sliding-header-menu-li">
@@ -172,7 +173,7 @@
                                     <li><a href="index.php#about-us" id="sobre">Sobre</a></li>
                                     <li><a href="imediacoes.php">Imediações</a></li>
                                     <li><a href="reserva.php">Reserva</a></li>
-                                    <li><a href="blog.php">Blog</a></li>
+                                    <li><a href="https://blog.laur.com.br">Blog</a></li>
                                     <li><a href="index.php#footer" id="contato">Contato</a></li>
                                     <a href="https://api.whatsapp.com/send?phone=5511966306867&text=Olá,%20eu%20vim%20através%20do%20Site%20e%20tenho%20dúvida(s)%20referente%20a%20reserva%20de%20kitnet.%20Minha(s)%20dúvida(s)%20é(são): " target=blank><li><img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"> Whatsapp <img src="img/social-icons/whatsapp.svg" alt="Whatsapp" width="25" id="img"></li></a>
                                     <li><a class="clear button" href="sistema/login/login.php" id="login">Login/Entrar</a>
@@ -184,8 +185,6 @@
             </div>
 
         </header>
-    
-   
 
     <!-- Header Fixo -->
         <div class="ghost-element">
