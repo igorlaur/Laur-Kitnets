@@ -28,8 +28,6 @@
         <meta property="og:image" content="https://laur.com.br/blog/img/flat2.png">
         <meta property="article:publisher" content="https://facebook.com.br/laurkitnets/">
         <meta name="application-name" content="Laur's Kitnets Corifeu USP">
-            <!-- Meta de Reload da página -->
-        <meta http-equiv="refresh" content="500"> <!-- tempo  -->
             <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125555309-1"></script>
         <script>
