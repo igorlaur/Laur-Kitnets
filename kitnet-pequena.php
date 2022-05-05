@@ -115,7 +115,10 @@
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-quarto.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-quarto1.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-tv.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
-                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-ventilador.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-banheiro.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-banheiro2.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-banheiro3.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
+                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-banheiro4.webp" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                 </div>
                 <script>
                     $("img").attr("a");

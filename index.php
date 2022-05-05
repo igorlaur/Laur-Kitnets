@@ -183,7 +183,7 @@
                         <div class="cardapio-item">
                             <a href="kitnet-pequena.php" title="Kitnet Pequena">  
                                 <div class="cardapio-item-image">
-                                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena-porta.jpg" alt="Kitnet no Butantã USP"/>   
+                                    <img src="img/kitnet/kitnet-pequena/kitnet-butanta-pequena.webp" alt="Kitnet no Butantã USP"/>   
                                 </div>
                                 <div class="item-info">
                                     <div class="title"> <img src="img/social-icons/airbnb.png" width="125"> 
