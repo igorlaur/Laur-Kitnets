@@ -40,13 +40,12 @@
                 <div class="product-info small-12 large-5 columns no-padding">
                 <?php $kitmedia = array("kitnet-media" => array(
                     "contem" => "<li>Cama BOX;</li>
-                                <li> Assinatura Amazon Prime; </li>
+                                <li> Assinatura Netflix; </li>
                                 <li>Microondas, geladeira, fogão e armários.</li>
                                 <li>Ventilador;</li>
                                 <li>Internet fibra ótica 300mb (cabeada e wi-fi); </br> </br>",
-                    "bonus" => "<li> Netflix </li>
-                                <li> Assinatura Amazon Prime; </li> 
-                                <li> Cadeira executiva </li>
+                    "bonus" => "<li> Netflix; </li>
+                                <li> Cadeira executiva; </li>
                                 <li>Porcelanato;</li> 
                                 <li>Smart TV 32'';</li>  
                                 <li>Janela para rua;</li> </br> 
@@ -80,15 +79,25 @@
                     </div>
                     <br> <br>
                     
-                    <h5 class="text-success"><b>Preço: </b>R$ 1400.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 1450.00</h5>
                     </br>
                     <?php include 'botao-indisponibilidade.php'; ?>
                     </br></br>
                     <?php include 'botao_quinto-andar.php'; ?>
 
                 </div>
-                
-
+                <div class="responsive-embed">
+                    <iframe class="product-picture small-12 large-7 columns no-padding"
+                        width="460" 
+                        height="315" 
+                        src="https://www.youtube.com/embed/ZHx03CoIGJA" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen
+                        id="iframe">
+                    </iframe>
+                </div>
                 <div class="product-picture small-12 large-7 columns no-padding">
                     <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
                     <img src="img/kitnet/kitnet-media/quinto_andar/kitnet-butanta-media1.jpeg" alt="Kitnet no butantã próximo ao Metrô / USP" title="Foto da Kitnet no butantã próximo ao Metrô / USP"> <br> <br>
