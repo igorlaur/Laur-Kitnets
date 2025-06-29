@@ -52,8 +52,8 @@
             <div class="product-section">
                 <div class="product-info small-12 large-5 columns no-padding">
                     <?php $kitluxo = array("kit-luxo" => array(
-                        "contem" => "<li>Cama BOX;</li> <li> Assinatura Amazon Prime; </li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
-                        "bonus" => "<li>Internet 300mb;</li> <li>Netflix;</li> <li>Smart TV 32'; <li>Ventilador;</li> <li>Cafeteira;</li> <li>Sofá;</li> <li>Sacada;</li> <li>Cozinha americana;</li><li>Assinatura Amazon Prime.</li>"
+                        "contem" => "<li>Cama BOX;</li> <li> Netflix; </li> <li>Microondas, geladeira, fogão, armários e gaveta com chave. <br> <br>",
+                        "bonus" => "<li>Internet 300mb;</li> <li>Netflix;</li> <li>Smart TV 32'; <li>Ventilador;</li> <li>Cafeteira;</li> <li>Sofá;</li> <li>Sacada;</li> <li>Cozinha americana;</li>"
                     )); ?>
 
                     <?php foreach ($kitluxo as $produto) { ?>
@@ -76,13 +76,12 @@
                     </div>
 
                     <br> <br>
-                    <h5 class="text-success"><b>Preço: </b>R$ 1800.00</h5>
+                    <h5 class="text-success"><b>Preço: </b>R$ 2400.00</h5>
                     <?php include "botao-indisponibilidade.php"; ?> 
                     <a href="https://bit.ly/2QRSgQq" target="blank"><button id="btnairbnb">Rerservar via Airbnb!</button></a> 
                     <br> <br>
                     <h5>*Apenas esta Kitnet é possível reservar via Airbnb</h5>
                 </div>
-
                 
                 <style>
                     #btn:hover{
